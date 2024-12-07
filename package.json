@@ -6,6 +6,7 @@
     "type": "module",
     "scripts": {
         "build": "node ./scripts/font-build.js",
+        "check": "node ./scripts/match.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
@@ -16,7 +17,6 @@
     "author": "shitake",
     "license": "MIT",
     "devDependencies": {
-        "glob-expand": "^0.2.1",
-        "webfont": "^8.1.4"
+        "webfont": "^8.2.1"
     }
 }
