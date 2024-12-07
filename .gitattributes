@@ -1,0 +1,36 @@
+* text=auto
+
+# itself
+*.gitattributes text eol=lf
+*.gitignore     text eol=lf
+*.md            text eol=lf
+*.LICENSE       text eol=lf
+*.template text diff=text
+*.in text eol=lf
+*.out text eol=lf
+
+# scripts
+*.sh text eol=lf
+*.bat text eol=crlf
+
+## language
+*.go eol=lf
+*.js eol=lf
+*.rs eol=lf
+*.toml eol=lf
+
+# These files are text and should be normalized (Convert crlf => lf)
+*.css           text diff=css
+*.df            text
+*.htm           text diff=html
+*.html          text diff=html
+*.js            text
+*.jsp           text
+*.jspf          text
+*.jspx          text
+*.properties    text
+*.tld           text
+*.tag           text
+*.tagx          text
+*.xml           text
+*.svg           text diff=svg
