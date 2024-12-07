@@ -17,6 +17,6 @@
     "author": "shitake",
     "license": "MIT",
     "devDependencies": {
-        "webfont": "^8.2.1"
+        "webfont": "^9.0.0"
     }
 }
