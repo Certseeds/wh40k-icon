@@ -36,11 +36,6 @@ Free to download Warhammer 40.000 icons as SVG/iconfont.
 | ![Librarius 01](./src/svgs/librarius-01.svg)                 | Librarius 01         | `wh40k-librarius-01`         |
 | ![Librarius 02](./src/svgs/librarius-02.svg)                 | Librarius 02         | `wh40k-librarius-02`         |
 | ![Adeptus Astartes](./src/svgs/adeptus-astartes.svg)         | Adeptus Astartes     | `wh40k-adeptus-astartes`     |
-| ![Angels of Retributio](./src/svgs/angels-of-retributio.svg) | Angels of Retributio | `wh40k-angels-of-retributio` |
-| ![Angels of Vengance](./src/svgs/angels-of-vengance.svg)     | Angels of Vengance   | `wh40k-angels-of-vengance`   |
-| ![Angels of Redemption](./src/svgs/angels-of-redemption.svg) | Angels of Redemption | `wh40k-angels-of-redemption` |
-| ![Angels of Vigilance](./src/svgs/angels-of-vigilance.svg)   | Angels of Vigilance  | `wh40k-angels-of-vigilance`  |
-| ![阿尔法军团](./src/svgs/alpha-legion.svg)                   | 阿尔法军团           | `wh40k-alpha-legion`         |
 
 *In pcocessing
 
@@ -58,19 +53,9 @@ N/A
 
 N/A
 
-### Chaos
-
-| Icon                                              | name          | font-class               |
-|---------------------------------------------------|---------------|--------------------------|
-| ![Khorne Symbol](./src/svgs/khorne-symbol-01.svg) | khorne Symbol | `wh40k-khorne-symbol-01` |
-
 *In pcocessing
 
 ### Xenos
-
-#### Orks
-
-N/A
 
 #### T’au Empire
 
