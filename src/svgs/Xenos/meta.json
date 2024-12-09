@@ -1,0 +1,30 @@
+[
+    {
+        "name": "blackstone-fortress.svg",
+        "cn": "黑石要塞",
+        "keywords": [
+            "Old Ones",
+            "Talisman of Vaul",
+            "Vaul",
+            "Gods"
+        ]
+    },
+    {
+        "name": "hrud.svg",
+        "cn": "赫鲁德",
+        "keywords": []
+    },
+    {
+        "name": "jokaero.svg",
+        "cn": "太空猿猴",
+        "keywords": [
+            "Slanni",
+            "Inquisition"
+        ]
+    },
+    {
+        "name": "xenos.svg",
+        "cn": "异形",
+        "keywords": []
+    }
+]
