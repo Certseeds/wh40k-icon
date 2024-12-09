@@ -9,7 +9,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const startDir = path.resolve(__dirname);
 const targetDir = findDirWithPkgJson(startDir) ?? "./../";
-const svgs = await findSvgFiles(targetDir + "/src");
+const svgs = await findSvgFiles(targetDir + "/src/svgs");
 
 const svgsFromREADME = await getSvgFilesFromREADME(path.join(targetDir, "README.md"));
 
