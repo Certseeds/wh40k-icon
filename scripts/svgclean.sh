@@ -19,6 +19,7 @@ main() {
         local newName5=$(echo "${newName4}" | tr ' ' '-')
         mv "${i}" "${i}.2"
         mv "${i}.2" "${newName5}.svg"
+        # TODO, remove xml line
     done
 }
 main

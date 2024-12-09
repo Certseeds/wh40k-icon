@@ -17,6 +17,7 @@ const findDirWithPkgJson = (startDir) => {
 
 const findSvgFiles = async (dir) => {
     const subObjects = await fsp.readdir(dir, { withFileTypes: true });
+    fs.readdirSync
     const objects = new Set();
     for (const subObject of subObjects) {
         if (subObject.isDirectory()) {

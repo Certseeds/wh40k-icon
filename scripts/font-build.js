@@ -4,43 +4,50 @@
 import fsp from 'node:fs/promises';
 import path from 'node:path';
 import { listSvgFiles } from './library.js';
-import webfont from 'webfont';
-//const webfont = require('webfont').default
+import svgtofont from 'svgtofont';
+import process from "node:process";
+const svgs = await listSvgFiles("./src/svgs");
+console.log(svgs.slice(0, 10));
+let _tempPath = './temp/temp';
 
-const svgs = await listSvgFiles("./src");
-console.log(svgs)
-
-const config = {
-    files: svgs,
-    fontName: 'warhammer40k',
-    baseClass: 'wh40k',
-    classPrefix: 'wh40k-',
-    fontHeight: 128,
-    normalize: true,
-    formats: ['svg', 'ttf', 'eot', 'woff', 'woff2'],
-    glyphTransformFn: obj => {
-        return obj
-    }
-}
 await fsp.mkdir('./dist', { recursive: true })
-
-webfont.default({
-    ...config,
-    template: path.join('./src/scss.hbs')
-}).then(async (result) => {
-    await fsp.writeFile(`dist/${result.config.fontName}.scss`, result.template)
-})
-
-webfont.default({
-    ...config,
-    template: path.join('./src/css.hbs')
-}).then(async (result) => {
-    await fsp.writeFile(`dist/${result.config.fontName}.css`, result.template)
-    await fsp.writeFile(`dist/${result.config.fontName}.svg`, result.svg)
-    await fsp.writeFile(`dist/${result.config.fontName}.ttf`, new Buffer.from(result.ttf))
-    await fsp.writeFile(`dist/${result.config.fontName}.eot`, new Buffer.from(result.eot))
-    await fsp.writeFile(`dist/${result.config.fontName}.woff`, new Buffer.from(result.woff))
-    await fsp.writeFile(`dist/${result.config.fontName}.woff2`, new Buffer.from(result.woff2))
-});
-
+    .then(() => {
+        return fsp.mkdir("./temp", { recursive: true })
+    }).then(() => {
+        return fsp.mkdtemp(`./temp/${Date.now()}`)
+    }).then((tempPath) => {
+        _tempPath = path.join(process.cwd(), tempPath);
+        return Promise.all(svgs.map(async (svg) => {
+            const newPath = path.join(_tempPath, path.basename(svg));
+            await fsp.copyFile(svg, newPath);
+            return newPath;
+        }))
+    }).then((svgPaths) => {
+        console.log(svgPaths.length);
+        const config = {
+            src: _tempPath, // svg path
+            dist: path.resolve(process.cwd(), 'dist'), // output path
+            fontName: 'warhammer40k',
+            classNamePrefix: "wh40k",
+            css: true, // Create CSS files.
+            startUnicode: 0x5678, // unicode start number
+            svgicons2svgfont: {
+                fontHeight: 1000,
+                normalize: true
+            },
+            log: true,
+            logger: (msg) => { console.log(msg); }
+        }
+        return svgtofont({
+            ...config
+        })
+    }).then(() => {
+        console.log(`remove ${_tempPath}`)
+        return fsp.rm(_tempPath, {
+            recursive: true,
+            force: true,
+            maxRetries: 10,
+            retryDelay: 1000,
+        });
+    });
 

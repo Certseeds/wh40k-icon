@@ -334,3 +334,4 @@ dist*/
 *.scss
 *.woff
 *.woff2
+temp/
