@@ -1,0 +1,356 @@
+[
+    {
+        "name": "air-caste.svg",
+        "cn": "气氏族",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Caste"
+        ]
+    },
+    {
+        "name": "autaal-sept.svg",
+        "cn": "奥塔尔家门世界",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Sept"
+        ]
+    },
+    {
+        "name": "borkan-sept.svg",
+        "cn": "博克安家门世界",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Sept"
+        ]
+    },
+    {
+        "name": "dalyth-sept.svg",
+        "cn": "道伊斯家门世界",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Sept"
+        ]
+    },
+    {
+        "name": "dyanoi-sept.svg",
+        "cn": "迪亚诺伊家门世界",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Sept"
+        ]
+    },
+    {
+        "name": "earth-caste.svg",
+        "cn": "土氏族",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Caste"
+        ]
+    },
+    {
+        "name": "elsyeir-sept.svg",
+        "cn": "埃尔西伊尔家门世界",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Sept"
+        ]
+    },
+    {
+        "name": "ethereal-caste.svg",
+        "cn": "以太氏族",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Caste"
+        ]
+    },
+    {
+        "name": "falshia-sept.svg",
+        "cn": "法尔什叶家门世界",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Sept"
+        ]
+    },
+    {
+        "name": "farsight-enclaves.svg",
+        "cn": "远见飞地",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au",
+            "Renegades"
+        ]
+    },
+    {
+        "name": "fesaan-sept.svg",
+        "cn": "菲桑恩家门世界",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Sept"
+        ]
+    },
+    {
+        "name": "fire-caste.svg",
+        "cn": "火氏族",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Caste"
+        ]
+    },
+    {
+        "name": "firios-sept.svg",
+        "cn": "菲里奥斯家门世界",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Sept"
+        ]
+    },
+    {
+        "name": "kelshan-sept.svg",
+        "cn": "克珊家门世界",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Sept"
+        ]
+    },
+    {
+        "name": "kortal-sept.svg",
+        "cn": "科尔塔尔家门世界",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Sept"
+        ]
+    },
+    {
+        "name": "kroot.svg",
+        "cn": "克鲁特",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Auxillaries"
+        ]
+    },
+    {
+        "name": "ksimyen-sept.svg",
+        "cn": "柯西迈恩家门世界",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Sept"
+        ]
+    },
+    {
+        "name": "mugulath-bay-sept.svg",
+        "cn": "穆古拉斯湾家门世界",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Sept"
+        ]
+    },
+    {
+        "name": "ndras-sept.svg",
+        "cn": "恩德拉斯家门世界",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Sept"
+        ]
+    },
+    {
+        "name": "sacea-sept.svg",
+        "cn": "萨恰家门世界",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Sept"
+        ]
+    },
+    {
+        "name": "tashvar-sept.svg",
+        "cn": "塔什瓦尔家门世界",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Sept"
+        ]
+    },
+    {
+        "name": "tau-num0.svg",
+        "cn": "钛-数字0",
+        "keywords": [
+            "T_au_va",
+            "Greater Good"
+        ]
+    },
+    {
+        "name": "tau-num1.svg",
+        "cn": "钛-数字0",
+        "keywords": [
+            "T_au_va",
+            "Greater Good"
+        ]
+    },
+    {
+        "name": "tau-num2.svg",
+        "cn": "钛-数字0",
+        "keywords": [
+            "T_au_va",
+            "Greater Good"
+        ]
+    },
+    {
+        "name": "tau-num3.svg",
+        "cn": "钛-数字0",
+        "keywords": [
+            "T_au_va",
+            "Greater Good"
+        ]
+    },
+    {
+        "name": "tau-num4.svg",
+        "cn": "钛-数字0",
+        "keywords": [
+            "T_au_va",
+            "Greater Good"
+        ]
+    },
+    {
+        "name": "tau-num5.svg",
+        "cn": "钛-数字0",
+        "keywords": [
+            "T_au_va",
+            "Greater Good"
+        ]
+    },
+    {
+        "name": "tau-num6.svg",
+        "cn": "钛-数字0",
+        "keywords": [
+            "T_au_va",
+            "Greater Good"
+        ]
+    },
+    {
+        "name": "tau-num7.svg",
+        "cn": "钛-数字0",
+        "keywords": [
+            "T_au_va",
+            "Greater Good"
+        ]
+    },
+    {
+        "name": "tau-sept.svg",
+        "cn": "钛星家门世界",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Sept"
+        ]
+    },
+    {
+        "name": "tau-sept-2.svg",
+        "cn": "钛星家门世界-2",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Sept"
+        ]
+    },
+    {
+        "name": "taun-sept.svg",
+        "cn": "钛恩家门世界",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Sept"
+        ]
+    },
+    {
+        "name": "tolku-sept.svg",
+        "cn": "提奥库家门世界",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Sept"
+        ]
+    },
+    {
+        "name": "vashya-sept.svg",
+        "cn": "瓦什亚家门世界",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Sept"
+        ]
+    },
+    {
+        "name": "viorla-sept.svg",
+        "cn": "维奥拉家门世界",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Sept"
+        ]
+    },
+    {
+        "name": "water-caste.svg",
+        "cn": "水氏族",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Caste"
+        ]
+    },
+    {
+        "name": "yovai-sept.svg",
+        "cn": "优瓦伊家门世界",
+        "keywords": [
+            "T_au_va",
+            "Greater Good",
+            "T_au Empire",
+            "Sept"
+        ]
+    }
+]

@@ -1,10 +1,22 @@
 {
     "keywords": {
-        "Old Ones": "古圣",
-        "Talisman of Vaul": "瓦尔的护身符",
-        "Vaul": "瓦尔",
-        "Gods": "神",
-        "Slanni": "史兰",
-        "Inquisition": "审判庭"
+        "Xenos": {
+            "Old Ones": "古圣",
+            "Talisman of Vaul": "瓦尔的护身符",
+            "Vaul": "瓦尔",
+            "Gods": "神",
+            "Slanni": "史兰",
+            "Inquisition": "审判庭"
+        },
+        "TauEmpire": {
+            "T_au": "钛",
+            "T_au_va": "钛瓦",
+            "Greater Good": "上上善道",
+            "T_au Empire": "钛帝国",
+            "Caste": "种姓",
+            "Renegades": "远见飞地",
+            "Sept": "家门世界",
+            "Auxillaries": "辅助军"
+        }
     }
 }
