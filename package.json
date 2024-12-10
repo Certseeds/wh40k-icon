@@ -15,7 +15,7 @@
         "font"
     ],
     "author": "shitake",
-    "license": "MIT",
+    "license": "(OFL-1.1-RFN AND AGPL-3.0-or-later AND CC-BY-NC-SA-4.0)",
     "devDependencies": {
         "svgtofont": "^6.2.0"
     }

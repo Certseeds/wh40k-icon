@@ -30,7 +30,7 @@ await fsp.mkdir('./dist', { recursive: true })
             fontName: 'warhammer40k',
             classNamePrefix: "wh40k",
             css: true, // Create CSS files.
-            startUnicode: 0x5678, // unicode start number
+            startUnicode: 0x6789, // you already knew that
             svgicons2svgfont: {
                 fontHeight: 1000,
                 normalize: true

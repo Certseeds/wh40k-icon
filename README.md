@@ -8,7 +8,8 @@ Free to download Warhammer 40.000 icons as SVG/iconfont.
 
 + 变更过的代码遵守AGPL-3.0-or-later协议
 + 文档遵守CC-BY-NC-SA-4.0-or-later协议
-+ 发布的产物遵守AGPL-3.0-or-later协议
++ 发布的产物中的字体文件遵守OFL-1.1-RFN协议
++ 发布的产物中非字体文件遵守CC-BY-NC-SA-4.0-or-later协议
 
 ## IconFont
 
