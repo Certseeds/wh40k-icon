@@ -17,6 +17,14 @@
             "Renegades": "远见飞地",
             "Sept": "家门世界",
             "Auxillaries": "辅助军"
+        },
+        "Necrons": {
+            "Yngir": "灵族泛指星神-太空死灵",
+            "Star Gods": "星神",
+            "Necrontyr": "惧亡者",
+            "Necrons": "太空死灵",
+            "Dynasty": "王朝",
+            "Glyphs": "徽记"
         }
     }
 }
