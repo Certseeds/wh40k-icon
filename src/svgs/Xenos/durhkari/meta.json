@@ -1,0 +1,85 @@
+[
+    {
+        "name": "cult-of-strife.svg",
+        "cn": "争斗教派",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Wych Cult",
+            "Hekatarii"
+        ]
+    },
+    {
+        "name": "dark-eldar.svg",
+        "cn": "黑暗灵族",
+        "keywords": [
+            "Aeldari",
+            "Dark Eldar"
+        ]
+    },
+    {
+        "name": "drukhari-1.svg",
+        "cn": "黑暗灵族-1",
+        "keywords": [
+            "Aeldari",
+            "Dark Eldar"
+        ]
+    },
+    {
+        "name": "drukhari-2.svg",
+        "cn": "黑暗灵族-2",
+        "keywords": [
+            "Aeldari",
+            "Dark Eldar"
+        ]
+    },
+    {
+        "name": "drukhari-3.svg",
+        "cn": "黑暗灵族-3",
+        "keywords": [
+            "Aeldari",
+            "Dark Eldar",
+            "Soul Drinkers"
+        ]
+    },
+    {
+        "name": "drukhari-4.svg",
+        "cn": "黑暗灵族-4",
+        "keywords": [
+            "Aeldari",
+            "Dark Eldar",
+            "Soul Drinkers"
+        ]
+    },
+    {
+        "name": "kabal-of-the-black-heart.svg",
+        "cn": "黑心阴谋团",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Kabal"
+        ]
+    },
+    {
+        "name": "kabal-of-the-flayed-skull.svg",
+        "cn": "剥皮头骨阴谋团",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Kabal"
+        ]
+    },
+    {
+        "name": "prophets-of-flesh.svg",
+        "cn": "血肉先知巫会",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Haemonculus Covens"
+        ]
+    }
+]

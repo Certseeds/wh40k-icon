@@ -25,6 +25,26 @@
             "Necrons": "太空死灵",
             "Dynasty": "王朝",
             "Glyphs": "徽记"
+        },
+        "eldar": {
+            "Eldar": "灵族",
+            "Eye of Asuryan": "阿苏焉之眼",
+            "Gods": "神",
+            "Aeldari": "艾达灵族",
+            "Asuryani": "阿苏焉尼",
+            "Craftworlds": "方舟世界",
+            "Aspect Warriors": "支派武士",
+            "Rillietann": "丑角",
+            "Rangers": "道途"
+        },
+        "durhkari": {
+            "Aeldari": "艾达灵族",
+            "Drukhari": "黑暗灵族",
+            "Dark Eldar": "黑暗灵族",
+            "Wych Cult": "巫灵教派",
+            "Soul Drinkers": "饮魂者",
+            "Kabal": "阴谋团",
+            "Haemonculus Covens": "血伶人巫会"
         }
     }
 }
