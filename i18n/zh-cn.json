@@ -6,7 +6,9 @@
             "Vaul": "瓦尔",
             "Gods": "神",
             "Slanni": "史兰",
-            "Inquisition": "审判庭"
+            "Inquisition": "审判庭",
+            "Hive Mind": "蜂巢心智",
+            "Hive Fleets": "蜂巢舰队"
         },
         "TauEmpire": {
             "T_au": "钛",
@@ -45,6 +47,21 @@
             "Soul Drinkers": "饮魂者",
             "Kabal": "阴谋团",
             "Haemonculus Covens": "血伶人巫会"
+        },
+        "genestealer_cult": {
+            "Hive Mind": "蜂巢心智",
+            "Tyranids": "泰伦虫族",
+            "Genestealer Cults": "基因窃取者邪教",
+            "Genestealers": "基因窃取者"
+        },
+        "ork": {
+            "Orkoids": "兽人种",
+            "Orks": "兽人",
+            "Clan": "氏族",
+            "Gork": "搞哥",
+            "Mork": "毛哥",
+            "Gods": "神",
+            "Grotz": "屁精"
         }
     }
 }

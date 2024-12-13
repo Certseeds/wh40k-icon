@@ -58,19 +58,29 @@ N/A
 
 ### Xenos
 
-#### T’au Empire
+TODO
+
+#### Durhkari
 
 TODO
 
-#### Tyranids
+#### Eldar
 
-N/A
+TODO
+
+#### Genestealer Cult
+
+TODO
 
 #### Necrons
 
 TODO
 
-#### Eldar
+#### Orks
+
+TODO
+
+#### T’au Empire
 
 TODO
 

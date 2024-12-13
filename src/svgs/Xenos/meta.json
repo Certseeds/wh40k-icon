@@ -26,5 +26,13 @@
         "name": "xenos.svg",
         "cn": "异形",
         "keywords": []
+    },
+    {
+        "name": "tyranids.svg",
+        "cn": "泰伦虫族",
+        "keywords": [
+            "Hive Mind",
+            "Hive Fleets"
+        ]
     }
 ]

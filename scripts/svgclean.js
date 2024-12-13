@@ -19,7 +19,7 @@ const main = async () => {
         await exec(`xmllint --format "${file}" -o "${file}"`);
 
         const newName = file
-            .replace(/\[[^]]*\]/g, '')
+            .replace(/\[([\s\S]+)\]/g, '')
             .replace('.svg', '')
             .trim()
             .toLowerCase()
