@@ -1,5 +1,175 @@
 [
     {
+        "name": "coven-of-the-altered-1.svg",
+        "cn": "变化者巫会-1",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Haemonculus Covens"
+        ]
+    },
+    {
+        "name": "coven-of-the-altered-2.svg",
+        "cn": "变化者巫会-2",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Haemonculus Covens"
+        ]
+    },
+    {
+        "name": "coven-of-the-black-descent-1.svg",
+        "cn": "黑色血统巫会-1",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Haemonculus Covens"
+        ]
+    },
+    {
+        "name": "coven-of-the-black-descent-2.svg",
+        "cn": "黑色血统巫会-2",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Haemonculus Covens"
+        ]
+    },
+    {
+        "name": "coven-of-the-dark-creed-1.svg",
+        "cn": "黑暗教义巫会-1",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Haemonculus Covens"
+        ]
+    },
+    {
+        "name": "coven-of-the-dark-creed-2.svg",
+        "cn": "黑暗教义巫会-2",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Haemonculus Covens"
+        ]
+    },
+    {
+        "name": "coven-of-the-ebon-sting-1.svg",
+        "cn": "乌木之刺巫会-1",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Haemonculus Covens"
+        ]
+    },
+    {
+        "name": "coven-of-the-ebon-sting-2.svg",
+        "cn": "乌木之刺巫会-2",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Haemonculus Covens"
+        ]
+    },
+    {
+        "name": "coven-of-the-everspiral-1.svg",
+        "cn": "永恒螺旋巫会-1",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Haemonculus Covens"
+        ]
+    },
+    {
+        "name": "coven-of-the-everspiral-2.svg",
+        "cn": "永恒螺旋巫会-2",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Haemonculus Covens"
+        ]
+    },
+    {
+        "name": "coven-of-the-hex-1.svg",
+        "cn": "妖咒巫会-1",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Haemonculus Covens"
+        ]
+    },
+    {
+        "name": "coven-of-the-hex-2.svg",
+        "cn": "妖咒巫会-2",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Haemonculus Covens"
+        ]
+    },
+    {
+        "name": "coven-of-the-prophets-of-flesh-1.svg",
+        "cn": "血肉先知巫会-1",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Haemonculus Covens"
+        ]
+    },
+    {
+        "name": "coven-of-the-prophets-of-flesh-2.svg",
+        "cn": "血肉先知巫会-2",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Haemonculus Covens"
+        ]
+    },
+    {
+        "name": "coven-of-the-prophets-of-flesh-3.svg",
+        "cn": "血肉先知巫会-3",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Haemonculus Covens"
+        ]
+    },
+    {
+        "name": "coven-of-the-twelve-2.svg",
+        "cn": "十二人巫会-1",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Haemonculus Covens"
+        ]
+    },
+    {
+        "name": "coven-of-the-.svg",
+        "cn": "十二人巫会-2",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Haemonculus Covens"
+        ]
+    },
+    {
         "name": "cult-of-strife.svg",
         "cn": "争斗教派",
         "keywords": [
@@ -13,14 +183,6 @@
     {
         "name": "dark-eldar.svg",
         "cn": "黑暗灵族",
-        "keywords": [
-            "Aeldari",
-            "Dark Eldar"
-        ]
-    },
-    {
-        "name": "drukhari-1.svg",
-        "cn": "黑暗灵族-1",
         "keywords": [
             "Aeldari",
             "Dark Eldar"
@@ -53,6 +215,14 @@
         ]
     },
     {
+        "name": "kabel.svg",
+        "cn": "阴谋团",
+        "keywords": [
+            "Aeldari",
+            "Dark Eldar"
+        ]
+    },
+    {
         "name": "kabal-of-the-black-heart.svg",
         "cn": "黑心阴谋团",
         "keywords": [
@@ -70,16 +240,6 @@
             "Drukhari",
             "Dark Eldar",
             "Kabal"
-        ]
-    },
-    {
-        "name": "prophets-of-flesh.svg",
-        "cn": "血肉先知巫会",
-        "keywords": [
-            "Aeldari",
-            "Drukhari",
-            "Dark Eldar",
-            "Haemonculus Covens"
         ]
     }
 ]

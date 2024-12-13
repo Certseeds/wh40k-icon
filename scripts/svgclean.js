@@ -18,7 +18,6 @@ const main = async () => {
 
         await exec(`xmllint --format "${file}" -o "${file}"`);
 
-        // 处理文件名
         const newName = file
             .replace(/\[[^]]*\]/g, '')
             .replace('.svg', '')
@@ -28,7 +27,6 @@ const main = async () => {
             ;
         const newName_2 = `${newName}.svg`;
 
-        // 重命名文件
         await fsp.rename(file, newName_2);
     }
 };
