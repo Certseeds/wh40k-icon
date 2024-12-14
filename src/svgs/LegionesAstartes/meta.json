@@ -1,40 +1,94 @@
 [
     {
         "name": "dark-angels.svg",
-        "cn": "暗黑天使"
+        "cn": "暗黑天使",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion"
+        ]
     },
     {},
     {
         "name": "white-scars.svg",
-        "cn": "白色伤疤"
+        "cn": "白色伤疤",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion"
+        ]
     },
     {
         "name": "space-wolfs.svg",
-        "cn": "太空野狼"
+        "cn": "太空野狼",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion"
+        ]
     },
     {
         "name": "imperial-fists.svg",
-        "cn": "帝国之拳"
+        "cn": "帝国之拳",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion"
+        ]
     },
     {
         "name": "blood-angels.svg",
-        "cn": "圣血天使"
+        "cn": "圣血天使",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion"
+        ]
     },
     {
         "name": "iron-hands.svg",
-        "cn": "钢铁之手"
+        "cn": "钢铁之手",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion"
+        ]
     },
     {},
     {
         "name": "ultramarines.svg",
-        "cn": "极限战士"
+        "cn": "极限战士",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion"
+        ]
     },
     {
         "name": "salamanders.svg",
-        "cn": "火蜥蜴"
+        "cn": "火蜥蜴",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion"
+        ]
     },
     {
         "name": "raven-guard.svg",
-        "cn": "暗鸦守卫"
+        "cn": "暗鸦守卫",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion"
+        ]
     }
 ]

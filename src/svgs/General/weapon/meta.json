@@ -1,13 +1,13 @@
 [
     {
-        "fileName": "armourpenetration.svg",
+        "name": "armourpenetration.svg",
         "cn": "穿甲",
         "keywords": [
             "weapon"
         ]
     },
     {
-        "fileName": "assault-weapon-type.svg",
+        "name": "assault-weapon-type.svg",
         "cn": "突击-武器类型",
         "keywords": [
             "weapon",
@@ -15,14 +15,14 @@
         ]
     },
     {
-        "fileName": "damage.svg",
+        "name": "damage.svg",
         "cn": "伤害",
         "keywords": [
             "weapon"
         ]
     },
     {
-        "fileName": "grenade-weapon-type.svg",
+        "name": "grenade-weapon-type.svg",
         "cn": "手雷-武器类型",
         "keywords": [
             "weapon",
@@ -30,7 +30,7 @@
         ]
     },
     {
-        "fileName": "heavy-weapon-type.svg",
+        "name": "heavy-weapon-type.svg",
         "cn": "重型-武器类型",
         "keywords": [
             "weapon",
@@ -38,7 +38,7 @@
         ]
     },
     {
-        "fileName": "melee-weapon-type.svg",
+        "name": "melee-weapon-type.svg",
         "cn": "近战-武器类型",
         "keywords": [
             "weapon",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "fileName": "pistol-weapon-type.svg",
+        "name": "pistol-weapon-type.svg",
         "cn": "手枪-武器类型",
         "keywords": [
             "weapon",
@@ -54,14 +54,14 @@
         ]
     },
     {
-        "fileName": "range.svg",
+        "name": "range.svg",
         "cn": "攻击范围",
         "keywords": [
             "weapon"
         ]
     },
     {
-        "fileName": "rapidfire-weapon-type.svg",
+        "name": "rapidfire-weapon-type.svg",
         "cn": "速射-武器类型",
         "keywords": [
             "weapon",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "fileName": "strength.svg",
+        "name": "strength.svg",
         "cn": "力量",
         "keywords": [
             "weapon",
@@ -77,7 +77,7 @@
         ]
     },
     {
-        "fileName": "type.svg",
+        "name": "type.svg",
         "cn": "武器类型",
         "keywords": [
             "weapon"

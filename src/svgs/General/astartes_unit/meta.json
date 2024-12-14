@@ -1,21 +1,21 @@
 [
     {
-        "fileName": "assault.svg",
+        "name": "assault.svg",
         "cn": "突击标志",
         "keywords": []
     },
     {
-        "fileName": "devestator.svg",
+        "name": "devestator.svg",
         "cn": "毁灭者标志",
         "keywords": []
     },
     {
-        "fileName": "tactical-01.svg",
+        "name": "tactical-01.svg",
         "cn": "战术标志-01",
         "keywords": []
     },
     {
-        "fileName": "tactical-02.svg",
+        "name": "tactical-02.svg",
         "cn": "战术标志-02",
         "keywords": []
     }

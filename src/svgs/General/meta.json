@@ -1,11 +1,11 @@
 [
     {
-        "fileName": "kill-team.svg",
+        "name": "kill-team.svg",
         "cn":"杀戮小队",
         "keywords": []
     },
     {
-        "fileName": "user.svg",
+        "name": "user.svg",
         "cn":"玩家",
         "keywords": []
     }

@@ -99,6 +99,13 @@
         "weapon": {
             "weapon": "武器",
             "weapon type": "武器类型"
+        },
+        "Imperium": {
+            "Imperium": "人类帝国",
+            "Adeptus Astartes": "阿斯塔特修会",
+            "Space Marines": "星际战士",
+            "Dark Angels": "暗黑天使",
+            "Chapter": "战团"
         }
     }
 }

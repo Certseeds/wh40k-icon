@@ -1,18 +1,46 @@
 [
     {
         "name": "angels-of-redemption.svg",
-        "cn": "救赎天使"
+        "cn": "救赎天使",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Dark Angels",
+            "Chapter"
+        ]
     },
     {
         "name": "angels-of-retribution.svg",
-        "cn": "报应天使"
+        "cn": "报应天使",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Dark Angels",
+            "Chapter"
+        ]
     },
     {
         "name": "angels-of-vengeance.svg",
-        "cn": "复仇天使"
+        "cn": "复仇天使",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Dark Angels",
+            "Chapter"
+        ]
     },
     {
         "name": "angels-of-vigilance.svg",
-        "cn": "警戒天使"
+        "cn": "警戒天使",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Dark Angels",
+            "Chapter"
+        ]
     }
 ]

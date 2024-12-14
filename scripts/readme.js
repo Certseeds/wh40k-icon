@@ -35,44 +35,69 @@ const metaToReadme = async (prefix, jsonFile) => {
     const sndLine = `|:-:|:-:|:-:|:-:|:-:|`;
     const lines = ['', fstLine, sndLine];
     for (const element of json) {
+        if (element?.name === undefined) {
+            continue;
+        }
         const fileName = element.name;
         const objectName = fileName?.replace(".svg", "") ?? "";
-        const image = `![${objectName}](./${prefix}/${fileName})`;
+        const absoultePath = path.join(prefix, fileName);
+        const image = `![${objectName}](./${absoultePath})`;
         const cnName = element?.cn ?? "";
         const keywords = element.keywords;
-        console.log(keywords);
+        //console.log(keywords);
         const cnkeywords = keywords.map(x => zhCNMap.get(x));
         const fontClass = `\`wh40-${objectName}\``
         const line = `|${image}|${cnName}|${keywords}|${cnkeywords}|${fontClass}|`;
         lines.push(line);
     }
+    lines.push('');
     const linesString = lines.join("\n");
-    console.log(linesString);
+    //console.log(linesString);
     return linesString;
 }
-
-const visitMetaJsons = async (dir, level) => {
-    const subObjects = await fsp.readdir(dir, { withFileTypes: true });
-    const objects = [];
+const visitMetaJsons1 = async (subdir, level) => {
+    const subObjects = await fsp.readdir(subdir, { withFileTypes: true });
     for (const subObject of subObjects) {
         if (subObject.isDirectory()) {
-            const files = await visitMetaJsons(path.join(dir, subObject.name), level + 1);
-            for (const file of files) {
-                objects.push(file);
-            }
+            await visitMetaJsons1(path.join(subdir, subObject.name), level + 1);
         } else if (subObject.isFile() && subObject.name === "meta.json") {
-            const linesString = await metaToReadme(".", path.join(dir, subObject.name),);
-            const linesString2 = `\n${'#'.repeat(level)} ${dir}\n` + linesString;
-            await fsp.appendFile(path.join(dir, "README.md"), linesString2);
-            const svgName = subObject.name;
-            objects.push(path.join(dir, svgName));
+            const linesString = await metaToReadme(".", path.join(subdir, subObject.name));
+            const subdirInTitle = subdir
+                .replaceAll("\\", "/")
+                .replaceAll("/", "-")
+                .replace("src-svgs-", "")
+                .trim();
+            const linesString2 = `\n${'#'.repeat(level)} ${subdirInTitle}\n` + linesString;
+            await fsp.appendFile(path.join(subdir, "README.md"), linesString2);
         }
     }
-    return objects;
+}
+
+const visitMetaJsons2 = async (subdir, level) => {
+    const subObjects = await fsp.readdir(subdir, { withFileTypes: true });
+    const blocks = [];
+    for (const subObject of subObjects) {
+        if (subObject.isDirectory()) {
+            const subblocks = await visitMetaJsons2(path.join(subdir, subObject.name), level + 1);
+            blocks.push(...subblocks);
+        } else if (subObject.isFile() && subObject.name === "meta.json") {
+            console.log(subdir);
+            const linesString = await metaToReadme(subdir, path.join(subdir, subObject.name));
+            const subdirInTitle = subdir
+                .replaceAll("\\", "/")
+                .replaceAll("/", "-")
+                .replace("src-svgs-", "")
+                .trim();
+            const linesString2 = `\n${'#'.repeat(level)} ${subdirInTitle}\n` + linesString;
+            blocks.push(linesString2);
+        }
+    }
+    return blocks;
 }
 
 // TODO, 在README中提供子目录清单, 并构建gh-pages
+await visitMetaJsons1("./src/svgs", 3);
 
-const resutl = await visitMetaJsons("./src/svgs/chaos", 3);
-
-console.log(resutl);
+const result = await visitMetaJsons2("./src/svgs", 3);
+// console.log(result);
+await fsp.appendFile(path.join(dir, "README.md"), result);
