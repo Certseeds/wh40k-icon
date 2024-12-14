@@ -1,0 +1,86 @@
+[
+    {
+        "fileName": "armourpenetration.svg",
+        "cn": "穿甲",
+        "keywords": [
+            "weapon"
+        ]
+    },
+    {
+        "fileName": "assault-weapon-type.svg",
+        "cn": "突击-武器类型",
+        "keywords": [
+            "weapon",
+            "weapon type"
+        ]
+    },
+    {
+        "fileName": "damage.svg",
+        "cn": "伤害",
+        "keywords": [
+            "weapon"
+        ]
+    },
+    {
+        "fileName": "grenade-weapon-type.svg",
+        "cn": "手雷-武器类型",
+        "keywords": [
+            "weapon",
+            "weapon type"
+        ]
+    },
+    {
+        "fileName": "heavy-weapon-type.svg",
+        "cn": "重型-武器类型",
+        "keywords": [
+            "weapon",
+            "weapon type"
+        ]
+    },
+    {
+        "fileName": "melee-weapon-type.svg",
+        "cn": "近战-武器类型",
+        "keywords": [
+            "weapon",
+            "weapon type"
+        ]
+    },
+    {
+        "fileName": "pistol-weapon-type.svg",
+        "cn": "手枪-武器类型",
+        "keywords": [
+            "weapon",
+            "weapon type"
+        ]
+    },
+    {
+        "fileName": "range.svg",
+        "cn": "攻击范围",
+        "keywords": [
+            "weapon"
+        ]
+    },
+    {
+        "fileName": "rapidfire-weapon-type.svg",
+        "cn": "速射-武器类型",
+        "keywords": [
+            "weapon",
+            "weapon type"
+        ]
+    },
+    {
+        "fileName": "strength.svg",
+        "cn": "力量",
+        "keywords": [
+            "weapon",
+            "unit attributes"
+        ]
+    },
+    {
+        "fileName": "type.svg",
+        "cn": "武器类型",
+        "keywords": [
+            "weapon"
+        ]
+    }
+]

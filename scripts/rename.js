@@ -6,18 +6,23 @@ import fsp from 'node:fs/promises';
 import fs from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { findDirWithPkgJson, findSvgFiles } from "./library.js";
+import { exec, execSync } from 'node:child_process';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const startDir = path.resolve(__dirname);
 const targetDir = findDirWithPkgJson(startDir) ?? "./../";
-const svgs = await findSvgFiles(targetDir + "/src/new");
+const searchDir = targetDir + "/src/svgs/General/general";
+const svgs = await findSvgFiles(searchDir);
 
-console.log(svgs);
+console.log(`there are ${svgs.size} svg files`);
 
 const regex = /\[([\s\S]+)\]/g;
 const target = [];
 const filesMap = new Map();
+for (const svg of svgs) {
+    filesMap.set(svg, 1);
+}
 for (const svg of svgs) {
     const matches = svg.match(regex);
     const originText = matches ? matches[0] : '';
@@ -25,7 +30,8 @@ for (const svg of svgs) {
         ?.replace("[", "")
         ?.replace("]", "")
         ?.split(",")
-        ?.map((group) => group.trim())
+        ?.map(group => group.trim())
+        .filter(x => x.length > 0)
         ?? [];
 
     const fileName_pre = svg
@@ -46,13 +52,14 @@ for (const svg of svgs) {
             return `${fileName_pre}.svg`;
         }
     })();
-
+    const cmd_file = path.join(searchDir, fileName);
+    await fsp.copyFile(path.join(searchDir, svg), cmd_file);
     console.log(fileName, keywords);
     target.push({ fileName, keywords });
 }
 const content = JSON.stringify(target, null, 4);
 
-const targetName = targetDir + "/meta.json";
+const targetName = searchDir + "/meta.json";
 console.log(targetName)
 if (!fs.existsSync(targetName)) {
     await fsp.appendFile(targetName, content, 'utf8');

@@ -1,0 +1,58 @@
+[
+    {
+        "fileName": "attacks.svg",
+        "cn": "近战攻击次数",
+        "keywords": [
+            "unit attributes"
+        ]
+    },
+    {
+        "fileName": "ballisticskill.svg",
+        "cn":"射击能力",
+        "keywords": [
+            "unit attributes"
+        ]
+    },
+    {
+        "fileName": "leadership.svg",
+        "cn":"领导力",
+        "keywords": [
+            "unit attributes"
+        ]
+    },
+    {
+        "fileName": "move.svg",
+        "cn":"移动距离",
+        "keywords": [
+            "unit attributes"
+        ]
+    },
+    {
+        "fileName": "save.svg",
+        "cn":"甲保",
+        "keywords": [
+            "unit attributes"
+        ]
+    },
+    {
+        "fileName": "toughness.svg",
+        "cn":"坚韧值",
+        "keywords": [
+            "unit attributes"
+        ]
+    },
+    {
+        "fileName": "weaponskill.svg",
+        "cn":"近战能力",
+        "keywords": [
+            "unit attributes"
+        ]
+    },
+    {
+        "fileName": "wounds.svg",
+        "cn":"血量",
+        "keywords": [
+            "unit attributes"
+        ]
+    }
+]

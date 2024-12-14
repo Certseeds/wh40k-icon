@@ -1,0 +1,151 @@
+[
+    {
+        "fileName": "dedicated-transport-battlefield-role.svg",
+        "cn": "专用运输工具-战场定位",
+        "keywords": [
+            "UnitType",
+            "Battlefield Role"
+        ]
+    },
+    {
+        "fileName": "dedicated-transport.svg",
+        "cn": "专用运输工具",
+        "keywords": [
+            "UnitType"
+        ]
+    },
+    {
+        "fileName": "elites-b.svg",
+        "cn": "精英-黑",
+        "keywords": [
+            "UnitType"
+        ]
+    },
+    {
+        "fileName": "elites-battlefield-role.svg",
+        "cn": "精英-战场定位",
+        "keywords": [
+            "UnitType",
+            "Battlefield Role"
+        ]
+    },
+    {
+        "fileName": "elites.svg",
+        "cn": "精英",
+        "keywords": [
+            "UnitType"
+        ]
+    },
+    {
+        "fileName": "fast-attack-battlefield-role.svg",
+        "cn": "快速打击-战场定位",
+        "keywords": [
+            "UnitType",
+            "Battlefield Role"
+        ]
+    },
+    {
+        "fileName": "fast-attack.svg",
+        "cn": "快速打击",
+        "keywords": [
+            "UnitType"
+        ]
+    },
+    {
+        "fileName": "flyer-battlefield-role.svg",
+        "cn": "飞行器-战场定位",
+        "keywords": [
+            "UnitType",
+            "Battlefield Role"
+        ]
+    },
+    {
+        "fileName": "flyer.svg",
+        "cn": "飞行器",
+        "keywords": [
+            "UnitType"
+        ]
+    },
+    {
+        "fileName": "fortification-battlefield-role.svg",
+        "cn": "工事-战场定位",
+        "keywords": [
+            "UnitType",
+            "Battlefield Role"
+        ]
+    },
+    {
+        "fileName": "fortification.svg",
+        "cn": "工事",
+        "keywords": [
+            "UnitType"
+        ]
+    },
+    {
+        "fileName": "heavy-support-battlefield-role.svg",
+        "cn": "重型支援-战场定位",
+        "keywords": [
+            "UnitType",
+            "Battlefield Role"
+        ]
+    },
+    {
+        "fileName": "heavy-support-b.svg",
+        "cn": "重型支援-黑",
+        "keywords": [
+            "UnitType"
+        ]
+    },
+    {
+        "fileName": "heavy-support.svg",
+        "cn": "重型支援",
+        "keywords": [
+            "UnitType"
+        ]
+    },
+    {
+        "fileName": "hq-battlefield-role.svg",
+        "cn": "首领-战场定位",
+        "keywords": [
+            "UnitType",
+            "Battlefield Role"
+        ]
+    },
+    {
+        "fileName": "hq.svg",
+        "cn": "首领",
+        "keywords": [
+            "UnitType"
+        ]
+    },
+    {
+        "fileName": "lord-of-war-battlefield-role.svg",
+        "cn": "战争领主-战场定位",
+        "keywords": [
+            "UnitType",
+            "Battlefield Role"
+        ]
+    },
+    {
+        "fileName": "lord-of-war.svg",
+        "cn": "战争领主",
+        "keywords": [
+            "UnitType"
+        ]
+    },
+    {
+        "fileName": "troops-battlefield-role.svg",
+        "cn": "步兵-战场定位",
+        "keywords": [
+            "UnitType",
+            "Battlefield Role"
+        ]
+    },
+    {
+        "fileName": "troops.svg",
+        "cn": "步兵",
+        "keywords": [
+            "UnitType"
+        ]
+    }
+]

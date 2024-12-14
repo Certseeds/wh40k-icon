@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 17.19 19.55" version="1.1" id="svg16">
+  <defs id="defs4">
+    <style id="style2">
+            .cls-1 {
+                fill: #231f20;
+            }
+        </style>
+  </defs>
+  <title id="title6">AttacksAsset 1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <path class="cls-1" d="M6.75,12.5,6,12.22v1.65H7.84v4.64H7.37v1H9.81v-1H9.34V13.87h1.85V12.22l-.75.28H9.77V5.65c0-1.17-.24-4.59-1.18-5.65-1,1-1.17,4.48-1.17,5.65V12.5Z" id="path8"/>
+      <path class="cls-1" d="M12.75,12.5,12,12.22v1.65h1.84v4.64h-.47v1h2.44v-1h-.47V13.87h1.85V12.22l-.75.28h-.67V5.65c0-1.17-.24-4.59-1.18-5.65-1,1-1.17,4.48-1.17,5.65V12.5Z" id="path10"/>
+      <path class="cls-1" d="M.75,12.5,0,12.22v1.65H1.84v4.64H1.37v1H3.81v-1H3.34V13.87H5.19V12.22l-.75.28H3.77V5.65c0-1.17-.24-4.59-1.18-5.65-1,1-1.17,4.48-1.17,5.65V12.5Z" id="path12"/>
+    </g>
+  </g>
+</svg>

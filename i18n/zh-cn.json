@@ -88,6 +88,17 @@
             "Astral Claws": "星爪",
             "Red Corsairs": "红海盗",
             "PDF": "行星防卫军"
+        },
+        "unit-type": {
+            "UnitType": "单位类型",
+            "Battlefield Role": "战场定位"
+        },
+        "unit_attributes": {
+            "unit attributes": "单位属性"
+        },
+        "weapon": {
+            "weapon": "武器",
+            "weapon type": "武器类型"
         }
     }
 }
