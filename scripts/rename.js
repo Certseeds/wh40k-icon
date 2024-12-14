@@ -32,7 +32,7 @@ for (const svg of svgs) {
         .replace(originText, "")
         .replace(".svg", "")
         .trim()
-        .replaceAll(" ","-")
+        .replace(/\s+/g, '-')
         .toLowerCase()
         ;
 

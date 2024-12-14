@@ -62,6 +62,32 @@
             "Mork": "毛哥",
             "Gods": "神",
             "Grotz": "屁精"
+        },
+        "legions": {
+            "Legion": "军团"
+        },
+        "chaos": {
+            "Chaos": "混沌",
+            "Heretic Astartes": "叛徒阿斯塔特",
+            "Chaos Space Marines": "混沌星际战士",
+            "Khorne": "恐虐",
+            "Nurgle": "纳垢",
+            "Slaanesh": "色孽",
+            "Tzeentch": "奸奇",
+            "Malice": "马里斯",
+            "Renegades and Heretics": "叛徒与异端",
+            "Lost and Damned": "迷失与堕落者",
+            "Regades": "叛徒",
+            "Warband": "战帮",
+            "Gods": "神",
+            "Titanicus Traitoris": "叛徒泰坦",
+            "Chaos Daemons": "混沌恶魔",
+            "Dark Mechanicum": "黑暗机械教",
+            "Chaos Knights": "混沌骑士",
+            "Renegade Knights": "叛逆骑士",
+            "Astral Claws": "星爪",
+            "Red Corsairs": "红海盗",
+            "PDF": "行星防卫军"
         }
     }
 }

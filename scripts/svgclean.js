@@ -11,8 +11,9 @@ const main = async () => {
     const svgFiles = await fsp.readdir(process.cwd());
     const svgFilesFiltered = svgFiles.filter(file => file.endsWith('.svg'));
 
+    const filesMap = new Map();
+    const renameMap = new Map();
     for (const file of svgFilesFiltered) {
-        console.log(file);
 
         await exec(`inkscape --file="${file}" --export-plain-svg --export-filename="${file}"`);
 
@@ -25,9 +26,21 @@ const main = async () => {
             .toLowerCase()
             .replace(/\s+/g, '-')
             ;
-        const newName_2 = `${newName}.svg`;
-
-        await fsp.rename(file, newName_2);
+        const fileName = (() => {
+            if (filesMap.has(newName)) {
+                const times = filesMap.get(newName);
+                filesMap.set(newName, times + 1);
+                return `${newName}-${times + 1}.svg`;
+            } else {
+                filesMap.set(newName, 1);
+                return `${newName}.svg`;
+            }
+        })();
+        console.log(file, fileName);
+        renameMap.set(file, fileName);
+    }
+    for (const [oldName, newName] of renameMap) {
+        await fsp.rename(oldName, newName);
     }
 };
 

@@ -1,22 +1,171 @@
 [
     {
-        "name": "khorne-symbol-01.svg",
-        "cn": "恐虐符文01"
+        "name": "chaos-daemons-2.svg",
+        "keywords": [
+            "Chaos"
+        ]
     },
     {
-        "name": "nurgle-icon-01.svg",
-        "cn": "纳垢符文01"
-    },
-    {
-        "name": "slaanesh-icon-01.svg",
-        "cn": "色孽符文01"
-    },
-    {
-        "name": "tzeentch-icon-01.svg",
-        "cn": "奸奇符文01"
+        "name": "chaos-daemons.svg",
+        "keywords": [
+            "Chaos"
+        ]
     },
     {
         "name": "chaos-star-01.svg",
-        "cn": "混沌八芒星符文01"
+        "cn": "混沌八芒星符文01",
+        "keywords": [
+            "Chaos"
+        ]
+    },
+    {
+        "name": "dark-mechanicum.svg",
+        "keywords": [
+            "Chaos"
+        ]
+    },
+    {
+        "name": "extinction-angels.svg",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Warband"
+        ]
+    },
+    {
+        "name": "heretic-astartes.svg",
+        "keywords": [
+            "Chaos",
+            "Chaos Space Marines"
+        ]
+    },
+    {
+        "name": "khorne.svg",
+        "cn": "恐虐",
+        "keywords": [
+            "Chaos",
+            "Chaos Daemons",
+            "Gods"
+        ]
+    },
+    {
+        "name": "legio-mortis.svg",
+        "keywords": [
+            "Chaos",
+            "Dark Mechanicum",
+            "Titanicus Traitoris"
+        ]
+    },
+    {
+        "name": "lost-and-damned.svg",
+        "keywords": [
+            "Chaos",
+            "Renegades and Heretics"
+        ]
+    },
+    {
+        "name": "malice.svg",
+        "keywords": [
+            "Chaos",
+            "Chaos Daemons",
+            "Gods"
+        ]
+    },
+    {
+        "name": "nurgle.svg",
+        "cn": "纳垢",
+        "keywords": [
+            "Chaos",
+            "Chaos Daemons",
+            "Gods"
+        ]
+    },
+    {
+        "name": "questor-traitoris.svg",
+        "keywords": [
+            "Chaos",
+            "Dark Mechanicum",
+            "Chaos Knights",
+            "Renegade Knights"
+        ]
+    },
+    {
+        "name": "red-corsairs.svg",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Warband"
+        ]
+    },
+    {
+        "name": "renegades-and-heretics.svg",
+        "keywords": [
+            "Chaos",
+            "Lost and Damned"
+        ]
+    },
+    {
+        "name": "slaanesh.svg",
+        "cn": "色孽",
+        "keywords": [
+            "Chaos",
+            "Chaos Daemons",
+            "Gods"
+        ]
+    },
+    {
+        "name": "sons-of-malice.svg",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Regades",
+            "Malice"
+        ]
+    },
+    {
+        "name": "the-fallen.svg",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Dark Angels"
+        ]
+    },
+    {
+        "name": "titanicus-traitoris.svg",
+        "keywords": [
+            "Chaos",
+            "Dark Mechanicum"
+        ]
+    },
+    {
+        "name": "tyrant_s-legion.svg",
+        "keywords": [
+            "Chaos",
+            "Lost and Damned",
+            "Renegades and Heretics",
+            "Astral Claws",
+            "Red Corsairs",
+            "PDF"
+        ]
+    },
+    {
+        "name": "tzeentch.svg",
+        "cn": "奸奇",
+        "keywords": [
+            "Chaos",
+            "Chaos Daemons",
+            "Gods"
+        ]
+    },
+    {
+        "name": "zuvassin.svg",
+        "keywords": [
+            "Chaos",
+            "Gods"
+        ]
     }
 ]

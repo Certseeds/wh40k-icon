@@ -1,0 +1,152 @@
+[
+    {
+        "name": "alpha-legion.svg",
+        "cn": "阿尔法军团",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "black-legion.svg",
+        "cn": "黑色军团",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "death-guard.svg",
+        "cn": "死亡守卫",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion",
+            "Nurgle"
+        ]
+    },
+    {
+        "name": "emperors-children.svg",
+        "cn": "帝皇之子",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion",
+            "Slaanesh"
+        ]
+    },
+    {
+        "name": "iron-warriors.svg",
+        "cn": "钢铁勇士",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "iron-warriors-preheresy.svg",
+        "cn": "钢铁勇士-叛乱前",
+        "keywords": [
+            "Legion"
+        ]
+    },
+    {
+        "name": "luna-wolves-1.svg",
+        "cn": "影月苍狼-1",
+        "keywords": [
+            "Legion"
+        ]
+    },
+    {
+        "name": "luna-wolves-2.svg",
+        "cn": "影月苍狼-2",
+        "keywords": [
+            "Legion"
+        ]
+    },
+    {
+        "name": "night-lords.svg",
+        "cn": "午夜领主",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "son-of-horus.svg",
+        "cn": "荷鲁斯之子",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "son-of-horus-color.svg",
+        "cn": "荷鲁斯之子-绿",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "thousand-sons.svg",
+        "cn": "千子",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion",
+            "Tzeentch"
+        ]
+    },
+    {
+        "name": "thousand-sons-preheresy.svg",
+        "cn": "千子-叛乱前",
+        "keywords": [
+            "Legion"
+        ]
+    },
+    {
+        "name": "word-bearers.svg",
+        "cn": "怀言者",
+        "keywords": [
+            "Horus Heresy",
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "word-bearers-preheresy.svg",
+        "cn": "怀言者-叛乱前",
+        "keywords": [
+            "Legion"
+        ]
+    },
+    {
+        "name": "world-eaters.svg",
+        "cn": "吞世者",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion",
+            "Khorne"
+        ]
+    }
+]
