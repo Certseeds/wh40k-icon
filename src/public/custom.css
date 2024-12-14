@@ -1,0 +1,29 @@
+/* custom.css */
+
+/* 调整表格的宽度 */
+table {
+    width: 100%;
+    table-layout: auto; /* 或者使用 fixed，根据需要选择 */
+}
+
+/* 调整表格单元格的最小宽度 */
+th, td {
+    min-width: 150px; /* 根据需要调整 */
+    padding: 8px; /* 增加内边距 */
+}
+
+/* 调整表格标题的样式 */
+th {
+    background-color: #f2f2f2; /* 背景颜色 */
+    text-align: left; /* 左对齐 */
+}
+
+/* 调整表格边框 */
+table, th, td {
+    border: 1px solid #ddd; /* 边框颜色 */
+    border-collapse: collapse; /* 合并边框 */
+}
+
+img {
+    max-width: 100px;
+}

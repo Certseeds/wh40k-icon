@@ -76,10 +76,11 @@ const visitMetaJsons1 = async (subdir, level) => {
 const visitMetaJsons2 = async (subdir, level) => {
     const subObjects = await fsp.readdir(subdir, { withFileTypes: true });
     const blocks = [];
+    const subblocksList = [];
     for (const subObject of subObjects) {
         if (subObject.isDirectory()) {
             const subblocks = await visitMetaJsons2(path.join(subdir, subObject.name), level + 1);
-            blocks.push(...subblocks);
+            subblocksList.push(...subblocks);
         } else if (subObject.isFile() && subObject.name === "meta.json") {
             console.log(subdir);
             const linesString = await metaToReadme(subdir, path.join(subdir, subObject.name));
@@ -88,16 +89,17 @@ const visitMetaJsons2 = async (subdir, level) => {
                 .replaceAll("/", "-")
                 .replace("src-svgs-", "")
                 .trim();
-            const linesString2 = `\n${'#'.repeat(level)} ${subdirInTitle}\n` + linesString;
+            const linesString2 = (`\n${'#'.repeat(level)} ${subdirInTitle}\n` + linesString)
+                .replaceAll("./src\\", "./");
             blocks.push(linesString2);
         }
     }
+    blocks.push(...subblocksList);
     return blocks;
 }
 
 // TODO, 在README中提供子目录清单, 并构建gh-pages
 await visitMetaJsons1("./src/svgs", 3);
 
-const result = await visitMetaJsons2("./src/svgs", 3);
-// console.log(result);
-await fsp.appendFile(path.join(dir, "README.md"), result);
+const result = await visitMetaJsons2("./src/svgs", 1);
+await fsp.appendFile(path.join(dir, "src", "index.md"), result);

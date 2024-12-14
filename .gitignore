@@ -335,3 +335,5 @@ dist*/
 *.woff
 *.woff2
 temp/
+.vitepress/dist
+.vitepress/cache

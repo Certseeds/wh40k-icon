@@ -7,7 +7,10 @@
     "scripts": {
         "build": "node ./scripts/font-build.js",
         "check": "node ./scripts/match.js",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "docs:dev": "vitepress dev",
+        "docs:build": "vitepress build",
+        "docs:preview": "vitepress preview"
     },
     "keywords": [
         "warhammer40k",
@@ -17,6 +20,7 @@
     "author": "shitake",
     "license": "(OFL-1.1-RFN AND AGPL-3.0-or-later AND CC-BY-NC-SA-4.0)",
     "devDependencies": {
-        "svgtofont": "^6.2.0"
+        "svgtofont": "^6.2.0",
+        "vitepress": "^1.5.0"
     }
 }
