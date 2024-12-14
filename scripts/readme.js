@@ -90,7 +90,9 @@ const visitMetaJsons2 = async (subdir, level) => {
                 .replace("src-svgs-", "")
                 .trim();
             const linesString2 = (`\n${'#'.repeat(level)} ${subdirInTitle}\n` + linesString)
-                .replaceAll("./src\\", "./");
+                .replaceAll("./src\\", "./")
+                .replaceAll("./src", "./")
+                ;
             blocks.push(linesString2);
         }
     }
