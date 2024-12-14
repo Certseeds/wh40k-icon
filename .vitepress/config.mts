@@ -9,6 +9,7 @@ export default defineConfig({
         "LICENSE_AGPL_V3_0.md"
     ],
     srcDir: "src",
+    base: '/wh40k-icon/',
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
@@ -57,7 +58,7 @@ export default defineConfig({
         ['meta', { property: 'keywords', content: 'vitepress, warhammer, icons, svg' }],
         ['meta', { property: 'robots', content: 'index, follow' }],
         ['meta', { property: 'author', content: 'Certseeds, shitake, farvig' }],
-        ['link', { rel: 'stylesheet', href: '/custom.css' }]
+        ['link', { rel: 'stylesheet', href: '/wh40k-icon/custom.css' }]
     ],
     sitemap: {
         hostname: 'https://certseeds.github.io/wh40k-icon'
