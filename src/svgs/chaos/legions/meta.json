@@ -10,6 +10,16 @@
         ]
     },
     {
+        "name": "alpha-legion-2.svg",
+        "cn": "阿尔法军团-2",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion"
+        ]
+    },
+    {
         "name": "black-legion.svg",
         "cn": "黑色军团",
         "keywords": [
@@ -31,8 +41,41 @@
         ]
     },
     {
+        "name": "death-guard-preheresy-1.svg",
+        "cn": "死亡守卫-荷鲁斯判乱前-1",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion",
+            "Nurgle"
+        ]
+    },
+    {
+        "name": "death-guard-preheresy-2.svg",
+        "cn": "死亡守卫-荷鲁斯判乱前-2",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion",
+            "Nurgle"
+        ]
+    },
+    {
         "name": "emperors-children.svg",
         "cn": "帝皇之子",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion",
+            "Slaanesh"
+        ]
+    },
+    {
+        "name": "emperors-children=2.svg",
+        "cn": "帝皇之子-2",
         "keywords": [
             "Chaos",
             "Heretic Astartes",
@@ -53,7 +96,7 @@
     },
     {
         "name": "iron-warriors-preheresy.svg",
-        "cn": "钢铁勇士-叛乱前",
+        "cn": "钢铁勇士-荷鲁斯判乱前",
         "keywords": [
             "Legion"
         ]
@@ -75,6 +118,16 @@
     {
         "name": "night-lords.svg",
         "cn": "午夜领主",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "night-lords-2.svg",
+        "cn": "午夜领主-2",
         "keywords": [
             "Chaos",
             "Heretic Astartes",
@@ -115,7 +168,7 @@
     },
     {
         "name": "thousand-sons-preheresy.svg",
-        "cn": "千子-叛乱前",
+        "cn": "千子-荷鲁斯判乱前",
         "keywords": [
             "Legion"
         ]
@@ -133,7 +186,7 @@
     },
     {
         "name": "word-bearers-preheresy.svg",
-        "cn": "怀言者-叛乱前",
+        "cn": "怀言者-荷鲁斯判乱前",
         "keywords": [
             "Legion"
         ]
