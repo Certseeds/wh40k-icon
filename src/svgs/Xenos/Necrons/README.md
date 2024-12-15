@@ -1,6 +1,6 @@
 # necrons
 
-necrons有九个阵营
+necrons有很多阵营, 这里只陈列九个.
 
 |         EN         |    zh-CN     | 是否已添加 |
 |:------------------:|:------------:|:---------:|
@@ -13,4 +13,7 @@ necrons有九个阵营
 | Szarekhan Dynasty  |  萨雷赫王朝  |     a-few     |
 | Charnovokh Dynasty | 查诺沃赫王朝 |     否     |
 
-更多可参考<https://wh40k.lexicanum.com/wiki/List_of_Necron_Dynasties>, <https://warhammer40k.fandom.com/wiki/Necrons#Notable_Necron_Dynasties>
+更多可参考
+
++ <https://wh40k.lexicanum.com/wiki/List_of_Necron_Dynasties>
++ <https://warhammer40k.fandom.com/wiki/Necrons#Notable_Necron_Dynasties>

@@ -4,10 +4,6 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
     title: "wh40k-icons",
     description: "Warhammer 40k icons collect",
-    srcExclude: [
-        "README.md",
-        "LICENSE_AGPL_V3_0.md"
-    ],
     srcDir: "src",
     base: '/wh40k-icon/',
     themeConfig: {
