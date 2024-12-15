@@ -57,14 +57,6 @@ onMounted(() => {
     const cssLink = document.getElementById('warhammer40k-css');
     cssLink.addEventListener('load', () => {
         wh40kClassNames.value = getWh40kClassNames();
-        console.log(wh40kClassNames);
-        const container = document.querySelector('.icon-container');
-        wh40kClassNames.value.forEach(className => {
-            const iconItem = document.createElement('div');
-            iconItem.className = 'icon-item';
-            iconItem.innerHTML = `<i class="${className}"></i><p>${className}</p>`;
-            container.appendChild(iconItem);
-        });
     });
 });
 
@@ -72,9 +64,11 @@ onMounted(() => {
 
 <i class="wh40k-asuryani" style="font-size: 50px">example-element</i>
 
-
 # Warhammer 40K Fonts
 
 <div class="icon-container">
-
+    <div v-for="className in wh40kClassNames" :key="className" class="icon-item">
+        <i :class="className"></i>
+        <p>{{ className }}</p>
+    </div>
 </div>
