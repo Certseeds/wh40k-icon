@@ -105,7 +105,7 @@
     },
     {
         "name": "hq-battlefield-role.svg",
-        "cn": "首领-战场定位",
+        "cn": "指挥-战场定位",
         "keywords": [
             "UnitType",
             "Battlefield Role"
@@ -113,7 +113,7 @@
     },
     {
         "name": "hq.svg",
-        "cn": "首领",
+        "cn": "指挥",
         "keywords": [
             "UnitType"
         ]
@@ -135,7 +135,7 @@
     },
     {
         "name": "troops-battlefield-role.svg",
-        "cn": "步兵-战场定位",
+        "cn": "基础-战场定位",
         "keywords": [
             "UnitType",
             "Battlefield Role"
@@ -143,7 +143,7 @@
     },
     {
         "name": "troops.svg",
-        "cn": "步兵",
+        "cn": "基础",
         "keywords": [
             "UnitType"
         ]

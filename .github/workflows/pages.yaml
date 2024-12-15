@@ -39,6 +39,13 @@ jobs:
       - name: pnpm render markdown
         run: pnpm exec node ./scripts/readme.js
 
+      - name: pnpm build fonts
+        run: pnpm build
+
+      - name: cp files to dist
+        run: |
+            cp ./dist ./src/public/font
+
       - name: pnpm build page
         run: pnpm run docs:build
 

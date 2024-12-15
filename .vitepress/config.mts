@@ -14,6 +14,7 @@ export default defineConfig({
             , { text: "通用", link: '/svgs/General/README' }
             , { text: "帝国", link: '/svgs/Imperium/README' }
             , { text: "异形", link: "/svgs/Xenos/README" }
+            , { text: "font-page", link: "/fonts" }
         ],
         sidebar: [],
         socialLinks: [
