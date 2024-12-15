@@ -13,7 +13,8 @@ Free to download Warhammer 40.000 icons as SVG/iconfont.
 
 ## icons in gh-pages
 
-请在[wh40k-icon](https://certseeds.github.io/wh40k-icon/)预览svg图标.
++ 请在[wh40k-icon](https://certseeds.github.io/wh40k-icon/)预览svg图标
++ 请在[wh40k-icon-font](https://certseeds.github.io/wh40k-icon/fonts.html)预览字体图标
 
 ## IconFont-**Deprecated**
 
