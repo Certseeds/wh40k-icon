@@ -45,9 +45,9 @@ jobs:
           DATE=$(date +'%Y%m%d%H%M%S')
           npm version prerelease --preid=$DATE --no-git-tag-version
           echo "Updated version to $(cat package.json | grep version)"
-          echo "//npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_TOKEN }}" > ~/.npmrc
 
-      - name: Publish package
-        run: npm publish --tag alpha
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: JS-DevTools/npm-publish@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          registry: "https://npm.pkg.github.com"
+          tag: alpha
