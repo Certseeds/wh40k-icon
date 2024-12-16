@@ -3,27 +3,8 @@
 
 import fsp from "node:fs/promises";
 import path from 'node:path';
-import { findDirWithPkgJson, findSvgFiles, getSvgFilesFromREADME } from "./library.js";
-const buildI18NMap = async (i18ndir) => {
-    const jsonFiles = await fsp.readdir(i18ndir);
-    const languageMap = new Map();
-    for (const file of jsonFiles) {
-        if (file.endsWith(".json")) {
-            const wordsMap = new Map();
-            const fileprefix = file.replace(".json", "");
-            const fileContent = await fsp.readFile(path.join(i18ndir, file));
-            const json = JSON.parse(fileContent);
-            const keywords = json["keywords"];
-            for (const key in keywords) {
-                for (const key2 in keywords[key]) {
-                    wordsMap.set(key2, keywords[key][key2]);
-                }
-            }
-            languageMap.set(fileprefix, wordsMap);
-        }
-    }
-    return languageMap;
-}
+import { findDirWithPkgJson, buildI18NMap } from "./library.js";
+
 const dir = findDirWithPkgJson(".");
 console.log(dir);
 const zhCNMap = (await buildI18NMap(`${dir}/i18n`)).get('zh-cn');

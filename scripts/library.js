@@ -69,10 +69,30 @@ const getSvgFilesFromREADME = async (file) => {
     }
     return files;
 }
-
+const buildI18NMap = async (i18ndir) => {
+    const jsonFiles = await fsp.readdir(i18ndir);
+    const languageMap = new Map();
+    for (const file of jsonFiles) {
+        if (file.endsWith(".json")) {
+            const wordsMap = new Map();
+            const fileprefix = file.replace(".json", "");
+            const fileContent = await fsp.readFile(path.join(i18ndir, file));
+            const json = JSON.parse(fileContent);
+            const keywords = json["keywords"];
+            for (const key in keywords) {
+                for (const key2 in keywords[key]) {
+                    wordsMap.set(key2, keywords[key][key2]);
+                }
+            }
+            languageMap.set(fileprefix, wordsMap);
+        }
+    }
+    return languageMap;
+}
 export {
     findDirWithPkgJson,
     findSvgFiles,
     listSvgFiles,
-    getSvgFilesFromREADME
+    getSvgFilesFromREADME,
+    buildI18NMap
 }

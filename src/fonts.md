@@ -29,21 +29,19 @@
 </style>
 
 <script setup>
-import { ref, onMounted } from 'vue';
+import { ref, onMounted, watch } from 'vue';
 
 const wh40kClassNames = ref([]);
+const isFontLoaded = ref(false);
 const getWh40kClassNames = () => {
     const classNames = new Set();
-    // 遍历所有样式表
     for (const stylesheet of document.styleSheets) {
         if (stylesheet?.href !== undefined &&
             !stylesheet.href?.includes("warhammer")) {
             continue;
         }
-        // 遍历样式表中的所有规则
         for (const rule of stylesheet.cssRules) {
             if (rule.selectorText) {
-                // 查找前缀为 "wh40k-" 的类名
                 const matches = rule.selectorText.match(/\.wh40k-[\w-]+/g);
                 if (matches) {
                     matches.forEach(className => classNames.add(className.slice(1, className.length)));
@@ -56,18 +54,27 @@ const getWh40kClassNames = () => {
 onMounted(() => {
     const cssLink = document.getElementById('warhammer40k-css');
     cssLink.addEventListener('load', () => {
-        wh40kClassNames.value = getWh40kClassNames();
+        document.fonts.load('1em warhammer40k').then(() => {
+            wh40kClassNames.value = getWh40kClassNames();
+            isFontLoaded.value = true;
+            console.log('Font warhammer40k loaded');
+        });
     });
 });
-
+// 监听 wh40kClassNames 的变化
+watch([wh40kClassNames, isFontLoaded], ([newClassNames, newIsFontLoaded]) => {
+    if (newClassNames.length > 0 && newIsFontLoaded) {
+        console.log('CSS 文件和字体加载完成，开始渲染图标');
+    }
+});
 </script>
 
-<i class="wh40k-asuryani" style="font-size: 50px">example-element</i>
+<i v-if="isFontLoaded" class="wh40k-asuryani" style="font-size: 50px">example-element</i>
 
 # Warhammer 40K Fonts
 
 <div class="icon-container">
-    <div v-for="className in wh40kClassNames" :key="className" class="icon-item">
+    <div v-if="isFontLoaded" v-for="className in wh40kClassNames" :key="className" class="icon-item">
         <i :class="className"></i>
         <p>{{ className }}</p>
     </div>
