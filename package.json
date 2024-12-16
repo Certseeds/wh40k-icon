@@ -17,6 +17,14 @@
         "svg",
         "font"
     ],
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com",
+        "access": "public"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Certseeds/wh40k-icon.git"
+    },
     "author": "shitake",
     "license": "(OFL-1.1-RFN AND AGPL-3.0-or-later AND CC-BY-NC-SA-4.0)",
     "devDependencies": {
@@ -25,5 +33,12 @@
     },
     "dependencies": {
         "vue": "^3.5.13"
-    }
+    },
+    "files": [
+        "dist/",
+        "README.md",
+        "LICENSE_AGPL_V3_0.md",
+        "LICENSE_CC_BY_NC_SA_V4_0.md",
+        "LICENSE_OFL_1_1_RFN.md"
+    ]
 }

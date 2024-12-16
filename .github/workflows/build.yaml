@@ -39,3 +39,14 @@ jobs:
           path: ./dist
           compression-level: 9
           retention-days: 12
+
+      - name: Bump version with date prefix
+        run: |
+          DATE=$(date +'%Y%m%d%H%M%S')
+          npm version prerelease --preid=$DATE --no-git-tag-version
+          echo "Updated version to $(cat package.json | grep version)"
+
+      - name: Publish package
+        run: npm publish --tag alpha
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
