@@ -6,7 +6,6 @@ import fsp from 'node:fs/promises';
 import fs from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { findDirWithPkgJson, findSvgFiles } from "./library.js";
-import { exec, execSync } from 'node:child_process';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);

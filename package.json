@@ -23,7 +23,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Certseeds/wh40k-icon.git"
+        "url": "git+https://github.com/Certseeds/wh40k-icon.git"
     },
     "author": "shitake",
     "license": "(OFL-1.1-RFN AND AGPL-3.0-or-later AND CC-BY-NC-SA-4.0)",
