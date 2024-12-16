@@ -43,7 +43,7 @@ jobs:
       - name: Bump version with date prefix
         run: |
           DATE=$(date +'%Y%m%d%H%M%S')
-          npm version prerelease --preid=$DATE --no-git-tag-version
+          npm version prerelease --preid="alpha-${DATE}" --no-git-tag-version
           echo "Updated version to $(cat package.json | grep version)"
           echo "//npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_TOKEN }}" > ~/.npmrc
 
