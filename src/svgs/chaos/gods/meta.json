@@ -1,0 +1,55 @@
+[
+    {
+        "name": "khorne.svg",
+        "cn": "恐虐",
+        "keywords": [
+            "Chaos",
+            "Chaos Daemons",
+            "Gods"
+        ]
+    },
+    {
+        "name": "malice.svg",
+        "cn": "马里斯",
+        "keywords": [
+            "Chaos",
+            "Chaos Daemons",
+            "Gods"
+        ]
+    },
+    {
+        "name": "nurgle.svg",
+        "cn": "纳垢",
+        "keywords": [
+            "Chaos",
+            "Chaos Daemons",
+            "Gods"
+        ]
+    },
+    {
+        "name": "slaanesh.svg",
+        "cn": "色孽",
+        "keywords": [
+            "Chaos",
+            "Chaos Daemons",
+            "Gods"
+        ]
+    },
+    {
+        "name": "tzeentch.svg",
+        "cn": "奸奇",
+        "keywords": [
+            "Chaos",
+            "Chaos Daemons",
+            "Gods"
+        ]
+    },
+    {
+        "name": "zuvassin.svg",
+        "cn": "祖瓦辛",
+        "keywords": [
+            "Chaos",
+            "Gods"
+        ]
+    }
+]
