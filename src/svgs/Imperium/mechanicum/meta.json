@@ -1,0 +1,142 @@
+[
+    {
+        "name": "auxilia-myrmidon.svg",
+        "cn": "辅军精锐",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus"
+        ]
+    },
+    {
+        "name": "centurio-ordinatus.svg",
+        "cn": "百机队",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus"
+        ]
+    },
+    {
+        "name": "collegia-titanica.svg",
+        "cn": "泰坦学会",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Adeptus Titanicus"
+        ]
+    },
+    {
+        "name": "cult-mechanicus.svg",
+        "cn": "机械教教廷",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus"
+        ]
+    },
+    {
+        "name": "forge-world-agripinaa.svg",
+        "cn": "铸造世界-阿格里皮娜",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Forge World"
+        ]
+    },
+    {
+        "name": "forge-world-graia.svg",
+        "cn": "铸造世界-格拉亚",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Forge World"
+        ]
+    },
+    {
+        "name": "forge-world-lucius.svg",
+        "cn": "铸造世界-卢修斯",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Forge World"
+        ]
+    },
+    {
+        "name": "forge-world-mars.svg",
+        "cn": "铸造世界-火星",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Forge World"
+        ]
+    },
+    {
+        "name": "forge-world-metalica.svg",
+        "cn": "铸造世界-钢球",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Forge World"
+        ]
+    },
+    {
+        "name": "forge-world-ryza.svg",
+        "cn": "铸造世界-瑞扎",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Forge World"
+        ]
+    },
+    {
+        "name": "forge-world-stygies-viii.svg",
+        "cn": "铸造世界-黄泉八号",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Forge World"
+        ]
+    },
+    {
+        "name": "legio-cybernetica.svg",
+        "cn": "智控军团",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus"
+        ]
+    },
+    {
+        "name": "ordo-reductor.svg",
+        "cn": "还原修会",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus"
+        ]
+    },
+    {
+        "name": "questor-mechanicus.svg",
+        "cn": "机械教探索者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Questoris Knights",
+            "Imperial Knights"
+        ]
+    },
+    {
+        "name": "skitarii.svg",
+        "cn": "护教军",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus"
+        ]
+    },
+    {
+        "name": "titanica-legio-gryphonicus.svg",
+        "cn": "泰坦军团-狮鹫",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Collegia Titanica",
+            "Adeptus Titanicus"
+        ]
+    }
+]

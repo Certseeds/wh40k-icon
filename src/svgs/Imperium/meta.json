@@ -1,5 +1,12 @@
 [
     {
+        "name": "adeptus-mechanicus.svg",
+        "cn": "机械修会",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
         "name": "rogue-trader.svg",
         "cn": "行商浪人",
         "keywords": []
@@ -8,5 +15,17 @@
         "name": "skull-laurals.svg",
         "cn": "骷髅桂冠",
         "keywords": []
+    },
+    {
+        "name": "steel-confessors.svg",
+        "cn": "钢铁忏悔者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Adeptus Mechanicus",
+            "Space Marines",
+            "Iron Hands",
+            "Chapter"
+        ]
     }
 ]

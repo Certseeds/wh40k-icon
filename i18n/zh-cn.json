@@ -105,7 +105,16 @@
             "Adeptus Astartes": "阿斯塔特修会",
             "Space Marines": "星际战士",
             "Dark Angels": "暗黑天使",
+            "Iron Hands": "钢铁之手",
             "Chapter": "战团"
+        },
+        "mechanicum": {
+            "Adeptus Mechanicus": "机械修会",
+            "Adeptus Titanicus": "泰坦修会",
+            "Forge World": "铸造世界",
+            "Questoris Knights": "探索骑士",
+            "Imperial Knights": "帝国骑士",
+            "Collegia Titanica": "泰坦学会"
         }
     }
 }

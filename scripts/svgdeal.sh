@@ -3,7 +3,7 @@ set -euox pipefail
 main() {
     inkscape --version
     xmllint --version
-    # for i in ./*.png; do
+    # for i in ./*.avif; do
     #     echo ${i}
     #     convert \
     #         ${i} \
@@ -23,9 +23,6 @@ main() {
             --file="${i}" \
             --export-plain-svg \
             --export-filename="${i}"
-        xmllint \
-            --format "${i}" \
-            -o "${i}"
     done
 }
 main

@@ -11,7 +11,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const startDir = path.resolve(__dirname);
 const targetDir = findDirWithPkgJson(startDir) ?? "./../";
-const searchDir = targetDir + "/src/svgs/Xenos/harlequins";
+const searchDir = targetDir + "/src/svgs/Imperium/mechanicum";
 const svgs = await findSvgFiles(searchDir);
 
 console.log(`there are ${svgs.size} svg files`);
@@ -52,7 +52,7 @@ for (const svg of svgs) {
         }
     })();
     const cmd_file = path.join(searchDir, fileName);
-    await fsp.copyFile(path.join(searchDir, svg), cmd_file);
+    await fsp.rename(path.join(searchDir, svg), cmd_file);
     console.log(fileName, keywords);
     target.push({ "name": fileName, keywords });
 }
