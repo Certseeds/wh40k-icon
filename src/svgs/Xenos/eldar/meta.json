@@ -20,6 +20,50 @@
         ]
     },
     {
+        "name": "aspect-warriors-dire-avengers.svg",
+        "cn": "复仇者支派",
+        "keywords": [
+            "Aeldari",
+            "Eldar",
+            "Asuryani",
+            "Craftworlds",
+            "Aspect Warriors"
+        ]
+    },
+    {
+        "name": "aspect-warriors-fire-dragons.svg",
+        "cn": "火龙支派",
+        "keywords": [
+            "Aeldari",
+            "Eldar",
+            "Asuryani",
+            "Craftworlds",
+            "Aspect Warriors"
+        ]
+    },
+    {
+        "name": "aspect-warriors-howling-banshees.svg",
+        "cn": "狂嚎女妖支派",
+        "keywords": [
+            "Aeldari",
+            "Eldar",
+            "Asuryani",
+            "Craftworlds",
+            "Aspect Warriors"
+        ]
+    },
+    {
+        "name": "aspect-warriors-warp-spiders.svg",
+        "cn": "次元蜘蛛支派",
+        "keywords": [
+            "Aeldari",
+            "Eldar",
+            "Asuryani",
+            "Craftworlds",
+            "Aspect Warriors"
+        ]
+    },
+    {
         "name": "asuryani.svg",
         "cn": "阿苏焉尼",
         "keywords": [
@@ -57,33 +101,11 @@
         ]
     },
     {
-        "name": "dire-avengers.svg",
-        "cn": "复仇者支派",
-        "keywords": [
-            "Aeldari",
-            "Eldar",
-            "Asuryani",
-            "Craftworlds",
-            "Aspect Warriors"
-        ]
-    },
-    {
         "name": "exodites.svg",
         "cn": "蛮荒灵族",
         "keywords": [
             "Aeldari",
             "Eldar"
-        ]
-    },
-    {
-        "name": "fire-dragons.svg",
-        "cn": "火龙支派",
-        "keywords": [
-            "Aeldari",
-            "Eldar",
-            "Asuryani",
-            "Craftworlds",
-            "Aspect Warriors"
         ]
     },
     {
@@ -94,17 +116,6 @@
             "Eldar",
             "Asuryani",
             "Craftworlds"
-        ]
-    },
-    {
-        "name": "howling-banshees.svg",
-        "cn": "狂嚎女妖支派",
-        "keywords": [
-            "Aeldari",
-            "Eldar",
-            "Asuryani",
-            "Craftworlds",
-            "Aspect Warriors"
         ]
     },
     {
@@ -164,17 +175,6 @@
             "Eldar",
             "Asuryani",
             "Craftworlds"
-        ]
-    },
-    {
-        "name": "warp-spiders.svg",
-        "cn": "次元蜘蛛支派",
-        "keywords": [
-            "Aeldari",
-            "Eldar",
-            "Asuryani",
-            "Craftworlds",
-            "Aspect Warriors"
         ]
     },
     {
