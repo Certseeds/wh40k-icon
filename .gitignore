@@ -343,3 +343,8 @@ temp/
 *.pbm
 *.pgm
 *.ppm
+
+# more
+*.heic
+*.heif
+*.avif

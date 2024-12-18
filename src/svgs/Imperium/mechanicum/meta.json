@@ -33,8 +33,8 @@
         ]
     },
     {
-        "name": "forge-world-agripinaa.svg",
-        "cn": "铸造世界-阿格里皮娜",
+        "name": "forge-world-agripinaa-1.svg",
+        "cn": "铸造世界-阿格里皮娜-1",
         "keywords": [
             "Imperium",
             "Adeptus Mechanicus",
@@ -42,8 +42,8 @@
         ]
     },
     {
-        "name": "forge-world-graia.svg",
-        "cn": "铸造世界-格拉亚",
+        "name": "forge-world-agripinaa-2.svg",
+        "cn": "铸造世界-阿格里皮娜-2",
         "keywords": [
             "Imperium",
             "Adeptus Mechanicus",
@@ -51,8 +51,30 @@
         ]
     },
     {
-        "name": "forge-world-lucius.svg",
-        "cn": "铸造世界-卢修斯",
+        "name": "forge-world-deimos-1.svg",
+        "cn": "铸造世界-迪莫斯-1",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Forge World",
+            "Inquisition",
+            "Gray Knights"
+        ]
+    },
+    {
+        "name": "forge-world-deimos-2.svg",
+        "cn": "铸造世界-迪莫斯-2",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Forge World",
+            "Inquisition",
+            "Gray Knights"
+        ]
+    },
+    {
+        "name": "forge-world-graia-1.svg",
+        "cn": "铸造世界-格拉亚-1",
         "keywords": [
             "Imperium",
             "Adeptus Mechanicus",
@@ -60,8 +82,44 @@
         ]
     },
     {
-        "name": "forge-world-mars.svg",
-        "cn": "铸造世界-火星",
+        "name": "forge-world-graia-2.svg",
+        "cn": "铸造世界-格拉亚-2",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Forge World"
+        ]
+    },
+    {
+        "name": "forge-world-lucius-1.svg",
+        "cn": "铸造世界-卢修斯-1",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Forge World"
+        ]
+    },
+    {
+        "name": "forge-world-lucius-2.svg",
+        "cn": "铸造世界-卢修斯-2",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Forge World"
+        ]
+    },
+    {
+        "name": "forge-world-mars-1.svg",
+        "cn": "铸造世界-火星-1",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Forge World"
+        ]
+    },
+    {
+        "name": "forge-world-mars-2.svg",
+        "cn": "铸造世界-火星-2",
         "keywords": [
             "Imperium",
             "Adeptus Mechanicus",
@@ -78,8 +136,8 @@
         ]
     },
     {
-        "name": "forge-world-ryza.svg",
-        "cn": "铸造世界-瑞扎",
+        "name": "forge-world-ryza-1.svg",
+        "cn": "铸造世界-瑞扎-1",
         "keywords": [
             "Imperium",
             "Adeptus Mechanicus",
@@ -87,8 +145,62 @@
         ]
     },
     {
-        "name": "forge-world-stygies-viii.svg",
-        "cn": "铸造世界-黄泉八号",
+        "name": "forge-world-ryza-2.svg",
+        "cn": "铸造世界-瑞扎-2",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Forge World"
+        ]
+    },
+    {
+        "name": "forge-world-stygies-viii-1.svg",
+        "cn": "铸造世界-黄泉八号-1",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Forge World"
+        ]
+    },
+    {
+        "name": "forge-world-stygies-viii-2.svg",
+        "cn": "铸造世界-黄泉八号-2",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Forge World"
+        ]
+    },
+    {
+        "name": "forge-world-triplex-phall.svg",
+        "cn": "铸造世界-三重法尔",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Forge World"
+        ]
+    },
+    {
+        "name": "forge-world-voss-prime-1.svg",
+        "cn": "铸造世界-沃斯主星-1",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Forge World"
+        ]
+    },
+    {
+        "name": "forge-world-voss-prime-2.svg",
+        "cn": "铸造世界-沃斯主星-2",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Forge World"
+        ]
+    },
+    {
+        "name": "forge-world-zhao-arkhad.svg",
+        "cn": "铸造世界-赵-阿卡达",
         "keywords": [
             "Imperium",
             "Adeptus Mechanicus",
