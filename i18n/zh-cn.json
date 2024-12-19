@@ -16,7 +16,7 @@
             "Greater Good": "上上善道",
             "T_au Empire": "钛帝国",
             "Caste": "种姓",
-            "Renegades": "远见飞地",
+            "Renegades": "叛徒",
             "Sept": "家门世界",
             "Auxillaries": "辅助军"
         },
@@ -63,9 +63,6 @@
             "Gods": "神",
             "Grotz": "屁精"
         },
-        "legions": {
-            "Legion": "军团"
-        },
         "chaos": {
             "Chaos": "混沌",
             "Heretic Astartes": "叛徒阿斯塔特",
@@ -104,10 +101,22 @@
             "Imperium": "人类帝国",
             "Adeptus Astartes": "阿斯塔特修会",
             "Space Marines": "星际战士",
-            "Dark Angels": "暗黑天使",
-            "Iron Hands": "钢铁之手",
             "Chapter": "战团",
-            "Gray Knights": "灰骑士"
+            "Gray Knights": "灰骑士",
+            "Ordo Xenos": "攘外修会",
+            "Ordo Malleus": "圣锤修会"
+        },
+        "legions": {
+            "Legion": "军团",
+            "Dark Angels": "暗黑天使",
+            "White Scars": "白色伤疤",
+            "Space Wolves": "太空野狼",
+            "Imperial Fists": "帝国之拳",
+            "Blood Angels": "圣血天使",
+            "Iron Hands": "钢铁之手",
+            "Ultramarines": "极限战士",
+            "Salamanders": "火蜥蜴",
+            "Raven Guard": "渡鸦守卫"
         },
         "mechanicum": {
             "Adeptus Mechanicus": "机械修会",

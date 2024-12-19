@@ -1,5 +1,58 @@
 [
     {
+        "name": "absolvers.svg",
+        "cn": "赦免者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Blood Angels",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "angels-eradicant.svg",
+        "cn": "根除天使",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "angels-of-absolution.svg",
+        "cn": "赦免天使",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Dark Angels",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "angels-of-defiance.svg",
+        "cn": "抗争天使",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Dark Angels",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "angels-of-iron.svg",
+        "cn": "铁天使",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Chapter"
+        ]
+    },
+    {
         "name": "angels-of-redemption.svg",
         "cn": "救赎天使",
         "keywords": [
@@ -40,6 +93,519 @@
             "Adeptus Astartes",
             "Space Marines",
             "Dark Angels",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "angels-penitent.svg",
+        "cn": "赎罪天使",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Blood Angels",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "astral-claws.svg",
+        "cn": "星界之爪",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Renegades Astartes",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "avengers.svg",
+        "cn": "复仇者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "avenging-sons.svg",
+        "cn": "复仇之子",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Ultramarines",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "black-dragons.svg",
+        "cn": "黑龙",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Salamanders",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "black-templars.svg",
+        "cn": "黑色圣堂",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Imperial Fists",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "black-wings.svg",
+        "cn": "黑翼",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "blades-of-vengeance.svg",
+        "cn": "复仇之刃",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Dark Angels",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "blood-drinkers.svg",
+        "cn": "饮血者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Blood Angels",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "blood-ravens.svg",
+        "cn": "血鸦",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "blood-swords.svg",
+        "cn": "血剑",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Blood Angels",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "carcharodons.svg",
+        "cn": "噬人鲨",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "celestial-lions.svg",
+        "cn": "天狮",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Imperial Fists",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "charnel-guard.svg",
+        "cn": "葬墓守卫",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Blood Angels",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "consecrators.svg",
+        "cn": "奉献者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Dark Angels",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "crimson-talons.svg",
+        "cn": "猩红之爪",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "death-eagles.svg",
+        "cn": "死亡之鹰",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Raven Guard",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "death-spectres.svg",
+        "cn": "死亡幽灵",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Raven Guard",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "deathwatch.svg",
+        "cn": "死亡守望",
+        "keywords": [
+            "Imperium",
+            "Inquisition",
+            "Ordo Xenos",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "destroyers.svg",
+        "cn": "毁灭者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "White Scars",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "disciples-of-caliban.svg",
+        "cn": "卡利班门徒",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Dark Angels",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "emperor_s-spears.svg",
+        "cn": "帝皇之矛",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Ultramarines",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "executioners.svg",
+        "cn": "处刑者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Imperial Fists",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "exorcists.svg",
+        "cn": "驱魔人",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Grey Knights",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "fire-hawks.svg",
+        "cn": "火鹰",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Ultramarines",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "flesh-tearers.svg",
+        "cn": "撕肉者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Blood Angels",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "grey-knights.svg",
+        "cn": "灰骑士",
+        "keywords": [
+            "Imperium",
+            "Inquisition",
+            "Ordo Malleus",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "guardians-of-the-covenant.svg",
+        "cn": "契卫",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Dark Angels",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "iron-knights.svg",
+        "cn": "铁骑士",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Imperial Fists",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "iron-lords.svg",
+        "cn": "钢铁领主",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Chapter",
+            "Iron Hands"
+        ]
+    },
+    {
+        "name": "knights-of-blood.svg",
+        "cn": "血骑士",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Blood Angels",
+            "Chapter",
+            "Renegades Astartes"
+        ]
+    },
+    {
+        "name": "lamenters.svg",
+        "cn": "恸哭者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Blood Angels",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "minotaurs.svg",
+        "cn": "米诺陶",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "High Lords of Terra",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "necropolis-hawks.svg",
+        "cn": "亡灵猎鹰",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Raven Guard",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "novamarines.svg",
+        "cn": "新星战士",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Ultramarines",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "raptors.svg",
+        "cn": "新星战士",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Raven Guard",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "red-scorpions.svg",
+        "cn": "红蝎",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "silver-skulls.svg",
+        "cn": "银色颅骨",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Ultramarines",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "silver-templars.svg",
+        "cn": "银色圣堂",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Ultramarines",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "sons-of-medusa-2.svg",
+        "cn": "美杜莎之子-2",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Chapter",
+            "Iron Hands"
+        ]
+    },
+    {
+        "name": "sons-of-medusa.svg",
+        "cn": "美杜莎之子",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Chapter",
+            "Iron Hands"
+        ]
+    },
+    {
+        "name": "sons-of-the-phoenix.svg",
+        "cn": "凤凰之子",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Imperial Fists",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "soul-drinkers.svg",
+        "cn": "饮魂者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Imperial Fists",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "star-dragons.svg",
+        "cn": "星龙",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "star-phantoms.svg",
+        "cn": "星空幻影",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "steel-confessors.svg",
+        "cn": "钢铁忏悔者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Adeptus Mechanicus",
+            "Space Marines",
+            "Iron Hands",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "void-tridents.svg",
+        "cn": "虚空三叉戟",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Ultramarines",
             "Chapter"
         ]
     }

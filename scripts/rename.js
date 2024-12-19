@@ -11,7 +11,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const startDir = path.resolve(__dirname);
 const targetDir = findDirWithPkgJson(startDir) ?? "./../";
-const searchDir = targetDir + "/src/svgs/Imperium/mechanicum";
+const searchDir = targetDir + "/src/svgs/AstartesChapters";
 const svgs = await findSvgFiles(searchDir);
 
 console.log(`there are ${svgs.size} svg files`);

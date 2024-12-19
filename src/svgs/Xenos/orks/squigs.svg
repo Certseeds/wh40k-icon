@@ -5,15 +5,6 @@
     <defs id="defs2">
         <pattern id="EMFhbasepattern" patternUnits="userSpaceOnUse" width="6" height="6" x="0" y="0" />
     </defs>
-    <metadata id="metadata5">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>image/svg+xml</dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-                <dc:title />
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
     <g transform="translate(-66.492227,-120.18746)" id="layer1">
         <path
             d="m 262.06085,120.18746 -25.75449,39.4364 -28.97326,-20.92627 -16.09797,24.94781 -27.35998,-25.75051 -24.95171,24.14105 -19.31681,-18.51013 -20.922373,25.7545 -24.14504,-27.36388 -8.04699,107.03938 37.020263,46.68069 141.64762,-8.047 32.99879,-53.92505 z m -28.97326,66.8002 v 36.21763 l -41.31077,-0.56931 -2.15115,-13.9192 z m -131.99117,11.26591 41.85254,10.46314 0.8027,15.29128 -39.4364,4.02553 z"

@@ -3,15 +3,6 @@
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#"
     xmlns:dc="http://purl.org/dc/elements/1.1/">
     <defs id="defs2" />
-    <metadata id="metadata5">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>image/svg+xml</dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-                <dc:title />
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
     <g id="layer1" transform="translate(-24.078436,52.803574)">
         <g id="g882" transform="matrix(3.1933887,0,0,3.1933887,-122.42823,-378.61495)">
             <rect y="111.37948" x="46.272049" height="51.45306" width="99.926216" id="rect826"

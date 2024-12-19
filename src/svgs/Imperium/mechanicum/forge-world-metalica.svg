@@ -4,16 +4,6 @@
     height="800.00006" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#"
     xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata id="metadata57">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>image/svg+xml</dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-                <dc:title />
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <defs id="defs55" />
     <g id="g50" transform="matrix(1.0013644,0,0,1.0013644,-31.643115,-101.48828)">
         <path
             d="M 968,583.59 V 478.84 H 798.97 C 804,658 693.71,732.03 538.2,734.36 v 165.9 h 103.26 v -68.04 c 21.56,-4.38 42.09,-10.19 61.5,-17.47 l 33.91,59.59 87.89,-50.01 -33.69,-59.21 c 15.34,-12.39 29.41,-26.34 42.1,-41.91 l 58.32,34.82 51.85,-86.78 -59.98,-35.81 c 6.26,-16.24 11.61,-33.51 15.99,-51.83 H 968 Z"
