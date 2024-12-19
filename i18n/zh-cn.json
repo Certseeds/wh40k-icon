@@ -104,7 +104,8 @@
             "Chapter": "战团",
             "Gray Knights": "灰骑士",
             "Ordo Xenos": "攘外修会",
-            "Ordo Malleus": "圣锤修会"
+            "Ordo Malleus": "圣锤修会",
+            "Renegades Astartes": "叛徒阿斯塔特"
         },
         "legions": {
             "Legion": "军团",
@@ -116,7 +117,7 @@
             "Iron Hands": "钢铁之手",
             "Ultramarines": "极限战士",
             "Salamanders": "火蜥蜴",
-            "Raven Guard": "渡鸦守卫"
+            "Raven Guard": "暗鸦守卫"
         },
         "mechanicum": {
             "Adeptus Mechanicus": "机械修会",
