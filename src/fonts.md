@@ -2,8 +2,6 @@
     layout: home
 ---
 
-<link rel="stylesheet" href="/wh40k-icon/font/warhammer40k.css"  id="warhammer40k-css">
-
 <style>
 .icon-container {
     display: flex;
@@ -35,6 +33,7 @@ const wh40kClassNames = ref([]);
 const isFontLoaded = ref(false);
 const getWh40kClassNames = () => {
     const classNames = new Set();
+    const regex = /\.wh40k-[\w-]+/g;
     for (const stylesheet of document.styleSheets) {
         if (stylesheet?.href !== undefined &&
             !stylesheet.href?.includes("warhammer")) {
@@ -42,7 +41,7 @@ const getWh40kClassNames = () => {
         }
         for (const rule of stylesheet.cssRules) {
             if (rule.selectorText) {
-                const matches = rule.selectorText.match(/\.wh40k-[\w-]+/g);
+                const matches = rule.selectorText.match(regex);
                 if (matches) {
                     matches.forEach(className => classNames.add(className.slice(1, className.length)));
                 }
@@ -52,14 +51,19 @@ const getWh40kClassNames = () => {
     return Array.from(classNames);
 }
 onMounted(() => {
-    const cssLink = document.getElementById('warhammer40k-css');
-    cssLink.addEventListener('load', () => {
+    // 动态创建 link 元素
+    const cssLink = document.createElement('link');
+    cssLink.rel = 'stylesheet';
+    cssLink.href = '/wh40k-icon/font/warhammer40k.css';
+    cssLink.id = 'warhammer40k-css';
+    cssLink.onload = () => {
         document.fonts.load('1em warhammer40k').then(() => {
             wh40kClassNames.value = getWh40kClassNames();
             isFontLoaded.value = true;
             console.log('Font warhammer40k loaded');
         });
-    });
+    };
+    document.head.appendChild(cssLink);
 });
 // 监听 wh40kClassNames 的变化
 watch([wh40kClassNames, isFontLoaded], ([newClassNames, newIsFontLoaded]) => {
