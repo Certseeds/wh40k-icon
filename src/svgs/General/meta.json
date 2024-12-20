@@ -1,12 +1,22 @@
 [
     {
+        "name": "bolter-mkv-02.svg",
+        "cn": "马克V型爆弹枪-02",
+        "keywords": []
+    },
+    {
+        "name": "bolter-mkv.svg",
+        "cn": "马克V型爆弹枪",
+        "keywords": []
+    },
+    {
         "name": "kill-team.svg",
-        "cn":"杀戮小队",
+        "cn": "杀戮小队",
         "keywords": []
     },
     {
         "name": "user.svg",
-        "cn":"玩家",
+        "cn": "玩家",
         "keywords": []
     }
 ]

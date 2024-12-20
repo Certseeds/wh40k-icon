@@ -1,0 +1,74 @@
+[
+    {
+        "name": "apothecarium-01.svg",
+        "cn": "药剂师-01",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines"
+        ]
+    },
+    {
+        "name": "apothecarium-02.svg",
+        "cn": "药剂师-02",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines"
+        ]
+    },
+    {
+        "name": "crux-terminatus-01.svg",
+        "cn": "终结者十字章-01",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines"
+        ]
+    },
+    {
+        "name": "librarian-codicier.svg",
+        "cn": "智库-典记长",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines"
+        ]
+    },
+    {
+        "name": "librarian-epistolary.svg",
+        "cn": "智库-星语官",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines"
+        ]
+    },
+    {
+        "name": "librarian-lexicanum.svg",
+        "cn": "智库-编修员",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines"
+        ]
+    },
+    {
+        "name": "librarius-01.svg",
+        "cn": "智库-01",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines"
+        ]
+    },
+    {
+        "name": "librarius-02.svg",
+        "cn": "智库-02",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines"
+        ]
+    }
+]

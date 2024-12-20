@@ -1,5 +1,40 @@
 [
     {
+        "name": "adeptus-administratum.svg",
+        "cn": "内政部",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
+        "name": "adeptus-arbites.svg",
+        "cn": "法务部",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
+        "name": "adeptus-astartes.svg",
+        "cn": "阿斯塔特修会",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
+        "name": "adeptus-astronomica.svg",
+        "cn": "星炬庭",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
+        "name": "adeptus-custodes.svg",
+        "cn": "禁军修会",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
         "name": "adeptus-mechanicus.svg",
         "cn": "机械修会",
         "keywords": [
@@ -7,13 +42,101 @@
         ]
     },
     {
+        "name": "adeptus-ministorum.svg",
+        "cn": "国教修会",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
+        "name": "adeptus-terra.svg",
+        "cn": "泰拉庭",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
+        "name": "astra-militarum.svg",
+        "cn": "星界军",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
+        "name": "imperial-aquila-02.svg",
+        "cn": "帝国天鹰-02",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
+        "name": "imperial-aquila.svg",
+        "cn": "帝国天鹰",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
+        "name": "imperial-navy.svg",
+        "cn": "帝国海军",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
+        "name": "inquisition-01.svg",
+        "cn": "审判庭-01",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
+        "name": "inquisition-02.svg",
+        "cn": "审判庭-02",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
+        "name": "navis-nobilite.svg",
+        "cn": "导航员家族",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
+        "name": "officio-assassinorum.svg",
+        "cn": "刺客庭",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
         "name": "rogue-trader.svg",
         "cn": "行商浪人",
-        "keywords": []
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
+        "name": "sisters-of-battle.svg",
+        "cn": "战斗修女",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
+        "name": "skull-01.svg",
+        "cn": "骷髅-01",
+        "keywords": [
+            "Imperium"
+        ]
     },
     {
         "name": "skull-laurals.svg",
         "cn": "骷髅桂冠",
-        "keywords": []
+        "keywords": [
+            "Imperium"
+        ]
     }
 ]
