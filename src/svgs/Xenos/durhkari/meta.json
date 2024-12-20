@@ -171,7 +171,73 @@
     },
     {
         "name": "cult-of-strife.svg",
-        "cn": "争斗教派",
+        "cn": "纷争教派",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Wych Cult",
+            "Hekatarii"
+        ]
+    },
+    {
+        "name": "cult-of-the-blade-denied.svg",
+        "cn": "拒却之刃教派",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Wych Cult",
+            "Hekatarii"
+        ]
+    },
+    {
+        "name": "cult-of-the-cursed-blade.svg",
+        "cn": "诅咒之刃教派",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Wych Cult",
+            "Hekatarii"
+        ]
+    },
+    {
+        "name": "cult-of-the-pain-eternal.svg",
+        "cn": "痛苦永恒教派",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Wych Cult",
+            "Hekatarii"
+        ]
+    },
+    {
+        "name": "cult-of-the-red-grief.svg",
+        "cn": "血红悲恸教派",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Wych Cult",
+            "Hekatarii"
+        ]
+    },
+    {
+        "name": "cult-of-the-seventh-woe.svg",
+        "cn": "第七殇教派",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Wych Cult",
+            "Hekatarii"
+        ]
+    },
+    {
+        "name": "cult-of-the-wrath-unbound.svg",
+        "cn": "不羁之怒教派",
         "keywords": [
             "Aeldari",
             "Drukhari",

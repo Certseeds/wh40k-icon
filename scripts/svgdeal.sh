@@ -4,6 +4,9 @@ main() {
     inkscape --version
     xmllint --version
     for i in ./*.avif; do
+        if [[ "${i}" == "./*.avif" ]]; then
+            continue;
+        fi
         echo ${i}
         convert \
             ${i} \
