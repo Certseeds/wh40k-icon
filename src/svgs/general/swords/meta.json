@@ -9,7 +9,10 @@
     },
     {
         "name": "sword-03.svg",
-        "keywords": []
+        "cn": "带有极限战士标志的剑",
+        "keywords": [
+            "Ultramarines"
+        ]
     },
     {
         "name": "sword-04.svg",

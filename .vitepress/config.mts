@@ -11,9 +11,9 @@ export default defineConfig({
         nav: [
             { text: 'Home', link: '/' }
             , { text: "混沌", link: '/svgs/chaos/README' }
-            , { text: "通用", link: '/svgs/General/README' }
-            , { text: "帝国", link: '/svgs/Imperium/README' }
-            , { text: "异形", link: "/svgs/Xenos/README" }
+            , { text: "通用", link: '/svgs/general/README' }
+            , { text: "帝国", link: '/svgs/human_imperium/README' }
+            , { text: "异形", link: "/svgs/xenos/README" }
             , { text: "font-page", link: "/fonts" }
         ],
         sidebar: [],

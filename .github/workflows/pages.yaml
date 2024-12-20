@@ -44,6 +44,7 @@ jobs:
 
       - name: cp files to dist
         run: |
+            rm -rf ./dist/svgs
             cp -r ./dist ./src/public/font
 
       - name: pnpm build page
