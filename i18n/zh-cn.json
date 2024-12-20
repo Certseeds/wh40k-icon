@@ -130,6 +130,13 @@
             "Questoris Knights": "探索骑士",
             "Imperial Knights": "帝国骑士",
             "Collegia Titanica": "泰坦学会"
+        },
+        "battle_sisters": {
+            "Adeptus Ministorum": "帝国国教",
+            "Adepta Sororitas":"修女会",
+            "Sisters of Battle": "战斗修女",
+            "Battle Sisters": "战斗修女",
+            "Order": "修道会"
         }
     }
 }

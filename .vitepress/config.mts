@@ -47,7 +47,7 @@ export default defineConfig({
         ['meta', { property: 'og:type', content: 'website' }],
         ['meta', { property: 'og:locale', content: 'zh-CN' }],
         ['meta', { property: 'og:title', content: 'wh40k-icon | warhammer 40k icons show page' }],
-        ['meta', { property: 'og:site_name', content: 'ViteBooks' }],
+        ['meta', { property: 'og:site_name', content: 'wh40k-icon' }],
         ['meta', { property: 'og:url', content: 'https://certseeds.github.io/wh40k-icon' }],
         ['meta', { property: 'twitter:card', content: 'summary_large_image' }],
         ['meta', { property: 'twitter:title', content: 'wh40k-icon | warhammer 40k icons show page' }],

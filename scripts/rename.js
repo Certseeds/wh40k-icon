@@ -7,12 +7,8 @@ import fs from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { findDirWithPkgJson, findSvgFiles } from "./library.js";
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-const startDir = path.resolve(__dirname);
-const targetDir = findDirWithPkgJson(startDir) ?? "./../";
-const searchDir = targetDir + "/src/svgs/AstartesChapters";
-const svgs = await findSvgFiles(searchDir);
+const searchDir = process.cwd()
+const svgs = await findSvgFiles(process.cwd());
 
 console.log(`there are ${svgs.size} svg files`);
 
