@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" width="517.31268" height="800" viewBox="0 0 136.87231 211.66667" version="1.1" id="svg8">
+  <defs id="defs2"/>
+  <g id="layer1" transform="translate(-70.241706,-20.618893)">
+    <g id="g872" style="fill:#B22746;fill-opacity:1;stroke:none;stroke-opacity:1" transform="matrix(1.6998698,0,0,1.6998698,-49.16005,-162.56965)">
+      <path id="path837" d="m 70.241707,178.82784 40.259553,53.45772 40.25956,-53.45772 h -34.1173 v 8.03465 h 17.39171 L 110.50126,218.11175 86.9673,186.86249 h 17.3917 v -8.03465 z" style="opacity:1;fill:#B22746;fill-opacity:1;stroke:none;stroke-width:0.13086672;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"/>
+      <path id="path842" d="m 70.242,124.2105 34.117,45.30163 V 155.33832 L 86.9673,132.24516 h 17.3917 v -8.03466 z m 46.40152,0 v 8.03466 h 17.39171 l -17.39171,23.09316 v 14.17381 L 150.761,124.2105 Z" style="opacity:1;fill:#B22746;fill-opacity:1;stroke:none;stroke-width:0.13086672;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"/>
+      <rect y="147.13245" x="106.15454" height="46.302082" width="8.6934528" id="rect844" style="opacity:1;fill:#B22746;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"/>
+      <path id="path857" d="m 123.03909,107.76622 c 10.65094,12.15812 1.19687,7.77208 -12.53773,3.72845 -14.868471,-4.09853 -34.684207,-7.67763 -39.687503,9.63197 h 27.149764 c -10.650935,-12.15812 -1.196867,-7.77207 12.537739,-3.72845 14.86846,4.09853 34.6842,7.67763 39.68749,-9.63197 z" style="fill:#B22746;fill-opacity:1;stroke:none;stroke-width:0.26082483px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    </g>
+  </g>
+</svg>

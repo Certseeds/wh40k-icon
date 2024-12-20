@@ -1,25 +1,5 @@
 [
     {
-        "name": "alaitoc.svg",
-        "cn": "阿莱托克方舟",
-        "keywords": [
-            "Aeldari",
-            "Eldar",
-            "Asuryani",
-            "Craftworlds"
-        ]
-    },
-    {
-        "name": "altansar.svg",
-        "cn": "奥坦萨方舟",
-        "keywords": [
-            "Aeldari",
-            "Eldar",
-            "Asuryani",
-            "Craftworlds"
-        ]
-    },
-    {
         "name": "aspect-warriors-dire-avengers.svg",
         "cn": "复仇者支派",
         "keywords": [
@@ -73,11 +53,141 @@
         ]
     },
     {
+        "name": "craftworld-alaitoc.svg",
+        "cn": "方舟世界阿莱托克",
+        "keywords": [
+            "Aeldari",
+            "Eldar",
+            "Asuryani",
+            "Craftworlds"
+        ]
+    },
+    {
+        "name": "craftworld-altansar.svg",
+        "cn": "方舟世界奥坦萨",
+        "keywords": [
+            "Aeldari",
+            "Eldar",
+            "Asuryani",
+            "Craftworlds"
+        ]
+    },
+    {
+        "name": "craftworld-biel-tan.svg",
+        "cn": "方舟世界比耶坦",
+        "keywords": [
+            "Aeldari",
+            "Eldar",
+            "Asuryani",
+            "Craftworlds"
+        ]
+    },
+    {
+        "name": "craftworld-black-library.svg",
+        "cn": "方舟世界黑图书馆",
+        "keywords": [
+            "Aeldari",
+            "Eldar",
+            "Asuryani",
+            "Craftworlds"
+        ]
+    },
+    {
         "name": "craftworld-eldar.svg",
         "cn": "方舟灵族",
         "keywords": [
             "Aeldari",
             "Eldar",
+            "Craftworlds"
+        ]
+    },
+    {
+        "name": "craftworld-il-kaithe.svg",
+        "cn": "方舟世界艾尔凯斯",
+        "keywords": [
+            "Aeldari",
+            "Eldar",
+            "Asuryani",
+            "Craftworlds"
+        ]
+    },
+    {
+        "name": "craftworld-iyanden.svg",
+        "cn": "方舟世界伊扬登",
+        "keywords": [
+            "Aeldari",
+            "Eldar",
+            "Asuryani",
+            "Craftworlds"
+        ]
+    },
+    {
+        "name": "craftworld-iybraesil.svg",
+        "cn": "方舟世界伊布莱希",
+        "keywords": [
+            "Aeldari",
+            "Eldar",
+            "Asuryani",
+            "Craftworlds"
+        ]
+    },
+    {
+        "name": "craftworld-kaelor.svg",
+        "cn": "方舟世界科洛尔",
+        "keywords": [
+            "Aeldari",
+            "Eldar",
+            "Asuryani",
+            "Craftworlds"
+        ]
+    },
+    {
+        "name": "craftworld-lugganath.svg",
+        "cn": "方舟世界拉格奈什",
+        "keywords": [
+            "Aeldari",
+            "Eldar",
+            "Asuryani",
+            "Craftworlds"
+        ]
+    },
+    {
+        "name": "craftworld-mymeara.svg",
+        "cn": "方舟世界迈耶拉",
+        "keywords": [
+            "Aeldari",
+            "Eldar",
+            "Asuryani",
+            "Craftworlds"
+        ]
+    },
+    {
+        "name": "craftworld-saim-hann.svg",
+        "cn": "方舟世界萨姆罕",
+        "keywords": [
+            "Aeldari",
+            "Eldar",
+            "Asuryani",
+            "Craftworlds"
+        ]
+    },
+    {
+        "name": "craftworld-ulthwe.svg",
+        "cn": "方舟世界乌瑟维",
+        "keywords": [
+            "Aeldari",
+            "Eldar",
+            "Asuryani",
+            "Craftworlds"
+        ]
+    },
+    {
+        "name": "craftworld-yme-loc.svg",
+        "cn": "方舟世界伊梅洛克",
+        "keywords": [
+            "Aeldari",
+            "Eldar",
+            "Asuryani",
             "Craftworlds"
         ]
     },
@@ -88,16 +198,6 @@
             "Aeldari",
             "Eldar",
             "Gods"
-        ]
-    },
-    {
-        "name": "biel-tan.svg",
-        "cn": "比耶坦方舟",
-        "keywords": [
-            "Aeldari",
-            "Eldar",
-            "Asuryani",
-            "Craftworlds"
         ]
     },
     {
@@ -119,32 +219,12 @@
         ]
     },
     {
-        "name": "iyanden.svg",
-        "cn": "伊扬登方舟",
-        "keywords": [
-            "Aeldari",
-            "Eldar",
-            "Asuryani",
-            "Craftworlds"
-        ]
-    },
-    {
         "name": "morai-heg.svg",
         "cn": "老妪-茉莉黑格",
         "keywords": [
             "Aeldari",
             "Eldar",
             "Gods"
-        ]
-    },
-    {
-        "name": "mymeara.svg",
-        "cn": "迈耶拉方舟",
-        "keywords": [
-            "Aeldari",
-            "Eldar",
-            "Asuryani",
-            "Craftworlds"
         ]
     },
     {
@@ -155,26 +235,6 @@
             "Eldar",
             "Eshairr",
             "Rangers"
-        ]
-    },
-    {
-        "name": "saim-hann.svg",
-        "cn": "萨姆罕方舟",
-        "keywords": [
-            "Aeldari",
-            "Eldar",
-            "Asuryani",
-            "Craftworlds"
-        ]
-    },
-    {
-        "name": "ulthwe.svg",
-        "cn": "乌瑟维方舟",
-        "keywords": [
-            "Aeldari",
-            "Eldar",
-            "Asuryani",
-            "Craftworlds"
         ]
     },
     {

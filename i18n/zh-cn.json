@@ -37,7 +37,8 @@
             "Craftworlds": "方舟世界",
             "Aspect Warriors": "支派武士",
             "Rillietann": "丑角",
-            "Rangers": "道途"
+            "Rangers": "道途",
+            "Eshairr": "不忠诚于任何方舟世界的流放者"
         },
         "durhkari": {
             "Aeldari": "艾达灵族",
@@ -46,7 +47,8 @@
             "Wych Cult": "巫灵教派",
             "Soul Drinkers": "饮魂者",
             "Kabal": "阴谋团",
-            "Haemonculus Covens": "血伶人巫会"
+            "Haemonculus Covens": "血伶人巫会",
+            "Hekatarii": "巫灵"
         },
         "genestealer_cult": {
             "Hive Mind": "蜂巢心智",
@@ -84,7 +86,8 @@
             "Renegade Knights": "叛逆骑士",
             "Astral Claws": "星爪",
             "Red Corsairs": "红海盗",
-            "PDF": "行星防卫军"
+            "PDF": "行星防卫军",
+            "Horus Heresy": "荷鲁斯叛乱"
         },
         "unit-type": {
             "UnitType": "单位类型",
@@ -102,10 +105,11 @@
             "Adeptus Astartes": "阿斯塔特修会",
             "Space Marines": "星际战士",
             "Chapter": "战团",
-            "Gray Knights": "灰骑士",
+            "Grey Knights": "灰骑士",
             "Ordo Xenos": "攘外修会",
             "Ordo Malleus": "圣锤修会",
-            "Renegades Astartes": "叛徒阿斯塔特"
+            "Renegades Astartes": "叛徒阿斯塔特",
+            "High Lords of Terra": "泰拉高领主"
         },
         "legions": {
             "Legion": "军团",
