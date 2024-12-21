@@ -49,6 +49,21 @@
         ]
     },
     {
+        "name": "adeptus-astra-telepathica-2.svg",
+        "cn": "星语庭-2",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
+        "name": "adeptus-astra-telepathica-preheresy.svg",
+        "cn": "星语庭-荷鲁斯叛乱前",
+        "keywords": [
+            "Imperium",
+            "Great Crusade"
+        ]
+    },
+    {
         "name": "adeptus-astronomica.svg",
         "cn": "星炬庭",
         "keywords": [
@@ -71,6 +86,13 @@
         ]
     },
     {
+        "name": "adeptus-mechanicus-2.svg",
+        "cn": "机械修会-2",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
         "name": "adeptus-ministorum.svg",
         "cn": "国教修会",
         "keywords": [
@@ -79,8 +101,23 @@
         ]
     },
     {
+        "name": "adeptus-munitorum.svg",
+        "cn": "军务部",
+        "keywords": [
+            "Imperium",
+            "Astra Militarum"
+        ]
+    },
+    {
         "name": "adeptus-terra.svg",
         "cn": "泰拉庭",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
+        "name": "adeptus-terra-2.svg",
+        "cn": "泰拉庭-2",
         "keywords": [
             "Imperium"
         ]
@@ -109,6 +146,13 @@
         ]
     },
     {
+        "name": "high-lords-of-terra-2.svg",
+        "cn": "泰拉高领主-2",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
         "name": "imperial-aquila-02.svg",
         "cn": "帝国天鹰-02",
         "keywords": [
@@ -132,17 +176,25 @@
         ]
     },
     {
-        "name": "imperial-navy-02.svg",
+        "name": "imperial-navy.svg",
+        "cn": "帝国海军",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
+        "name": "imperial-navy-2.svg",
         "cn": "帝国海军-2",
         "keywords": [
             "Imperium"
         ]
     },
     {
-        "name": "imperial-navy.svg",
-        "cn": "帝国海军",
+        "name": "imperialis-auxilia.svg",
+        "cn": "帝国军",
         "keywords": [
-            "Imperium"
+            "Imperium",
+            "Great Crusade"
         ]
     },
     {
@@ -155,6 +207,13 @@
     {
         "name": "inquisition-02.svg",
         "cn": "审判庭-02",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
+        "name": "inquisition-03.svg",
+        "cn": "审判庭-03",
         "keywords": [
             "Imperium"
         ]
@@ -178,10 +237,40 @@
         ]
     },
     {
+        "name": "malcador-the-sigillite.svg",
+        "cn": "掌印者马卡多",
+        "keywords": [
+            "Imperium",
+            "Hero"
+        ]
+    },
+    {
+        "name": "militarum-auxilia.svg",
+        "cn": "亚人辅助军",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
         "name": "navis-nobilite.svg",
         "cn": "导航员家族",
         "keywords": [
             "Imperium"
+        ]
+    },
+    {
+        "name": "navis-nobilite-2.svg",
+        "cn": "导航员家族-2",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
+        "name": "navis-nobilite-preheresy.svg",
+        "cn": "导航员家族-荷鲁斯叛乱前",
+        "keywords": [
+            "Imperium",
+            "Great Crusade"
         ]
     },
     {
@@ -281,6 +370,13 @@
             "Imperium",
             "Adeptus Custodes",
             "Sisters of Silence"
+        ]
+    },
+    {
+        "name": "officio-prefectus.svg",
+        "cn": "政委厅",
+        "keywords": [
+            "Imperium"
         ]
     }
 ]

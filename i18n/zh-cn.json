@@ -101,6 +101,7 @@
         },
         "Imperium": {
             "Emperor": "帝皇",
+            "Hero": "英雄",
             "Imperium": "人类帝国",
             "Great Crusade": "大远征",
             "Adeptus Astartes": "阿斯塔特修会",
@@ -155,8 +156,8 @@
             "Sisters of Silence": "寂静修女会"
         },
         "astra_miliarum": {
-            "Militarum Tempestus": "风暴兵",
-            "Ordo Tempestus": "风暴兵",
+            "Militarum Tempestus": "风暴忠嗣军",
+            "Ordo Tempestus": "风暴忠嗣军",
             "Astra Militarum": "星界军",
             "Tempestus Scions": "风暴忠嗣军"
         },

@@ -48,7 +48,7 @@
             "Heretic Astartes",
             "Chaos Space Marines",
             "Legion",
-            "Nurgle"
+            "Great Crusade"
         ]
     },
     {
@@ -59,7 +59,7 @@
             "Heretic Astartes",
             "Chaos Space Marines",
             "Legion",
-            "Nurgle"
+            "Great Crusade"
         ]
     },
     {
@@ -98,7 +98,9 @@
         "name": "iron-warriors-preheresy.svg",
         "cn": "钢铁勇士-荷鲁斯判乱前",
         "keywords": [
-            "Legion"
+            "Legion",
+            "Space Marines",
+            "Great Crusade"
         ]
     },
     {
@@ -170,7 +172,9 @@
         "name": "thousand-sons-preheresy.svg",
         "cn": "千子-荷鲁斯判乱前",
         "keywords": [
-            "Legion"
+            "Legion",
+            "Space Marines",
+            "Great Crusade"
         ]
     },
     {
@@ -188,7 +192,9 @@
         "name": "word-bearers-preheresy.svg",
         "cn": "怀言者-荷鲁斯判乱前",
         "keywords": [
-            "Legion"
+            "Legion",
+            "Space Marines",
+            "Great Crusade"
         ]
     },
     {
