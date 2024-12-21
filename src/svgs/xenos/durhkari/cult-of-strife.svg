@@ -8,7 +8,7 @@
                 style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37130907px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
             <path id="path842"
                 d="m 133.93352,147.51105 c -3.76264,29.52688 -4.80651,33.23873 -7.95704,45.59415 3.47999,4.5314 5.08557,7.04112 7.95704,13.41716 2.87147,-6.37604 4.47632,-8.88576 7.95631,-13.41716 -3.15053,-12.35542 -4.19367,-16.06727 -7.95631,-45.59415 z"
-                fill="#FF0000" fill-opacity="0.50232562" stroke="#000000" stroke-width="2" stroke-linecap="butt"
+                fill="#FF0000" fill-opacity="0.85232562" stroke="#000000" stroke-width="2" stroke-linecap="butt"
                 stroke-linejoin="miter" stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1" />
         </g>
     </g>

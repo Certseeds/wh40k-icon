@@ -1,12 +1,14 @@
 [
     {
         "name": "chaos-daemons-2.svg",
+        "cn": "混沌恶魔-2",
         "keywords": [
             "Chaos"
         ]
     },
     {
         "name": "chaos-daemons.svg",
+        "cn": "混沌恶魔",
         "keywords": [
             "Chaos"
         ]
@@ -20,12 +22,14 @@
     },
     {
         "name": "dark-mechanicum.svg",
+        "cn": "黑暗机械教",
         "keywords": [
             "Chaos"
         ]
     },
     {
         "name": "extinction-angels.svg",
+        "cn": "灭绝天使战帮",
         "keywords": [
             "Chaos",
             "Heretic Astartes",
@@ -35,6 +39,7 @@
     },
     {
         "name": "heretic-astartes.svg",
+        "cn": "叛徒阿斯塔特",
         "keywords": [
             "Chaos",
             "Chaos Space Marines"
@@ -42,6 +47,7 @@
     },
     {
         "name": "legio-mortis.svg",
+        "cn": "泰坦军团-死颅",
         "keywords": [
             "Chaos",
             "Dark Mechanicum",
@@ -50,6 +56,7 @@
     },
     {
         "name": "lost-and-damned.svg",
+        "cn": "迷失与受咒者",
         "keywords": [
             "Chaos",
             "Renegades and Heretics"
@@ -57,6 +64,7 @@
     },
     {
         "name": "questor-traitoris.svg",
+        "cn": "叛徒骑士",
         "keywords": [
             "Chaos",
             "Dark Mechanicum",
@@ -66,6 +74,7 @@
     },
     {
         "name": "red-corsairs.svg",
+        "cn": "红海盗",
         "keywords": [
             "Chaos",
             "Heretic Astartes",
@@ -75,6 +84,7 @@
     },
     {
         "name": "renegades-and-heretics.svg",
+        "cn": "叛乱与异端",
         "keywords": [
             "Chaos",
             "Lost and Damned"
@@ -82,6 +92,7 @@
     },
     {
         "name": "sons-of-malice.svg",
+        "cn": "马里斯之子",
         "keywords": [
             "Chaos",
             "Heretic Astartes",
@@ -92,6 +103,7 @@
     },
     {
         "name": "the-fallen.svg",
+        "cn": "堕天使",
         "keywords": [
             "Chaos",
             "Heretic Astartes",
@@ -101,6 +113,7 @@
     },
     {
         "name": "titanicus-traitoris.svg",
+        "cn": "叛徒泰坦军团",
         "keywords": [
             "Chaos",
             "Dark Mechanicum"

@@ -1,21 +1,24 @@
 [
     {
         "name": "sword-01.svg",
+        "cn": "护手带有羽翼的剑",
         "keywords": []
     },
     {
         "name": "sword-02.svg",
+        "cn": "护手带有审判庭标志的剑",
         "keywords": []
     },
     {
         "name": "sword-03.svg",
-        "cn": "带有极限战士标志的剑",
+        "cn": "护手带有极限战士标志的剑",
         "keywords": [
             "Ultramarines"
         ]
     },
     {
         "name": "sword-04.svg",
+        "cn": "护手带有方块的剑",
         "keywords": []
     }
 ]
