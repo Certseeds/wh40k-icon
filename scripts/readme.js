@@ -38,7 +38,9 @@ const metaToReadme = async (prefix, jsonFile) => {
 }
 const visitMetaJsons1 = async (subdir, level) => {
     const subObjects = await fsp.readdir(subdir, { withFileTypes: true });
-    const subdirsList = subObjects.filter(x => x.isDirectory()).map(x => x.name);
+    const subdirsList = subObjects
+        .filter(x => x.isDirectory())
+        .map(x => x.name);
     for (const subObject of subObjects) {
         if (subObject.isDirectory()) {
             await visitMetaJsons1(path.join(subdir, subObject.name), level + 1);
@@ -73,9 +75,10 @@ const visitMetaJsons2 = async (subdir, level) => {
                 .replaceAll("./src\\", "./")
                 .replaceAll("./src", "./")
                 .replaceAll("src\\", "./")
-                .replaceAll("src/", "./");
+                .replaceAll("src/", "./")
+                ;
             console.log(subdir, subDirRemoveSrc, subObject.name)
-            subdirsList.push(`${(" ").repeat(level * 2 - 2)}+ [${subObject.name}](${path.join(subDirRemoveSrc, subObject.name)}/README)\n`);
+            subdirsList.push(`${(" ").repeat(level * 2 - 2)}+ [${subObject.name}](${path.join(subDirRemoveSrc, subObject.name).replaceAll("\\", "/")}/README)\n`);
             subdirsList.push(...subsubdirsList);
         } else if (subObject.isFile() && subObject.name === "meta.json") {
             console.log(subdir);
@@ -96,7 +99,6 @@ const visitMetaJsons2 = async (subdir, level) => {
     return [blocks, subdirsList];
 }
 
-// TODO, 在README中提供子目录清单, 并构建gh-pages
 await visitMetaJsons1("./src/svgs", 3);
 
 const [result1, result2] = await visitMetaJsons2("./src/svgs", 1);
