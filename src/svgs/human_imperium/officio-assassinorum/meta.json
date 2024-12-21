@@ -1,0 +1,38 @@
+[
+    {
+        "name": "temple-callidus.svg",
+        "cn": "卡利都司神庙",
+        "keywords": [
+            "Imperium",
+            "Officio Assassinorum",
+            "Assassins"
+        ]
+    },
+    {
+        "name": "temple-culexus.svg",
+        "cn": "丘利萨斯神庙",
+        "keywords": [
+            "Imperium",
+            "Officio Assassinorum",
+            "Assassins"
+        ]
+    },
+    {
+        "name": "temple-eversor.svg",
+        "cn":"艾弗森神庙",
+        "keywords": [
+            "Imperium",
+            "Officio Assassinorum",
+            "Assassins"
+        ]
+    },
+    {
+        "name": "temple-vindicare.svg",
+        "cn":"文迪卡神庙",
+        "keywords": [
+            "Imperium",
+            "Officio Assassinorum",
+            "Assassins"
+        ]
+    }
+]

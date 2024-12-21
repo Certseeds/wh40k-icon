@@ -1,5 +1,15 @@
 [
     {
+        "name": "ashen-claws.svg",
+        "cn": "灰烬之爪",
+        "keywords": [
+            "Astartes",
+            "Space Marines",
+            "Blackshields",
+            "Warband"
+        ]
+    },
+    {
         "name": "chaos-daemons-2.svg",
         "cn": "混沌恶魔-2",
         "keywords": [
@@ -18,6 +28,16 @@
         "cn": "混沌八芒星符文01",
         "keywords": [
             "Chaos"
+        ]
+    },
+    {
+        "name": "dark-brotherhood.svg",
+        "cn": "黑暗兄弟会",
+        "keywords": [
+            "Astartes",
+            "Space Marines",
+            "Blackshields",
+            "Warband"
         ]
     },
     {
@@ -109,6 +129,16 @@
             "Heretic Astartes",
             "Chaos Space Marines",
             "Dark Angels"
+        ]
+    },
+    {
+        "name": "third-covenent.svg",
+        "cn": "第三契约",
+        "keywords": [
+            "Astartes",
+            "Space Marines",
+            "Blackshields",
+            "Warband"
         ]
     },
     {

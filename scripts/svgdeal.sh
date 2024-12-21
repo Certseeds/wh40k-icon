@@ -20,12 +20,12 @@ main() {
             --opttolerance 1 \
             -o ${i}.svg
     done
-    for i in ./*.svg; do
-        echo ${i}
+    for file in ./*.svg; do
+        echo ${file}
         inkscape \
-            --file="${i}" \
+            --file="${file}" \
             --export-plain-svg \
-            --export-filename="${i}"
+            --export-filename="${file}"
     done
 }
 main

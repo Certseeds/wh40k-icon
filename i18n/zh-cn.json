@@ -8,7 +8,8 @@
             "Slanni": "史兰",
             "Inquisition": "审判庭",
             "Hive Mind": "蜂巢心智",
-            "Hive Fleets": "蜂巢舰队"
+            "Hive Fleets": "蜂巢舰队",
+            "Xenos": "异形"
         },
         "TauEmpire": {
             "T_au": "钛",
@@ -67,6 +68,7 @@
         },
         "chaos": {
             "Chaos": "混沌",
+            "Astartes": "阿斯塔特",
             "Heretic Astartes": "叛徒阿斯塔特",
             "Chaos Space Marines": "混沌星际战士",
             "Khorne": "恐虐",
@@ -89,27 +91,34 @@
             "PDF": "行星防卫军",
             "Horus Heresy": "荷鲁斯叛乱"
         },
-        "unit-type": {
+        "general": {
             "UnitType": "单位类型",
-            "Battlefield Role": "战场定位"
-        },
-        "unit_attributes": {
-            "unit attributes": "单位属性"
-        },
-        "weapon": {
+            "Battlefield Role": "战场定位",
+            "unit attributes": "单位属性",
             "weapon": "武器",
-            "weapon type": "武器类型"
+            "weapon type": "武器类型",
+            "Fortification": "建筑"
         },
         "Imperium": {
+            "Emperor": "帝皇",
             "Imperium": "人类帝国",
+            "Great Crusade": "大远征",
             "Adeptus Astartes": "阿斯塔特修会",
             "Space Marines": "星际战士",
             "Chapter": "战团",
             "Grey Knights": "灰骑士",
             "Ordo Xenos": "攘外修会",
             "Ordo Malleus": "圣锤修会",
+            "Ordo Hereticus": "讨逆修会",
+            "Adeptus Astra Telepathica": "星语庭",
+            "High Lords of Terra": "泰拉高领主",
+            "Imperial Navy": "帝国海军",
+            "Imperial Guard": "帝国陆军",
+            "Questor Imperialis": "帝国探索者",
+            "Adeptus Terra": "泰拉庭",
+            "Thunder Warriors": "雷霆战士",
             "Renegades Astartes": "叛徒阿斯塔特",
-            "High Lords of Terra": "泰拉高领主"
+            "Blackshields": "黑盾"
         },
         "legions": {
             "Legion": "军团",
@@ -121,7 +130,8 @@
             "Iron Hands": "钢铁之手",
             "Ultramarines": "极限战士",
             "Salamanders": "火蜥蜴",
-            "Raven Guard": "暗鸦守卫"
+            "Raven Guard": "暗鸦守卫",
+            "Astartes Company": "阿斯塔特连队"
         },
         "mechanicum": {
             "Adeptus Mechanicus": "机械修会",
@@ -133,10 +143,26 @@
         },
         "battle_sisters": {
             "Adeptus Ministorum": "帝国国教",
-            "Adepta Sororitas":"修女会",
+            "Ecclesiarchy": "教会",
+            "Adepta Sororitas": "修女会",
             "Sisters of Battle": "战斗修女",
             "Battle Sisters": "战斗修女",
             "Order": "修道会"
+        },
+        "custodes-and-silence-sisters": {
+            "Talons of the Emperor": "帝皇之爪",
+            "Adeptus Custodes": "禁军修会",
+            "Sisters of Silence": "寂静修女会"
+        },
+        "astra_miliarum": {
+            "Militarum Tempestus": "风暴兵",
+            "Ordo Tempestus": "风暴兵",
+            "Astra Militarum": "星界军",
+            "Tempestus Scions": "风暴忠嗣军"
+        },
+        "officio_assassinorum": {
+            "Officio Assassinorum": "刺客庭",
+            "Assassins": "刺客"
         }
     }
 }

@@ -18,8 +18,44 @@
         ]
     },
     {
+        "name": "assault.svg",
+        "cn": "突击小队标志",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines"
+        ]
+    },
+    {
+        "name": "centurion-honour.svg",
+        "cn": "百夫长荣誉徽章",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines"
+        ]
+    },
+    {
+        "name": "chaplain.svg",
+        "cn": "牧师",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines"
+        ]
+    },
+    {
         "name": "crux-terminatus-01.svg",
         "cn": "终结者十字章-01",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines"
+        ]
+    },
+    {
+        "name": "devestator.svg",
+        "cn": "毁灭者小队标志",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",
@@ -65,6 +101,34 @@
     {
         "name": "librarius-02.svg",
         "cn": "智库-02",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines"
+        ]
+    },
+    {
+        "name": "reclusiam.svg",
+        "cn": "密室",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Fortification"
+        ]
+    },
+    {
+        "name": "tactical-01.svg",
+        "cn": "战术小队标志-01",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines"
+        ]
+    },
+    {
+        "name": "tactical-02.svg",
+        "cn": "战术小队标志-02",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",

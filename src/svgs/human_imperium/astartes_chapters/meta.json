@@ -11,6 +11,16 @@
         ]
     },
     {
+        "name": "accipiters.svg",
+        "cn": "骸鹰",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Chapter"
+        ]
+    },
+    {
         "name": "angels-eradicant.svg",
         "cn": "根除天使",
         "keywords": [
@@ -324,6 +334,26 @@
         ]
     },
     {
+        "name": "dragonspears-2.svg",
+        "cn": "龙矛-2",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "dragonspears.svg",
+        "cn": "龙矛",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Chapter"
+        ]
+    },
+    {
         "name": "emperor_s-spears.svg",
         "cn": "帝皇之矛",
         "keywords": [
@@ -398,6 +428,16 @@
             "Adeptus Astartes",
             "Space Marines",
             "Dark Angels",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "invictors.svg",
+        "cn": "获胜者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
             "Chapter"
         ]
     },
@@ -501,6 +541,16 @@
         ]
     },
     {
+        "name": "retributors.svg",
+        "cn": "报复者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Chapter"
+        ]
+    },
+    {
         "name": "silver-skulls.svg",
         "cn": "银色颅骨",
         "keywords": [
@@ -595,6 +645,16 @@
             "Adeptus Mechanicus",
             "Space Marines",
             "Iron Hands",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "tome-keepers.svg",
+        "cn": "典籍守护者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
             "Chapter"
         ]
     },

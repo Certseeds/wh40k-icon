@@ -1,7 +1,27 @@
 [
     {
+        "name": "adepta-sororitas.svg",
+        "cn": "修女会",
+        "keywords": [
+            "Imperium",
+            "Adeptus Ministorum",
+            "Ecclesiarchy",
+            "Inquisition",
+            "Ordo Hereticus",
+            "Sisters of Battle",
+            "Battle Sisters"
+        ]
+    },
+    {
         "name": "adeptus-administratum.svg",
         "cn": "内政部",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
+        "name": "adeptus-arbites-2.svg",
+        "cn": "法务部-2",
         "keywords": [
             "Imperium"
         ]
@@ -17,6 +37,14 @@
         "name": "adeptus-astartes.svg",
         "cn": "阿斯塔特修会",
         "keywords": [
+            "Imperium",
+            "Space Marines"
+        ]
+    },
+    {
+        "name": "adeptus-astra-telepathica.svg",
+        "cn": "星语庭",
+        "keywords": [
             "Imperium"
         ]
     },
@@ -31,7 +59,8 @@
         "name": "adeptus-custodes.svg",
         "cn": "禁军修会",
         "keywords": [
-            "Imperium"
+            "Imperium",
+            "Talons of the Emperor"
         ]
     },
     {
@@ -45,7 +74,8 @@
         "name": "adeptus-ministorum.svg",
         "cn": "国教修会",
         "keywords": [
-            "Imperium"
+            "Imperium",
+            "Ecclesiarchy"
         ]
     },
     {
@@ -56,8 +86,24 @@
         ]
     },
     {
+        "name": "aeronautica-imperialis.svg",
+        "cn": "帝国海航",
+        "keywords": [
+            "Imperium",
+            "Imperial Navy"
+        ]
+    },
+    {
         "name": "astra-militarum.svg",
         "cn": "星界军",
+        "keywords": [
+            "Imperium",
+            "Imperial Guard"
+        ]
+    },
+    {
+        "name": "high-lords-of-terra.svg",
+        "cn": "泰拉高领主",
         "keywords": [
             "Imperium"
         ]
@@ -72,6 +118,22 @@
     {
         "name": "imperial-aquila.svg",
         "cn": "帝国天鹰",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
+        "name": "imperial-knights.svg",
+        "cn": "帝国骑士",
+        "keywords": [
+            "Imperium",
+            "Questor Imperialis",
+            "Questoris Knights"
+        ]
+    },
+    {
+        "name": "imperial-navy-02.svg",
+        "cn": "帝国海军-2",
         "keywords": [
             "Imperium"
         ]
@@ -98,6 +160,24 @@
         ]
     },
     {
+        "name": "inquisition-ordo-malleus.svg",
+        "cn": "审判庭-圣锤修会",
+        "keywords": [
+            "Imperium",
+            "Inquisition"
+        ]
+    },
+    {
+        "name": "legion-of-the-damned.svg",
+        "cn": "诅咒军团",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion"
+        ]
+    },
+    {
         "name": "navis-nobilite.svg",
         "cn": "导航员家族",
         "keywords": [
@@ -112,6 +192,40 @@
         ]
     },
     {
+        "name": "palatine-aquila.svg",
+        "cn": "帕拉庭天鹰",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
+        "name": "planetary-governor.svg",
+        "cn": "行星总督",
+        "keywords": [
+            "Imperium"
+        ]
+    },
+    {
+        "name": "questor-imperialis.svg",
+        "cn": "帝国骑士",
+        "keywords": [
+            "Imperium",
+            "Adeptus Terra",
+            "Questoris Knights",
+            "Imperial Knights"
+        ]
+    },
+    {
+        "name": "raptor-imperialis.svg",
+        "cn": "帝国猛禽",
+        "keywords": [
+            "Imperium",
+            "Thunder Warriors",
+            "Emperor",
+            "Gods"
+        ]
+    },
+    {
         "name": "rogue-trader.svg",
         "cn": "行商浪人",
         "keywords": [
@@ -119,10 +233,12 @@
         ]
     },
     {
-        "name": "sisters-of-battle.svg",
-        "cn": "战斗修女",
+        "name": "sisters-of-silence.svg",
+        "cn": "寂静修女会",
         "keywords": [
-            "Imperium"
+            "Imperium",
+            "Adeptus Astra Telepathica",
+            "Talons of the Emperor"
         ]
     },
     {
@@ -137,6 +253,34 @@
         "cn": "骷髅桂冠",
         "keywords": [
             "Imperium"
+        ]
+    },
+    {
+        "name": "sisters-of-battle.svg",
+        "cn": "战斗修女",
+        "keywords": [
+            "Imperium",
+            "Adeptus Ministorum",
+            "Sisters of Battle",
+            "Battle Sisters"
+        ]
+    },
+    {
+        "name": "solar-auxilia.svg",
+        "cn": "太阳辅助军",
+        "keywords": [
+            "Imperium",
+            "Great Crusade",
+            "Imperial Guard"
+        ]
+    },
+    {
+        "name": "talons-of-the-emperor.svg",
+        "cn": "帝皇之爪",
+        "keywords": [
+            "Imperium",
+            "Adeptus Custodes",
+            "Sisters of Silence"
         ]
     }
 ]
