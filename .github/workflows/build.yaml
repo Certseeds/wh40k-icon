@@ -44,4 +44,3 @@ jobs:
         if: startsWith(github.ref, 'refs/tags/')
         with:
           token: ${{ secrets.NPM_TOKEN }}
-          tag: alpha
