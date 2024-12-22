@@ -140,7 +140,10 @@
             "Forge World": "铸造世界",
             "Questoris Knights": "探索骑士",
             "Imperial Knights": "帝国骑士",
-            "Collegia Titanica": "泰坦学会"
+            "Collegia Titanica": "泰坦学会",
+            "Legio Cybernetica": "智控军团",
+            "Taghmata Omnissiah": "机神禁卫军",
+            "Corpus Secutarii": "泰坦禁卫"
         },
         "battle_sisters": {
             "Adeptus Ministorum": "帝国国教",

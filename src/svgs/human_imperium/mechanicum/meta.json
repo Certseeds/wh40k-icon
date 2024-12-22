@@ -1,10 +1,53 @@
 [
     {
+        "name": "autokrator.svg",
+        "cn": "神裁军",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Taghmata Omnissiah"
+        ]
+    },
+    {
+        "name": "auxilia-myrmidon-preheresy.svg",
+        "cn": "辅军精锐-荷鲁斯叛乱前",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Great Crusade"
+        ]
+    },
+    {
         "name": "auxilia-myrmidon.svg",
         "cn": "辅军精锐",
         "keywords": [
             "Imperium",
             "Adeptus Mechanicus"
+        ]
+    },
+    {
+        "name": "basilikon-astra-2.svg",
+        "cn": "机械教舰队-2",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus"
+        ]
+    },
+    {
+        "name": "basilikon-astra.svg",
+        "cn": "机械教舰队",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus"
+        ]
+    },
+    {
+        "name": "centurio-ordinatus-opus-ordinatus.svg",
+        "cn": "百机队-伟大宏机之印",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Great Crusade"
         ]
     },
     {
@@ -16,12 +59,31 @@
         ]
     },
     {
+        "name": "collegia-titanica-7e.svg",
+        "cn": "泰坦学会-7e",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Adeptus Titanicus"
+        ]
+    },
+    {
         "name": "collegia-titanica.svg",
         "cn": "泰坦学会",
         "keywords": [
             "Imperium",
             "Adeptus Mechanicus",
             "Adeptus Titanicus"
+        ]
+    },
+    {
+        "name": "covernant-cybernetica.svg",
+        "cn": "智控军团-智控盟约-荷鲁斯叛乱前",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Legio Cybernetica",
+            "Great Crusade"
         ]
     },
     {
@@ -208,11 +270,81 @@
         ]
     },
     {
+        "name": "iugum-cybernetica.svg",
+        "cn": "智控军团-智控机兵-荷鲁斯叛乱前",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Legio Cybernetica",
+            "Great Crusade"
+        ]
+    },
+    {
         "name": "legio-cybernetica.svg",
         "cn": "智控军团",
         "keywords": [
             "Imperium",
+            "Adeptus Mechanicus",
+            "Legio Cybernetica"
+        ]
+    },
+    {
+        "name": "machanicum-artisan.svg",
+        "cn": "机械教-圣贤士",
+        "keywords": [
+            "Imperium",
             "Adeptus Mechanicus"
+        ]
+    },
+    {
+        "name": "machanicum-genetor.svg",
+        "cn": "机械教-基因士",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus"
+        ]
+    },
+    {
+        "name": "machanicum-logis.svg",
+        "cn": "机械教-逻辑士",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus"
+        ]
+    },
+    {
+        "name": "machanicum-magos.svg",
+        "cn": "机械教-锻造士",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus"
+        ]
+    },
+    {
+        "name": "opus-machina.svg",
+        "cn": "伟大机械之印",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "opus-taghmata.svg",
+        "cn": "机神禁卫军-伟大禁卫之纹章",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Taghmata Omnissiah"
+        ]
+    },
+    {
+        "name": "ordo-reductor-preheresy.svg",
+        "cn": "还原修会-荷鲁斯叛乱前",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Great Crusade"
         ]
     },
     {
@@ -231,6 +363,33 @@
             "Adeptus Mechanicus",
             "Questoris Knights",
             "Imperial Knights"
+        ]
+    },
+    {
+        "name": "secutarii-axiarch.svg",
+        "cn": "泰坦禁卫-轴卫长",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Corpus Secutarii"
+        ]
+    },
+    {
+        "name": "secutarii-hoplite.svg",
+        "cn": "泰坦禁卫-轻卫兵",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Corpus Secutarii"
+        ]
+    },
+    {
+        "name": "secutarii-peltast.svg",
+        "cn": "泰坦禁卫-重卫兵",
+        "keywords": [
+            "Imperium",
+            "Adeptus Mechanicus",
+            "Corpus Secutarii"
         ]
     },
     {
