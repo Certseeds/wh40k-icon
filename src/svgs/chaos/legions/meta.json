@@ -44,10 +44,8 @@
         "name": "death-guard-preheresy-1.svg",
         "cn": "死亡守卫-荷鲁斯判乱前-1",
         "keywords": [
-            "Chaos",
-            "Heretic Astartes",
-            "Chaos Space Marines",
             "Legion",
+            "Space Marines",
             "Great Crusade"
         ]
     },
@@ -55,10 +53,8 @@
         "name": "death-guard-preheresy-2.svg",
         "cn": "死亡守卫-荷鲁斯判乱前-2",
         "keywords": [
-            "Chaos",
-            "Heretic Astartes",
-            "Chaos Space Marines",
             "Legion",
+            "Space Marines",
             "Great Crusade"
         ]
     },
@@ -107,14 +103,18 @@
         "name": "luna-wolves-1.svg",
         "cn": "影月苍狼-1",
         "keywords": [
-            "Legion"
+            "Legion",
+            "Space Marines",
+            "Great Crusade"
         ]
     },
     {
         "name": "luna-wolves-2.svg",
         "cn": "影月苍狼-2",
         "keywords": [
-            "Legion"
+            "Legion",
+            "Space Marines",
+            "Great Crusade"
         ]
     },
     {
@@ -140,16 +140,6 @@
     {
         "name": "son-of-horus.svg",
         "cn": "荷鲁斯之子",
-        "keywords": [
-            "Chaos",
-            "Heretic Astartes",
-            "Chaos Space Marines",
-            "Legion"
-        ]
-    },
-    {
-        "name": "son-of-horus-color.svg",
-        "cn": "荷鲁斯之子-绿",
         "keywords": [
             "Chaos",
             "Heretic Astartes",

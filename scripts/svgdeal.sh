@@ -10,9 +10,10 @@ main() {
         echo ${i}
         convert \
             ${i} \
-            -background white \
+            -background green \
             -alpha remove \
             -alpha off \
+            -negate \
             ${i}.pnm
         potrace \
             ${i}.pnm \

@@ -52,8 +52,88 @@
         ]
     },
     {
+        "name": "armageddon-steel-legion-2.svg",
+        "cn": "阿米吉多顿钢铁军团-2",
+        "keywords": [
+            "Imperium",
+            "Astra Militarum"
+        ]
+    },
+    {
+        "name": "armageddon-steel-legion-3.svg",
+        "cn": "阿米吉多顿钢铁军团-3",
+        "keywords": [
+            "Imperium",
+            "Astra Militarum"
+        ]
+    },
+    {
+        "name": "attilan-rough-riders.svg",
+        "cn": "阿提拉蛮骑兵",
+        "keywords": [
+            "Imperium",
+            "Astra Militarum"
+        ]
+    },
+    {
         "name": "cadian-gate.svg",
         "cn": "卡迪亚突击军",
+        "keywords": [
+            "Imperium",
+            "Astra Militarum"
+        ]
+    },
+    {
+        "name": "cadian-shock-troops-2.svg",
+        "cn": "卡迪亚突击军-2",
+        "keywords": [
+            "Imperium",
+            "Astra Militarum"
+        ]
+    },
+    {
+        "name": "cadian-shock-troops-3.svg",
+        "cn": "卡迪亚突击军-3",
+        "keywords": [
+            "Imperium",
+            "Astra Militarum"
+        ]
+    },
+    {
+        "name": "catachan-jungle-fighters.svg",
+        "cn": "卡塔昌丛林战士",
+        "keywords": [
+            "Imperium",
+            "Astra Militarum"
+        ]
+    },
+    {
+        "name": "death-korps-of-krieg-2.svg",
+        "cn": "克里格死亡兵团-2",
+        "keywords": [
+            "Imperium",
+            "Astra Militarum"
+        ]
+    },
+    {
+        "name": "death-korps-of-krieg.svg",
+        "cn": "克里格死亡兵团",
+        "keywords": [
+            "Imperium",
+            "Astra Militarum"
+        ]
+    },
+    {
+        "name": "harakoni-warhawk.svg",
+        "cn": "哈拉考尼战隼",
+        "keywords": [
+            "Imperium",
+            "Astra Militarum"
+        ]
+    },
+    {
+        "name": "indigan-praefects.svg",
+        "cn": "因迪加近卫军",
         "keywords": [
             "Imperium",
             "Astra Militarum"
@@ -71,8 +151,88 @@
         ]
     },
     {
+        "name": "mordian-iron-guard.svg",
+        "cn": "莫迪安铁卫",
+        "keywords": [
+            "Imperium",
+            "Astra Militarum"
+        ]
+    },
+    {
+        "name": "praetorian-guard.svg",
+        "cn": "忠诚近卫",
+        "keywords": [
+            "Imperium",
+            "Astra Militarum"
+        ]
+    },
+    {
+        "name": "royal-volpone.svg",
+        "cn": "皇家狐坡尼",
+        "keywords": [
+            "Imperium",
+            "Astra Militarum"
+        ]
+    },
+    {
+        "name": "savlar-chem-dogs.svg",
+        "cn": "萨夫拉化学狗",
+        "keywords": [
+            "Imperium",
+            "Astra Militarum"
+        ]
+    },
+    {
+        "name": "tallarn-desert-raiders.svg",
+        "cn": "塔兰沙漠掠袭者",
+        "keywords": [
+            "Imperium",
+            "Astra Militarum"
+        ]
+    },
+    {
         "name": "tanith-first-and-only.svg",
         "cn": "塔尼斯第一与唯一团",
+        "keywords": [
+            "Imperium",
+            "Astra Militarum"
+        ]
+    },
+    {
+        "name": "valhallan-ice-warriors.svg",
+        "cn": "瓦尔哈拉冰雪卫士",
+        "keywords": [
+            "Imperium",
+            "Astra Militarum"
+        ]
+    },
+    {
+        "name": "ventrillian-nobles.svg",
+        "cn": "文崔利亚贵胄军",
+        "keywords": [
+            "Imperium",
+            "Astra Militarum"
+        ]
+    },
+    {
+        "name": "vostroyan-firstborn-2.svg",
+        "cn": "沃斯托尼亚长子军-2",
+        "keywords": [
+            "Imperium",
+            "Astra Militarum"
+        ]
+    },
+    {
+        "name": "vostroyan-firstborn.svg",
+        "cn": "沃斯托尼亚长子军",
+        "keywords": [
+            "Imperium",
+            "Astra Militarum"
+        ]
+    },
+    {
+        "name": "vresh-grenadiers.svg",
+        "cn": "乌列什掷弹兵团",
         "keywords": [
             "Imperium",
             "Astra Militarum"

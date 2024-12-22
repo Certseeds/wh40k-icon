@@ -30,6 +30,7 @@
 import { ref, onMounted, watch } from 'vue';
 
 const wh40kClassNames = ref([]);
+const wh40kIconNumbers = ref(0);
 const isFontLoaded = ref(false);
 const getWh40kClassNames = () => {
     const classNames = new Set();
@@ -68,12 +69,17 @@ onMounted(() => {
 // 监听 wh40kClassNames 的变化
 watch([wh40kClassNames, isFontLoaded], ([newClassNames, newIsFontLoaded]) => {
     if (newClassNames.length > 0 && newIsFontLoaded) {
+        wh40kIconNumbers.value = newClassNames.length;
         console.log('CSS 文件和字体加载完成，开始渲染图标');
     }
 });
 </script>
 
-<i v-if="isFontLoaded" class="wh40k-asuryani" style="font-size: 50px">example-element</i>
+<div v-if="isFontLoaded"> 字体中一共有 {{ wh40kIconNumbers }} 个 Icon</div>
+<div>
+   <i v-if="isFontLoaded" class="wh40k-asuryani" style="font-size: 50px"></i>
+  图标范例-阿苏焉尼
+</div>
 
 # Warhammer 40K Fonts
 
