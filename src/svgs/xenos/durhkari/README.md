@@ -4,7 +4,7 @@
 
 以及存在疑点, "Soul Drinkers" 到底在指代什么.
 
-+ 阴谋团统一使用前缀 `kabel-of`
++ 阴谋团统一使用前缀 `kabal-of`
 + 血伶人巫会使用前缀 `coven-of`
 + 巫灵教派使用前缀 `cult-of`
 

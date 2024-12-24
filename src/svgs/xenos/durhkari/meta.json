@@ -289,6 +289,16 @@
         ]
     },
     {
+        "name": "kabal-of-the-baleful-gaze.svg",
+        "cn": "恶毒凝视阴谋团",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Kabal"
+        ]
+    },
+    {
         "name": "kabal-of-the-black-heart.svg",
         "cn": "黑心阴谋团",
         "keywords": [
@@ -299,8 +309,168 @@
         ]
     },
     {
+        "name": "kabal-of-the-black-myriad.svg",
+        "cn": "黑暗无尽阴谋团",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Kabal"
+        ]
+    },
+    {
+        "name": "kabal-of-the-blaned-lotus.svg",
+        "cn": "刃莲阴谋团",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Kabal"
+        ]
+    },
+    {
+        "name": "kabal-of-the-bleaksoul-brethren.svg",
+        "cn": "黯魂兄弟会阴谋团",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Kabal"
+        ]
+    },
+    {
+        "name": "kabal-of-the-bloodied-claw.svg",
+        "cn": "染血之爪阴谋团",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Kabal"
+        ]
+    },
+    {
+        "name": "kabal-of-the-broken-sigil.svg",
+        "cn": "裂符阴谋团",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Kabal"
+        ]
+    },
+    {
+        "name": "kabal-of-the-dying-sun.svg",
+        "cn": "残阳阴谋团",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Kabal"
+        ]
+    },
+    {
+        "name": "kabal-of-the-dying-sun.svg",
+        "cn": "落月阴谋团",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Kabal"
+        ]
+    },
+    {
         "name": "kabal-of-the-flayed-skull.svg",
-        "cn": "剥皮头骨阴谋团",
+        "cn": "剥皮血颅阴谋团",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Kabal"
+        ]
+    },
+    {
+        "name": "kabal-of-the-last-hatred.svg",
+        "cn": "终怨阴谋团",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Kabal"
+        ]
+    },
+    {
+        "name": "kabal-of-the-lords-of-the-iron-thorn.svg",
+        "cn": "铁棘领主阴谋团",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Kabal"
+        ]
+    },
+    {
+        "name": "kabal-of-the-obsidian-rose.svg",
+        "cn": "黑曜石玫瑰阴谋团",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Kabal"
+        ]
+    },
+    {
+        "name": "kabal-of-the-poisoned-tongue.svg",
+        "cn": "毒舌阴谋团",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Kabal"
+        ]
+    },
+    {
+        "name": "kabal-of-the-severed.svg",
+        "cn": "断绝者阴谋团",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Kabal"
+        ]
+    },
+    {
+        "name": "kabal-of-the-shadowed-thorns.svg",
+        "cn": "影棘阴谋团",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Kabal"
+        ]
+    },
+    {
+        "name": "kabal-of-the-slashed-eye.svg",
+        "cn": "阴谋团",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Kabal"
+        ]
+    },
+    {
+        "name": "kabal-of-the-splintered-talon.svg",
+        "cn": "割裂之眼阴谋团",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Kabal"
+        ]
+    },
+    {
+        "name": "kabal-of-the-wraithkind.svg",
+        "cn": "幽魂阴谋团",
         "keywords": [
             "Aeldari",
             "Drukhari",
