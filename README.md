@@ -21,3 +21,7 @@ Free to download Warhammer 40.000 icons as SVG/iconfont.
 + [shitake](https://github.com/molingyu)
 + [farvig](http://bakadesign.dk/)
 + [夜行漫记](https://space.bilibili.com/194129)
+
+## meta
+
+请注意, 包中`dist/meta/meta.json`, `cn`-`name`之间的映射关系并不是双向单射.
