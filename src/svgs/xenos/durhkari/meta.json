@@ -272,15 +272,6 @@
         ]
     },
     {
-        "name": "drukhari-4.svg",
-        "cn": "黑暗灵族-4",
-        "keywords": [
-            "Aeldari",
-            "Dark Eldar",
-            "Soul Drinkers"
-        ]
-    },
-    {
         "name": "kabal.svg",
         "cn": "阴谋团",
         "keywords": [
@@ -451,6 +442,16 @@
     {
         "name": "kabal-of-the-slashed-eye.svg",
         "cn": "割裂之眼阴谋团",
+        "keywords": [
+            "Aeldari",
+            "Drukhari",
+            "Dark Eldar",
+            "Kabal"
+        ]
+    },
+    {
+        "name": "kabal-of-the-slashed-eye-2.svg",
+        "cn": "割裂之眼阴谋团-2",
         "keywords": [
             "Aeldari",
             "Drukhari",
