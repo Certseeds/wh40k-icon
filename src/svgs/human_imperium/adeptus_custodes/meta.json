@@ -63,6 +63,75 @@
         ]
     },
     {
+        "name": "adeptus-custodes-misericordia.svg",
+        "cn": "禁军-悲悯剑",
+        "keywords": [
+            "Imperium",
+            "Adeptus Custodes",
+            "Talons of the Emperor"
+        ]
+    },
+    {
+        "name": "adeptus-custodes-the-aquilan-shield.svg",
+        "cn": "禁军-天鹰盾",
+        "keywords": [
+            "Imperium",
+            "Adeptus Custodes",
+            "Talons of the Emperor",
+            "Shield Company"
+        ]
+    },
+    {
+        "name": "adeptus-custodes-the-dread-host.svg",
+        "cn": "禁军-惩惧军",
+        "keywords": [
+            "Imperium",
+            "Adeptus Custodes",
+            "Talons of the Emperor",
+            "Shield Company"
+        ]
+    },
+    {
+        "name": "adeptus-custodes-the-emissaries-imperatus-2.svg",
+        "cn": "禁军-帝谕使-2",
+        "keywords": [
+            "Imperium",
+            "Adeptus Custodes",
+            "Talons of the Emperor",
+            "Shield Company"
+        ]
+    },
+    {
+        "name": "adeptus-custodes-the-emissaries-imperatus.svg",
+        "cn": "禁军-帝谕使",
+        "keywords": [
+            "Imperium",
+            "Adeptus Custodes",
+            "Talons of the Emperor",
+            "Shield Company"
+        ]
+    },
+    {
+        "name": "adeptus-custodes-the-shadowkeepers.svg",
+        "cn": "禁军-影牢监",
+        "keywords": [
+            "Imperium",
+            "Adeptus Custodes",
+            "Talons of the Emperor",
+            "Shield Company"
+        ]
+    },
+    {
+        "name": "adeptus-custodes-the-solar-watch.svg",
+        "cn": "禁军-太阳卫",
+        "keywords": [
+            "Imperium",
+            "Adeptus Custodes",
+            "Talons of the Emperor",
+            "Shield Company"
+        ]
+    },
+    {
         "name": "adeptus-custodes-with-aquila.svg",
         "cn": "禁军符号与天鹰",
         "keywords": [
@@ -87,75 +156,6 @@
             "Imperium",
             "Adeptus Custodes",
             "Talons of the Emperor"
-        ]
-    },
-    {
-        "name": "misericordia.svg",
-        "cn": "悲悯剑",
-        "keywords": [
-            "Imperium",
-            "Adeptus Custodes",
-            "Talons of the Emperor"
-        ]
-    },
-    {
-        "name": "the-aquilan-shield.svg",
-        "cn": "天鹰盾",
-        "keywords": [
-            "Imperium",
-            "Adeptus Custodes",
-            "Talons of the Emperor",
-            "Shield Company"
-        ]
-    },
-    {
-        "name": "the-dread-host.svg",
-        "cn": "惩惧军",
-        "keywords": [
-            "Imperium",
-            "Adeptus Custodes",
-            "Talons of the Emperor",
-            "Shield Company"
-        ]
-    },
-    {
-        "name": "the-emissaries-imperatus-2.svg",
-        "cn": "帝谕使-2",
-        "keywords": [
-            "Imperium",
-            "Adeptus Custodes",
-            "Talons of the Emperor",
-            "Shield Company"
-        ]
-    },
-    {
-        "name": "the-emissaries-imperatus.svg",
-        "cn": "帝谕使",
-        "keywords": [
-            "Imperium",
-            "Adeptus Custodes",
-            "Talons of the Emperor",
-            "Shield Company"
-        ]
-    },
-    {
-        "name": "the-shadowkeepers.svg",
-        "cn": "影牢监",
-        "keywords": [
-            "Imperium",
-            "Adeptus Custodes",
-            "Talons of the Emperor",
-            "Shield Company"
-        ]
-    },
-    {
-        "name": "the-solar-watch.svg",
-        "cn": "太阳卫",
-        "keywords": [
-            "Imperium",
-            "Adeptus Custodes",
-            "Talons of the Emperor",
-            "Shield Company"
         ]
     }
 ]
