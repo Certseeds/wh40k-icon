@@ -1,7 +1,7 @@
 [
     {
-        "name": "alpha-legion.svg",
-        "cn": "阿尔法军团",
+        "name": "alpha-legion-1.svg",
+        "cn": "阿尔法军团-1",
         "keywords": [
             "Chaos",
             "Heretic Astartes",
@@ -20,8 +20,76 @@
         ]
     },
     {
+        "name": "alpha-legion-3.svg",
+        "cn": "阿尔法军团-3",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "alpha-legion-preheresy-1.svg",
+        "cn": "阿尔法军团-荷鲁斯叛乱前-1",
+        "keywords": [
+            "Legion",
+            "Space Marines",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "alpha-legion-preheresy-2.svg",
+        "cn": "阿尔法军团-荷鲁斯叛乱前-2",
+        "keywords": [
+            "Legion",
+            "Space Marines",
+            "Great Crusade"
+        ]
+    },
+    {
         "name": "black-legion.svg",
         "cn": "黑色军团",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "black-legion-2.svg",
+        "cn": "黑色军团-2",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "black-legion-3.svg",
+        "cn": "黑色军团-3",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "black-legion-4.svg",
+        "cn": "黑色军团-4",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "black-legion-5.svg",
+        "cn": "黑色军团-5",
         "keywords": [
             "Chaos",
             "Heretic Astartes",
@@ -41,8 +109,52 @@
         ]
     },
     {
+        "name": "death-guard-2.svg",
+        "cn": "死亡守卫-2",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion",
+            "Nurgle"
+        ]
+    },
+    {
+        "name": "death-guard-3.svg",
+        "cn": "死亡守卫-3",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion",
+            "Nurgle"
+        ]
+    },
+    {
+        "name": "death-guard-4.svg",
+        "cn": "死亡守卫-4",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion",
+            "Nurgle"
+        ]
+    },
+    {
+        "name": "death-guard-5.svg",
+        "cn": "死亡守卫-5",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion",
+            "Nurgle"
+        ]
+    },
+    {
         "name": "death-guard-preheresy-1.svg",
-        "cn": "死亡守卫-荷鲁斯判乱前-1",
+        "cn": "死亡守卫-荷鲁斯叛乱前-1",
         "keywords": [
             "Legion",
             "Space Marines",
@@ -51,7 +163,7 @@
     },
     {
         "name": "death-guard-preheresy-2.svg",
-        "cn": "死亡守卫-荷鲁斯判乱前-2",
+        "cn": "死亡守卫-荷鲁斯叛乱前-2",
         "keywords": [
             "Legion",
             "Space Marines",
@@ -59,8 +171,17 @@
         ]
     },
     {
-        "name": "emperors-children.svg",
-        "cn": "帝皇之子",
+        "name": "death-guard-preheresy-3.svg",
+        "cn": "死亡守卫-荷鲁斯叛乱前-3",
+        "keywords": [
+            "Legion",
+            "Space Marines",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "emperors-children-1.svg",
+        "cn": "帝皇之子-1",
         "keywords": [
             "Chaos",
             "Heretic Astartes",
@@ -81,6 +202,104 @@
         ]
     },
     {
+        "name": "emperors-children-3.svg",
+        "cn": "帝皇之子-3",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion",
+            "Slaanesh"
+        ]
+    },
+    {
+        "name": "emperors-children-4.svg",
+        "cn": "帝皇之子-4",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion",
+            "Slaanesh"
+        ]
+    },
+    {
+        "name": "emperors-children-preheresy-1.svg",
+        "cn": "帝皇之子-荷鲁斯叛乱前-1",
+        "keywords": [
+            "Legion",
+            "Space Marines",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "emperors-children-preheresy-2.svg",
+        "cn": "帝皇之子-荷鲁斯叛乱前-2",
+        "keywords": [
+            "Legion",
+            "Space Marines",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "emperors-children-preheresy-3.svg",
+        "cn": "帝皇之子-荷鲁斯叛乱前-3",
+        "keywords": [
+            "Legion",
+            "Space Marines",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "eye-of-serpent.svg",
+        "cn": "蛇之眼",
+        "keywords": [
+            "Chaos",
+            "Regades",
+            "Horus Heresy"
+        ]
+    },
+    {
+        "name": "iron-warriors-2.svg",
+        "cn": "钢铁勇士-2",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "iron-warriors-3.svg",
+        "cn": "钢铁勇士-3",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "iron-warriors-4.svg",
+        "cn": "钢铁勇士-4",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "iron-warriors-5.svg",
+        "cn": "钢铁勇士-5",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion"
+        ]
+    },
+    {
         "name": "iron-warriors.svg",
         "cn": "钢铁勇士",
         "keywords": [
@@ -92,7 +311,7 @@
     },
     {
         "name": "iron-warriors-preheresy.svg",
-        "cn": "钢铁勇士-荷鲁斯判乱前",
+        "cn": "钢铁勇士-荷鲁斯叛乱前",
         "keywords": [
             "Legion",
             "Space Marines",
@@ -138,6 +357,64 @@
         ]
     },
     {
+        "name": "night-lords-3.svg",
+        "cn": "午夜领主-3",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "night-lords-4.svg",
+        "cn": "午夜领主-4",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "night-lords-5.svg",
+        "cn": "午夜领主-5",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "night-lords-6.svg",
+        "cn": "午夜领主-6",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "night-lords-preheresy-1.svg",
+        "cn": "午夜领主-荷鲁斯叛乱前-1",
+        "keywords": [
+            "Legion",
+            "Space Marines",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "night-lords-preheresy-2.svg",
+        "cn": "午夜领主-荷鲁斯叛乱前-2",
+        "keywords": [
+            "Legion",
+            "Space Marines",
+            "Great Crusade"
+        ]
+    },
+    {
         "name": "son-of-horus.svg",
         "cn": "荷鲁斯之子",
         "keywords": [
@@ -159,8 +436,30 @@
         ]
     },
     {
+        "name": "thousand-sons-2.svg",
+        "cn": "千子-2",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion",
+            "Tzeentch"
+        ]
+    },
+    {
+        "name": "thousand-sons-3.svg",
+        "cn": "千子-3",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion",
+            "Tzeentch"
+        ]
+    },
+    {
         "name": "thousand-sons-preheresy.svg",
-        "cn": "千子-荷鲁斯判乱前",
+        "cn": "千子-荷鲁斯叛乱前",
         "keywords": [
             "Legion",
             "Space Marines",
@@ -180,7 +479,7 @@
     },
     {
         "name": "word-bearers-preheresy.svg",
-        "cn": "怀言者-荷鲁斯判乱前",
+        "cn": "怀言者-荷鲁斯叛乱前",
         "keywords": [
             "Legion",
             "Space Marines",
@@ -188,14 +487,96 @@
         ]
     },
     {
-        "name": "world-eaters.svg",
-        "cn": "吞世者",
+        "name": "world-eaters-1.svg",
+        "cn": "吞世者-1",
         "keywords": [
             "Chaos",
             "Heretic Astartes",
             "Chaos Space Marines",
             "Legion",
             "Khorne"
+        ]
+    },
+    {
+        "name": "world-eaters-2.svg",
+        "cn": "吞世者-2",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion",
+            "Khorne"
+        ]
+    },
+    {
+        "name": "world-eaters-3.svg",
+        "cn": "吞世者-3",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion",
+            "Khorne"
+        ]
+    },
+    {
+        "name": "world-eaters-4.svg",
+        "cn": "吞世者-4",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion",
+            "Khorne"
+        ]
+    },
+    {
+        "name": "world-eaters-5.svg",
+        "cn": "吞世者-5",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion",
+            "Khorne"
+        ]
+    },
+    {
+        "name": "world-eaters-6.svg",
+        "cn": "吞世者-6",
+        "keywords": [
+            "Chaos",
+            "Heretic Astartes",
+            "Chaos Space Marines",
+            "Legion",
+            "Khorne"
+        ]
+    },
+    {
+        "name": "world-eaters-preheresy-1.svg",
+        "cn": "吞世者-荷鲁斯叛乱前-1",
+        "keywords": [
+            "Legion",
+            "Space Marines",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "world-eaters-preheresy-2.svg",
+        "cn": "吞世者-荷鲁斯叛乱前-2",
+        "keywords": [
+            "Legion",
+            "Space Marines",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "world-eaters-preheresy-4.svg",
+        "cn": "吞世者-荷鲁斯叛乱前-4",
+        "keywords": [
+            "Legion",
+            "Space Marines",
+            "Great Crusade"
         ]
     }
 ]

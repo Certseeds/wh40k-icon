@@ -11,7 +11,7 @@
     },
     {
         "name": "dark-angels-preheresy.svg",
-        "cn": "暗黑天使-荷鲁斯判乱前",
+        "cn": "暗黑天使-荷鲁斯叛乱前",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",
@@ -22,7 +22,29 @@
     },
     {
         "name": "dark-angels-preheresy-2.svg",
-        "cn": "暗黑天使-荷鲁斯判乱前-2",
+        "cn": "暗黑天使-荷鲁斯叛乱前-2",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "dark-angels-preheresy-3.svg",
+        "cn": "暗黑天使-荷鲁斯叛乱前-3",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "dark-angels-preheresy-4.svg",
+        "cn": "暗黑天使-荷鲁斯叛乱前-4",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",
@@ -43,13 +65,47 @@
         ]
     },
     {
-        "name": "white-scars-2.svg",
-        "cn": "白色伤疤-2",
+        "name": "white-scars-preheresy-1.svg",
+        "cn": "白色伤疤-荷鲁斯叛乱前-1",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",
             "Space Marines",
-            "Legion"
+            "Legion",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "white-scars-preheresy-2.svg",
+        "cn": "白色伤疤-荷鲁斯叛乱前-2",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "white-scars-preheresy-3.svg",
+        "cn": "白色伤疤-荷鲁斯叛乱前-3",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "white-scars-preheresy-4.svg",
+        "cn": "白色伤疤-荷鲁斯叛乱前-4",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion",
+            "Great Crusade"
         ]
     },
     {
@@ -63,6 +119,27 @@
         ]
     },
     {
+        "name": "space-wolves-2.svg",
+        "cn": "太空野狼-2",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "space-wolves-preheresy.svg",
+        "cn": "太空野狼-荷鲁斯叛乱前",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion",
+            "Great Crusade"
+        ]
+    },
+    {
         "name": "imperial-fists.svg",
         "cn": "帝国之拳",
         "keywords": [
@@ -73,13 +150,25 @@
         ]
     },
     {
-        "name": "imperial-fists-2.svg",
-        "cn": "帝国之拳-2",
+        "name": "imperial-fists-preheresy.svg",
+        "cn": "帝国之拳-荷鲁斯叛乱前",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",
             "Space Marines",
-            "Legion"
+            "Legion",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "imperial-fists-preheresy-2.svg",
+        "cn": "帝国之拳-荷鲁斯叛乱前-2",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion",
+            "Great Crusade"
         ]
     },
     {
@@ -93,8 +182,51 @@
         ]
     },
     {
-        "name": "blood-angels-preheresy.svg",
-        "cn": "圣血天使-荷鲁斯判乱前",
+        "name": "blood-angels-2.svg",
+        "cn": "圣血天使-2",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "blood-angels-preheresy-1.svg",
+        "cn": "圣血天使-荷鲁斯叛乱前-1",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "blood-angels-preheresy-2.svg",
+        "cn": "圣血天使-荷鲁斯叛乱前-2",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "blood-angels-preheresy-3.svg",
+        "cn": "圣血天使-荷鲁斯叛乱前-3",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "blood-angels-preheresy-4.svg",
+        "cn": "圣血天使-荷鲁斯叛乱前-4",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",
@@ -114,13 +246,47 @@
         ]
     },
     {
-        "name": "iron-hands-2.svg",
-        "cn": "钢铁之手-2",
+        "name": "iron-hands-preheresy-1.svg",
+        "cn": "钢铁之手-荷鲁斯叛乱前-1",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",
             "Space Marines",
-            "Legion"
+            "Legion",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "iron-hands-preheresy-2.svg",
+        "cn": "钢铁之手-荷鲁斯叛乱前-2",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "iron-hands-preheresy-3.svg",
+        "cn": "钢铁之手-荷鲁斯叛乱前-3",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "iron-hands-preheresy-4.svg",
+        "cn": "钢铁之手-荷鲁斯叛乱前-4",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion",
+            "Great Crusade"
         ]
     },
     {},
@@ -145,6 +311,16 @@
         ]
     },
     {
+        "name": "salamanders-2.svg",
+        "cn": "火蜥蜴-2",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion"
+        ]
+    },
+    {
         "name": "raven-guard.svg",
         "cn": "暗鸦守卫",
         "keywords": [
@@ -157,6 +333,36 @@
     {
         "name": "raven-guard-2.svg",
         "cn": "暗鸦守卫-2",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "raven-guard-3.svg",
+        "cn": "暗鸦守卫-3",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "raven-guard-4.svg",
+        "cn": "暗鸦守卫-4",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "raven-guard-5.svg",
+        "cn": "暗鸦守卫-5",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",
