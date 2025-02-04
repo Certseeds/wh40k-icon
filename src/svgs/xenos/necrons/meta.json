@@ -8,6 +8,26 @@
         ]
     },
     {
+        "name": "charnovokh-black.svg",
+        "cn": "查诺沃赫王朝-黑",
+        "keywords": [
+            "Yngir",
+            "Necrontyr",
+            "Necrons",
+            "Dynasty"
+        ]
+    },
+    {
+        "name": "charnovokh-white.svg",
+        "cn": "查诺沃赫王朝-白",
+        "keywords": [
+            "Yngir",
+            "Necrontyr",
+            "Necrons",
+            "Dynasty"
+        ]
+    },
+    {
         "name": "mephrit-dark.svg",
         "cn": "墨菲利特王朝-黑",
         "keywords": [
@@ -133,6 +153,26 @@
         "keywords": [
             "Yngir",
             "Necrontyr"
+        ]
+    },
+    {
+        "name": "nekthyst-black.svg",
+        "cn": "奈克西斯特王朝-黑",
+        "keywords": [
+            "Yngir",
+            "Necrontyr",
+            "Necrons",
+            "Dynasty"
+        ]
+    },
+    {
+        "name": "nekthyst-white.svg",
+        "cn": "奈克西斯特王朝-白",
+        "keywords": [
+            "Yngir",
+            "Necrontyr",
+            "Necrons",
+            "Dynasty"
         ]
     },
     {
@@ -448,6 +488,86 @@
         ]
     },
     {
+        "name": "ogdobekh-black.svg",
+        "cn": "奥格多贝赫王朝-黑",
+        "keywords": [
+            "Yngir",
+            "Necrontyr",
+            "Necrons",
+            "Dynasty"
+        ]
+    },
+    {
+        "name": "ogdobekh-white.svg",
+        "cn": "奥格多贝赫王朝-白",
+        "keywords": [
+            "Yngir",
+            "Necrontyr",
+            "Necrons",
+            "Dynasty"
+        ]
+    },
+    {
+        "name": "oruscar-black.svg",
+        "cn": "奥茹斯卡王朝-黑",
+        "keywords": [
+            "Yngir",
+            "Necrontyr",
+            "Necrons",
+            "Dynasty"
+        ]
+    },
+    {
+        "name": "oruscar-white.svg",
+        "cn": "奥茹斯卡王朝-白",
+        "keywords": [
+            "Yngir",
+            "Necrontyr",
+            "Necrons",
+            "Dynasty"
+        ]
+    },
+    {
+        "name": "sarnekh-black-2.svg",
+        "cn": "萨尔尼赫王朝-方案2-黑",
+        "keywords": [
+            "Yngir",
+            "Necrontyr",
+            "Necrons",
+            "Dynasty"
+        ]
+    },
+    {
+        "name": "sarnekh-black.svg",
+        "cn": "萨尔尼赫王朝-黑",
+        "keywords": [
+            "Yngir",
+            "Necrontyr",
+            "Necrons",
+            "Dynasty"
+        ]
+    },
+    {
+        "name": "sarnekh-white-2.svg",
+        "cn": "萨尔尼赫王朝-方案2-白",
+        "keywords": [
+            "Yngir",
+            "Necrontyr",
+            "Necrons",
+            "Dynasty"
+        ]
+    },
+    {
+        "name": "sarnekh-white.svg",
+        "cn": "萨尔尼赫王朝-白",
+        "keywords": [
+            "Yngir",
+            "Necrontyr",
+            "Necrons",
+            "Dynasty"
+        ]
+    },
+    {
         "name": "sautekh-dark.svg",
         "cn": "索泰克王朝-黑",
         "keywords": [
@@ -536,6 +656,26 @@
     {
         "name": "szarekhan.svg",
         "cn": "萨雷赫王朝",
+        "keywords": [
+            "Yngir",
+            "Necrontyr",
+            "Necrons",
+            "Dynasty"
+        ]
+    },  
+    {
+        "name": "thokt-black.svg",
+        "cn": "托克特王朝-黑",
+        "keywords": [
+            "Yngir",
+            "Necrontyr",
+            "Necrons",
+            "Dynasty"
+        ]
+    },
+    {
+        "name": "thokt-white.svg",
+        "cn": "托克特王朝-白",
         "keywords": [
             "Yngir",
             "Necrontyr",
