@@ -150,8 +150,18 @@
         ]
     },
     {
-        "name": "imperial-fists-preheresy.svg",
-        "cn": "帝国之拳-荷鲁斯叛乱前",
+        "name": "imperial-fists=2.svg",
+        "cn": "帝国之拳-2",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Legion"
+        ]
+    },
+    {
+        "name": "imperial-fists-preheresy-1.svg",
+        "cn": "帝国之拳-荷鲁斯叛乱前-1",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",
