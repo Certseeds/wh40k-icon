@@ -5,7 +5,6 @@
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#"
     xmlns:dc="http://purl.org/dc/elements/1.1/">
     
-    <defs id="defs11" />
     <g id="g6" transform="matrix(1.0285529,0,0,1.0285529,-90.529977,-147.70862)">
         <path fill="#A53525"
             d="m 836.4,177.9 c -196,-108.3 -323.6,75.5 -323.6,75.5 0,0 -128,-184 -324,-75.6 -339.9,187.6 285.5,686.7 327.1,687.7 41.6,1 660.6,-499.8 320.5,-687.6 z"

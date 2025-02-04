@@ -2,7 +2,6 @@
     version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#"
     xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <defs id="defs13" />
     <g transform="matrix(0.86535133,0,0,0.86535133,-12.114919,-40.853236)" id="g8" fill="#B50704">
         <polygon id="polygon2"
             points="398.96,101.59 268.73,194.61 311.67,214.65 14,699.79 449.05,971.69 360.32,738.43 192.89,636.82 358.89,236.12 398.96,251.86 " />
