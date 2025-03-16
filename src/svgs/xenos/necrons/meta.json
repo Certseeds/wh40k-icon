@@ -88,7 +88,7 @@
         ]
     },
     {
-        "name": "charnovokh-black.svg",
+        "name": "charnovokh-dark.svg",
         "cn": "查诺沃赫王朝-黑",
         "keywords": [
             "Yngir",
@@ -98,8 +98,8 @@
         ]
     },
     {
-        "name": "charnovokh-white.svg",
-        "cn": "查诺沃赫王朝-白",
+        "name": "charnovokh.svg",
+        "cn": "查诺沃赫王朝",
         "keywords": [
             "Yngir",
             "Necrontyr",
@@ -129,7 +129,7 @@
     },
     {
         "name": "kardenath-2.svg",
-        "cn": "卡德纳斯王朝-2",
+        "cn": "卡德纳斯王朝-方案2",
         "keywords": [
             "Yngir",
             "Necrontyr",
@@ -139,7 +139,7 @@
     },
     {
         "name": "kardenath-dark-2.svg",
-        "cn": "卡德纳斯王朝-2-黑",
+        "cn": "卡德纳斯王朝-方案2-黑",
         "keywords": [
             "Yngir",
             "Necrontyr",
@@ -316,7 +316,7 @@
         ]
     },
     {
-        "name": "nekthyst-black.svg",
+        "name": "nekthyst-dark.svg",
         "cn": "奈克西斯特王朝-黑",
         "keywords": [
             "Yngir",
@@ -326,8 +326,8 @@
         ]
     },
     {
-        "name": "nekthyst-white.svg",
-        "cn": "奈克西斯特王朝-白",
+        "name": "nekthyst.svg",
+        "cn": "奈克西斯特王朝",
         "keywords": [
             "Yngir",
             "Necrontyr",
@@ -668,7 +668,7 @@
         ]
     },
     {
-        "name": "ogdobekh-black.svg",
+        "name": "ogdobekh-dark.svg",
         "cn": "奥格多贝赫王朝-黑",
         "keywords": [
             "Yngir",
@@ -678,8 +678,8 @@
         ]
     },
     {
-        "name": "ogdobekh-white.svg",
-        "cn": "奥格多贝赫王朝-白",
+        "name": "ogdobekh.svg",
+        "cn": "奥格多贝赫王朝",
         "keywords": [
             "Yngir",
             "Necrontyr",
@@ -708,7 +708,7 @@
         ]
     },
     {
-        "name": "oruscar-black.svg",
+        "name": "oruscar-dark.svg",
         "cn": "奥茹斯卡王朝-黑",
         "keywords": [
             "Yngir",
@@ -718,8 +718,8 @@
         ]
     },
     {
-        "name": "oruscar-white.svg",
-        "cn": "奥茹斯卡王朝-白",
+        "name": "oruscar.svg",
+        "cn": "奥茹斯卡王朝",
         "keywords": [
             "Yngir",
             "Necrontyr",
@@ -748,7 +748,7 @@
         ]
     },
     {
-        "name": "sarnekh-black-2.svg",
+        "name": "sarnekh-dark-2.svg",
         "cn": "萨尔尼赫王朝-方案2-黑",
         "keywords": [
             "Yngir",
@@ -758,7 +758,7 @@
         ]
     },
     {
-        "name": "sarnekh-black.svg",
+        "name": "sarnekh-dark.svg",
         "cn": "萨尔尼赫王朝-黑",
         "keywords": [
             "Yngir",
@@ -768,8 +768,8 @@
         ]
     },
     {
-        "name": "sarnekh-white-2.svg",
-        "cn": "萨尔尼赫王朝-方案2-白",
+        "name": "sarnekh-2.svg",
+        "cn": "萨尔尼赫王朝-方案2",
         "keywords": [
             "Yngir",
             "Necrontyr",
@@ -778,8 +778,8 @@
         ]
     },
     {
-        "name": "sarnekh-white.svg",
-        "cn": "萨尔尼赫王朝-白",
+        "name": "sarnekh.svg",
+        "cn": "萨尔尼赫王朝",
         "keywords": [
             "Yngir",
             "Necrontyr",
@@ -944,7 +944,7 @@
         ]
     },
     {
-        "name": "thokt-black.svg",
+        "name": "thokt-dark.svg",
         "cn": "托克特王朝-黑",
         "keywords": [
             "Yngir",
@@ -954,8 +954,8 @@
         ]
     },
     {
-        "name": "thokt-white.svg",
-        "cn": "托克特王朝-白",
+        "name": "thokt.svg",
+        "cn": "托克特王朝",
         "keywords": [
             "Yngir",
             "Necrontyr",
