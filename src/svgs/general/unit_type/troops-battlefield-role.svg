@@ -1,12 +1,9 @@
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="level_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;}
-	.st1{fill:#FFFFFF;}
-</style>
-<g>
-	<polygon points="322.9,249.9 216.7,189.6 217.6,311.7 	"/>
-	<path d="M353.5,0H146.5L0,146.5v207.1L146.5,500h207.1L500,353.5V146.5L353.5,0z M156.7,415.2l0.9-330L443,250.9L156.7,415.2z"/>
-</g>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+    y="0px" viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve">
+    <g>
+        <polygon points="322.9,249.9 216.7,189.6 217.6,311.7 	" />
+        <path
+            d="M353.5,0H146.5L0,146.5v207.1L146.5,500h207.1L500,353.5V146.5L353.5,0z M156.7,415.2l0.9-330L443,250.9L156.7,415.2z" />
+    </g>
 </svg>

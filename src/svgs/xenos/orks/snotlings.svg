@@ -9,10 +9,10 @@
                 style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
             <path id="path826-6"
                 d="m 151.5682,165.65316 -4.34651,15.49724 -17.95394,0.37775 -6.80372,-15.11897 -5.66942,39.49888 8.12663,3.40134 13.98468,16.82016 11.90625,-14.55208 11.71763,-5.29167 z m -0.94465,30.42708 3.96875,0.18913 -0.18913,6.61458 h -12.47314 v -3.59047 z m -25.32455,0.5674 7.9375,2.26756 0.56689,3.21273 -10.3942,-0.18862 -0.56689,-5.10305 z"
-                style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+                fill="#000000" fill-opacity="1" stroke="none" stroke-width="0.26458332px" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1"/>
             <path id="path826-6-1"
                 d="m 81.075638,163.19632 -4.34651,15.49724 -17.95394,0.37775 -6.80372,-15.11897 -5.66942,39.49888 8.12663,3.40134 13.98468,16.82016 11.90625,-14.55208 11.71763,-5.29167 z m -0.94465,30.42708 3.96875,0.18913 -0.18913,6.61458 h -12.47314 v -3.59047 z m -25.32455,0.5674 7.9375,2.26756 0.56689,3.21273 -10.3942,-0.18862 -0.56689,-5.10305 z"
-                style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+                fill="#000000" fill-opacity="1" stroke="none" stroke-width="0.26458332px" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1"/>
         </g>
     </g>
 </svg>

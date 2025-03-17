@@ -1,6 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" width="635.11792" height="800" viewBox="0 0 168.04161 211.66667" version="1.1" id="svg8">
-  <defs id="defs2"/>
-  <g id="layer1" transform="translate(-67.256772,30.449694)">
-    <path style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.84020817px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 151.27758,-30.449694 67.256772,115.07862 h 70.096788 v 66.13835 h 27.84812 v -66.13835 h 70.09671 z m 0,46.820267 43.63175,75.572812 h -87.26349 z" id="path826"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" width="635.11792" height="800" viewBox="0 0 168.04161 211.66667"
+    version="1.1" id="svg8">
+    <g id="layer1" transform="translate(-67.256772,30.449694)">
+        <path
+            style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.84020817px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+            d="M 151.27758,-30.449694 67.256772,115.07862 h 70.096788 v 66.13835 h 27.84812 v -66.13835 h 70.09671 z m 0,46.820267 43.63175,75.572812 h -87.26349 z"
+            id="path826" />
+    </g>
 </svg>

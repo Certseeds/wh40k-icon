@@ -1,11 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 11.55 21.91" version="1.1" id="svg12">
-  <defs id="defs4">
-    <style id="style2">.cls-1{fill:#231f20;}</style>
-  </defs>
-  <title id="title6">MoveAsset 1</title>
-  <g id="Layer_2" data-name="Layer 2">
-    <g id="Layer_1-2" data-name="Layer 1">
-      <path class="cls-1" d="M9.37,7.9l2.18,2.19V0H1.47L3.71,2.24c-5.32,6-4.91,13.59,1.17,19.67l5.64-5.65A8.18,8.18,0,0,1,8,11.8,5.09,5.09,0,0,1,9.37,7.9" id="path8"/>
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 11.55 21.91" version="1.1"
+    id="svg12">
+    <title id="title6">MoveAsset 1</title>
+        <g fill="#000000">
+            <path class="cls-1"
+                d="M9.37,7.9l2.18,2.19V0H1.47L3.71,2.24c-5.32,6-4.91,13.59,1.17,19.67l5.64-5.65A8.18,8.18,0,0,1,8,11.8,5.09,5.09,0,0,1,9.37,7.9"
+                id="path8" />
+        </g>
 </svg>

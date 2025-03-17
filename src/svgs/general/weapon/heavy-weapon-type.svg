@@ -1,15 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 25.08 24.54" version="1.1" id="svg12">
-  <defs id="defs4">
-    <style id="style2">
-            .cls-1 {
-                fill: #231f20;
-            }
-        </style>
-  </defs>
-  <title id="title6">HeavyAsset 1</title>
-  <g id="Layer_2" data-name="Layer 2">
-    <g id="Layer_1-2" data-name="Layer 1">
-      <polygon class="cls-1" points="12.54 0 9.34 10.03 2.88 6.29 5.61 15.22 0 13.85 5.68 22.31 3.45 24.54 21.79 24.54 19.46 22.22 25.08 13.85 19.48 15.22 22.21 6.29 15.75 10.03 12.54 0" id="polygon8"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 25.08 24.54" version="1.1"
+    id="svg12">
+    <title id="title6">HeavyAsset 1</title>
+    <g fill="#000000">
+        <polygon class="cls-1"
+            points="12.54 0 9.34 10.03 2.88 6.29 5.61 15.22 0 13.85 5.68 22.31 3.45 24.54 21.79 24.54 19.46 22.22 25.08 13.85 19.48 15.22 22.21 6.29 15.75 10.03 12.54 0"
+            id="polygon8" />
     </g>
-  </g>
 </svg>

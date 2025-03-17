@@ -1,23 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 7.35 7" version="1.1"
     id="svg19">
-    <defs id="defs7">
-        <style id="style2">
-            .cls-1 {
-                fill: none;
-            }
-
-            .cls-2 {
-                clip-path: url(#clip-path);
-            }
-
-            .cls-3 {
-                fill: #231f20;
-            }
-        </style>
-    </defs>
     <title id="title9">MeleeAsset 1</title>
-    <g id="Layer_2" data-name="Layer 2">
-        <g id="Layer_1-2" data-name="Layer 1">
+        <g fill="#000000">
             <g class="cls-2" clip-path="url(#clip-path)" id="g15">
                 <path class="cls-3"
                     d="M3.81,5.85l-.13-.31-.53.54.53.53-.59.59-.41.41-.13-.14-.34.34.35.35.35.35.34-.34L3.12,8l.4-.41L4.11,7l.53.53L5.18,7l-.31-.13-.19-.19L6.24,5.16l.65-.65c.38-.38,2.25-2.39,2.32-3-.62.05-2.62,1.94-3,2.32l-.62.63L4,6Z"
@@ -27,5 +11,4 @@
                     transform="translate(-2.21 -1.51)" id="path13" />
             </g>
         </g>
-    </g>
 </svg>
