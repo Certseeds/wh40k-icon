@@ -1,19 +1,43 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" width="360.91611" height="800" viewBox="0 0 95.492384 211.66667" version="1.1" id="svg8">
-  <defs id="defs2"/>
-  <g id="layer1" transform="translate(-129.9014,8.3251699)">
-    <g id="g973">
-      <path id="path828" d="m 177.6498,-8.3251594 -8.60908,39.1524434 v 86.003146 l -39.13931,20.04695 39.54218,20.25279 v 8.86741 l -22.7269,15.32206 v 22.0214 h 6.98885 l 11.47293,-12.59785 12.47133,12.59785 12.47133,-12.60222 11.47073,12.60222 6.98666,4.7e-4 v -22.02187 l -22.72253,-15.32206 v -8.86741 L 225.3938,136.87738 186.25886,116.83043 V 30.827284 Z" />
-      <g transform="matrix(8.4738403,0,0,8.4738403,-724.63869,-1524.5464)" id="g917" fill="#000000" fill-opacity="1">
-        <path style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.96417761;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.33953486;paint-order:markers fill stroke" d="m 419.49414,708.84766 -2.14648,9.76757 v 17.86524 l 4.29492,2.19922 v -20.06446 z" transform="scale(0.26458333)" id="path866"/>
-        <path style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.51074934;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.33953486;paint-order:markers fill stroke" d="m 411.22461,692.59766 -2.98438,13.57812 v 25.64063 l 5.97071,3.05664 v -28.69727 z" transform="scale(0.26458333)" id="path868"/>
-        <path style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.96417761;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.33953486;paint-order:markers fill stroke" d="m 385.38867,708.84766 -2.14844,9.76757 v 20.06446 l 4.29493,-2.19922 v -17.86524 z" transform="scale(0.26458333)" id="path874"/>
-        <path style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.51074934;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.33953486;paint-order:markers fill stroke" d="m 393.65625,692.59766 -2.98437,13.57812 v 28.69727 l 5.9707,-3.05664 v -25.64063 z" transform="scale(0.26458333)" id="path876"/>
-      </g>
-      <g fill="#000000" fill-opacity="1" transform="translate(-0.08277777)" id="g962">
-        <path transform="matrix(0.61107459,0,0,0.31301339,132.32725,93.44392)" d="M 124.02135,217.0864 106.77418,234.33357 89.527006,217.0864 106.77418,199.83922 Z" id="path898" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.58749998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.33953486;paint-order:markers fill stroke"/>
-        <path style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.58749998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.33953486;paint-order:markers fill stroke" id="path958" d="M 124.02135,217.0864 106.77418,234.33357 89.527006,217.0864 106.77418,199.83922 Z" transform="matrix(0.61107459,0,0,0.31301339,92.639542,93.44392)"/>
-      </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" width="360.91611" height="800" viewBox="0 0 95.492384 211.66667"
+    version="1.1" id="svg8">
+    <g id="layer1" transform="translate(-129.9014,8.3251699)">
+        <g id="g973">
+            <path id="path828"
+                d="m 177.6498,-8.3251594 -8.60908,39.1524434 v 86.003146 l -39.13931,20.04695 39.54218,20.25279 v 8.86741 l -22.7269,15.32206 v 22.0214 h 6.98885 l 11.47293,-12.59785 12.47133,12.59785 12.47133,-12.60222 11.47073,12.60222 6.98666,4.7e-4 v -22.02187 l -22.72253,-15.32206 v -8.86741 L 225.3938,136.87738 186.25886,116.83043 V 30.827284 Z" />
+            <g transform="matrix(8.4738403,0,0,8.4738403,-724.63869,-1524.5464)" id="g917" fill="#000000"
+                fill-opacity="1">
+                <path d="m 419.49414,708.84766 -2.14648,9.76757 v 17.86524 l 4.29492,2.19922 v -20.06446 z"
+                    transform="scale(0.26458333)" id="path866" opacity="1" fill="#000000" fill-opacity="1" stroke="none"
+                    stroke-width="3.96417761" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4"
+                    stroke-dasharray="none" stroke-opacity="0.33953486" paint-order="markers fill stroke" />
+                <path d="m 411.22461,692.59766 -2.98438,13.57812 v 25.64063 l 5.97071,3.05664 v -28.69727 z"
+                    transform="scale(0.26458333)" id="path868" opacity="1" fill="#000000" fill-opacity="1" stroke="none"
+                    stroke-width="5.51074934" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4"
+                    stroke-dasharray="none" stroke-opacity="0.33953486" paint-order="markers fill stroke" />
+                <path d="m 385.38867,708.84766 -2.14844,9.76757 v 20.06446 l 4.29493,-2.19922 v -17.86524 z"
+                    transform="scale(0.26458333)" id="path874" opacity="1" fill="#000000" fill-opacity="1" stroke="none"
+                    stroke-width="3.96417761" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4"
+                    stroke-dasharray="none" stroke-opacity="0.33953486" paint-order="markers fill stroke" />
+                <path d="m 393.65625,692.59766 -2.98437,13.57812 v 28.69727 l 5.9707,-3.05664 v -25.64063 z"
+                    transform="scale(0.26458333)" id="path876" opacity="1" fill="#000000" fill-opacity="1" stroke="none"
+                    stroke-width="5.51074934" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4"
+                    stroke-dasharray="none" stroke-opacity="0.33953486" paint-order="markers fill stroke" />
+            </g>
+            <g fill="#000000" fill-opacity="1" transform="translate(-0.08277777)" id="g962">
+                <path transform="matrix(0.61107459,0,0,0.31301339,132.32725,93.44392)"
+                    d="M 124.02135,217.0864 106.77418,234.33357 89.527006,217.0864 106.77418,199.83922 Z" id="path898"
+                    opacity="1" fill="#000000" fill-opacity="1" stroke="none" stroke-width="1.58749998"
+                    stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dasharray="none"
+                    stroke-opacity="0.33953486" paint-order="markers fill stroke" />
+                <path id="path958" d="M 124.02135,217.0864 106.77418,234.33357 89.527006,217.0864 106.77418,199.83922 Z"
+                    transform="matrix(0.61107459,0,0,0.31301339,92.639542,93.44392)" opacity="1" fill="#000000"
+                    fill-opacity="1" stroke="none" stroke-width="1.58749998" stroke-linecap="round"
+                    stroke-linejoin="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="0.33953486"
+                    paint-order="markers fill stroke" />
+            </g>
+        </g>
     </g>
-  </g>
 </svg>
