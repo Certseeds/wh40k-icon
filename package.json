@@ -24,7 +24,26 @@
         "type": "git",
         "url": "git+https://github.com/Certseeds/wh40k-icon.git"
     },
-    "author": "shitake",
+    "author": {
+        "name": "nanoseeds",
+        "email": "openpgp@mail.certseeds.com",
+        "url": "https://github.com/Certseeds/"
+    },
+    "contributors": [
+        {
+            "name": "shitake",
+            "email": "z1522716486@hotmail.com",
+            "url": "https://github.com/molingyu"
+        },
+        {
+            "name": "farvig",
+            "url": "http://bakadesign.dk/"
+        },
+        {
+            "name": "夜行漫记",
+            "url": "https://space.bilibili.com/194129"
+        }
+    ],
     "license": "(OFL-1.1-RFN AND AGPL-3.0-or-later AND CC-BY-NC-SA-4.0)",
     "devDependencies": {
         "svgtofont": "^6.2.0",
