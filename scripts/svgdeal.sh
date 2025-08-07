@@ -3,21 +3,26 @@ set -euox pipefail
 main() {
     inkscape --version
     xmllint --version
-    for i in ./*.avif; do
-        if [[ "${i}" == "./*.avif" ]]; then
+    for i in ./*.jpg; do
+        if [[ "${i}" == "./*.jpg" ]]; then
             continue;
         fi
         echo ${i}
         convert \
             ${i} \
-            -background white \
+            -background black \
             -alpha remove \
             -alpha off \
+            -sharpen 0x1 \
+            -threshold 50% \
+            -negate \
             ${i}.pnm
         potrace \
             ${i}.pnm \
             --svg \
-            --opttolerance 1 \
+            --opttolerance 0 \
+            --turnpolicy black \
+            --turdsize 2 \
             -o ${i}.svg
     done
     for file in ./*.svg; do

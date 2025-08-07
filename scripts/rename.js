@@ -4,8 +4,7 @@
 import path from 'node:path';
 import fsp from 'node:fs/promises';
 import fs from 'node:fs';
-import { fileURLToPath } from 'node:url';
-import { findDirWithPkgJson, findSvgFiles } from "./library.js";
+import { findSvgFiles } from "./library.js";
 
 const searchDir = process.cwd()
 const svgs = await findSvgFiles(process.cwd());
