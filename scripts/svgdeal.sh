@@ -10,7 +10,7 @@ main() {
         echo ${i}
         convert \
             ${i} \
-            -background black \
+            -background green \
             -alpha remove \
             -alpha off \
             -sharpen 0x1 \

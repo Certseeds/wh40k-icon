@@ -108,5 +108,38 @@
             "Iron Hands",
             "Astartes Company"
         ]
+    },
+    {
+        "name": "iron-hands-clan-felg.svg",
+        "cn": "钢铁之手-费尔格氏族",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Iron Hands",
+            "Horus Heresy"
+        ]
+    },
+    {
+        "name": "iron-hands-clan-morragul.svg",
+        "cn": "钢铁之手-莫拉古氏族",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Iron Hands",
+            "Horus Heresy"
+        ]
+    },
+    {
+        "name": "iron-hands-clan-ungavarr.svg",
+        "cn": "钢铁之手-昂格瓦氏族",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Iron Hands",
+            "Horus Heresy"
+        ]
     }
 ]
