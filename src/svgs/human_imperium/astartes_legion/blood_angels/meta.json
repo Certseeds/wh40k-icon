@@ -1,5 +1,115 @@
 [
     {
+        "name": "blood-angels-1st-company-archangels.svg",
+        "cn": "圣血天使-第一连-大天使",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Blood Angels",
+            "Astartes Company"
+        ]
+    },
+    {
+        "name": "blood-angels-2nd-company-the-blooded.svg",
+        "cn": "圣血天使-第二连-流血者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Blood Angels",
+            "Astartes Company"
+        ]
+    },
+    {
+        "name": "blood-angels-3rd-company-ironhelms.svg",
+        "cn": "圣血天使-第三连-铁盔",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Blood Angels",
+            "Astartes Company"
+        ]
+    },
+    {
+        "name": "blood-angels-4th-company-knights-of-baal.svg",
+        "cn": "圣血天使-第四连-巴尔骑士",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Blood Angels",
+            "Astartes Company"
+        ]
+    },
+    {
+        "name": "blood-angels-5th-company-daemonbanes.svg",
+        "cn": "圣血天使-第五连-恶魔天灾",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Blood Angels",
+            "Astartes Company"
+        ]
+    },
+    {
+        "name": "blood-angels-6th-company-eternals.svg",
+        "cn": "圣血天使-第六连-永恒者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Blood Angels",
+            "Astartes Company"
+        ]
+    },
+    {
+        "name": "blood-angels-7th-company-unconquerables.svg",
+        "cn": "圣血天使-第七连-不可征服",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Blood Angels",
+            "Astartes Company"
+        ]
+    },
+    {
+        "name": "blood-angels-8th-company-bloodblades.svg",
+        "cn": "圣血天使-第八连-血刃",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Blood Angels",
+            "Astartes Company"
+        ]
+    },
+    {
+        "name": "blood-angels-9th-company-sunderers.svg",
+        "cn": "圣血天使-第九连-撕裂者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Blood Angels",
+            "Astartes Company"
+        ]
+    },
+    {
+        "name": "blood-angels-10th-company-redeemers.svg",
+        "cn": "圣血天使-第十连-救赎者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Blood Angels",
+            "Astartes Company"
+        ]
+    },
+    {
         "name": "blood-angels-death-company.svg",
         "cn": "圣血天使-死亡连",
         "keywords": [

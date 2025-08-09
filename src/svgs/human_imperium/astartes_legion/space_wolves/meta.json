@@ -1,13 +1,12 @@
 [
     {
-        "name": "space-wolves-bloodied-hunter.svg",
-        "cn": "太空野狼-血腥猎人徽章",
+        "name": "space-wolves-logan-grimnar.svg",
+        "cn": "太空野狼-头狼罗根格里姆纳尔",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",
             "Space Marines",
-            "Space Wolves",
-            "Astartes Company"
+            "Space Wolves"
         ]
     },
     {
@@ -22,62 +21,8 @@
         ]
     },
     {
-        "name": "space-wolves-deathwolves.svg",
-        "cn": "太空野狼-死亡之狼",
-        "keywords": [
-            "Imperium",
-            "Adeptus Astartes",
-            "Space Marines",
-            "Space Wolves",
-            "Astartes Company"
-        ]
-    },
-    {
-        "name": "space-wolves-drakeslayers.svg",
-        "cn": "太空野狼-屠龙者",
-        "keywords": [
-            "Imperium",
-            "Adeptus Astartes",
-            "Space Marines",
-            "Space Wolves",
-            "Astartes Company"
-        ]
-    },
-    {
-        "name": "space-wolves-grimbloods.svg",
-        "cn": "太空野狼-血腥者",
-        "keywords": [
-            "Imperium",
-            "Adeptus Astartes",
-            "Space Marines",
-            "Space Wolves",
-            "Astartes Company"
-        ]
-    },
-    {
-        "name": "space-wolves-ironwolves.svg",
-        "cn": "太空野狼-钢铁之狼",
-        "keywords": [
-            "Imperium",
-            "Adeptus Astartes",
-            "Space Marines",
-            "Space Wolves",
-            "Astartes Company"
-        ]
-    },
-    {
-        "name": "space-wolves-logan-grimnar.svg",
-        "cn": "太空野狼-头狼罗根格里姆纳尔",
-        "keywords": [
-            "Imperium",
-            "Adeptus Astartes",
-            "Space Marines",
-            "Space Wolves"
-        ]
-    },
-    {
-        "name": "space-wolves-red-moons.svg",
-        "cn": "太空野狼-赤红之月",
+        "name": "space-wolves-the-sea-wolf.svg",
+        "cn": "太空野狼-海狼",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",
@@ -98,8 +43,52 @@
         ]
     },
     {
+        "name": "space-wolves-red-moons.svg",
+        "cn": "太空野狼-赤红之月",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Space Wolves",
+            "Astartes Company"
+        ]
+    },
+    {
+        "name": "space-wolves-deathwolves.svg",
+        "cn": "太空野狼-死亡之狼",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Space Wolves",
+            "Astartes Company"
+        ]
+    },
+    {
         "name": "space-wolves-stormwolves.svg",
         "cn": "太空野狼-风暴狼",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Space Wolves",
+            "Astartes Company"
+        ]
+    },
+    {
+        "name": "space-wolves-ironwolves.svg",
+        "cn": "太空野狼-钢铁之狼",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Space Wolves",
+            "Astartes Company"
+        ]
+    },
+    {
+        "name": "space-wolves-drakeslayers.svg",
+        "cn": "太空野狼-屠龙者",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",
@@ -131,8 +120,8 @@
         ]
     },
     {
-        "name": "space-wolves-the-sea-wolf.svg",
-        "cn": "太空野狼-海狼",
+        "name": "space-wolves-grimbloods.svg",
+        "cn": "太空野狼-血腥者",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",
@@ -144,6 +133,17 @@
     {
         "name": "space-wolves-the-wolf-that-stalks-between-the-stars.svg",
         "cn": "太空野狼-星辰追猎之狼",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Space Wolves",
+            "Astartes Company"
+        ]
+    },
+    {
+        "name": "space-wolves-bloodied-hunter.svg",
+        "cn": "太空野狼-血腥猎人徽章",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",

@@ -1,0 +1,13 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"
+    xmlns:svg="http://www.w3.org/2000/svg">
+    <defs>
+        <clipPath id="circleClip">
+            <circle cx="50" cy="50" r="40" />
+        </clipPath>
+    </defs>
+
+    <!-- 黄色圆形背景 -->
+    <circle cx="50" cy="50" r="40" fill="#ad8d2f" />
+    <!-- 白色竖条 -->
+    <rect x="35" y="10" width="30" height="80" fill="#FFCC37" clip-path="url(#circleClip)" />
+</svg>

@@ -1,0 +1,42 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"
+    xmlns:svg="http://www.w3.org/2000/svg">
+    <defs>
+        <!-- 左上象限 -->
+        <clipPath id="upperLeft">
+            <polygon points="0,0 50,0 50,50 0,50" />
+        </clipPath>
+        
+        <!-- 右上象限 -->
+        <clipPath id="upperRight">
+            <polygon points="50,0 100,0 100,50 50,50" />
+        </clipPath>
+        
+        <!-- 左下象限 -->
+        <clipPath id="lowerLeft">
+            <polygon points="0,50 50,50 50,100 0,100" />
+        </clipPath>
+        
+        <!-- 右下象限 -->
+        <clipPath id="lowerRight">
+            <polygon points="50,50 100,50 100,100 50,100" />
+        </clipPath>
+        
+        <!-- 圆形边界 -->
+        <clipPath id="circleClip">
+            <circle cx="50" cy="50" r="40" />
+        </clipPath>
+    </defs>
+    
+    <!-- 左上象限 - 黑色 -->
+    <circle cx="50" cy="50" r="40" fill="#111111" clip-path="url(#upperLeft)" />
+    <circle cx="50" cy="50" r="40" fill="none" stroke="none" clip-path="url(#upperLeft)" />
+    
+    <!-- 右上象限 - 黄色 -->
+    <circle cx="50" cy="50" r="40" fill="#FFCC37" clip-path="url(#upperRight)" />
+    
+    <!-- 左下象限 - 黄色 -->
+    <circle cx="50" cy="50" r="40" fill="#FFCC37" clip-path="url(#lowerLeft)" />
+    
+    <!-- 右下象限 - 黑色 -->
+    <circle cx="50" cy="50" r="40" fill="#111111" clip-path="url(#lowerRight)" />
+</svg>
