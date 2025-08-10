@@ -125,6 +125,18 @@
             "Adeptus Astartes",
             "Space Marines",
             "Renegades Astartes",
+            "Ultramarines",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "astral-knights.svg",
+        "cn": "星界骑士",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Imperial Fists",
             "Chapter"
         ]
     },
@@ -214,6 +226,16 @@
         ]
     },
     {
+        "name": "blood-ravens-2.svg",
+        "cn": "血鸦-2",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Chapter"
+        ]
+    },
+    {
         "name": "blood-swords.svg",
         "cn": "血剑",
         "keywords": [
@@ -268,12 +290,34 @@
         ]
     },
     {
+        "name": "crimson-fists.svg",
+        "cn": "绯红之拳",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Imperial Fists",
+            "Chapter"
+        ]
+    },
+    {
         "name": "crimson-talons.svg",
         "cn": "猩红之爪",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",
             "Space Marines",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "dark-hunters.svg",
+        "cn": "死亡猎手",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "White Scars",
             "Chapter"
         ]
     },
@@ -296,6 +340,17 @@
             "Adeptus Astartes",
             "Space Marines",
             "Raven Guard",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "death-strike.svg",
+        "cn": "死亡突击",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Imperial Fists",
             "Chapter"
         ]
     },
@@ -432,6 +487,17 @@
         ]
     },
     {
+        "name": "invaders.svg",
+        "cn": "侵袭者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Imperial Fists",
+            "Chapter"
+        ]
+    },
+    {
         "name": "invictors.svg",
         "cn": "获胜者",
         "keywords": [
@@ -519,6 +585,17 @@
             "Chapter"
         ]
     },
+        {
+        "name": "rampagers.svg",
+        "cn": "狂暴者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "White Scars",
+            "Chapter"
+        ]
+    },
     {
         "name": "raptors.svg",
         "cn": "猛禽",
@@ -543,6 +620,15 @@
     {
         "name": "retributors.svg",
         "cn": "报复者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Chapter"
+        ]
+    },{
+        "name": "sable-swords.svg",
+        "cn": "黑貂之剑",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",
@@ -648,6 +734,17 @@
             "Chapter"
         ]
     },
+        {
+        "name": "subjugators.svg",
+        "cn": "征服者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Imperial Fists",
+            "Chapter"
+        ]
+    },
     {
         "name": "tome-keepers.svg",
         "cn": "典籍守护者",
@@ -666,6 +763,16 @@
             "Adeptus Astartes",
             "Space Marines",
             "Ultramarines",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "white-templars.svg",
+        "cn": "白色圣堂",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
             "Chapter"
         ]
     }
