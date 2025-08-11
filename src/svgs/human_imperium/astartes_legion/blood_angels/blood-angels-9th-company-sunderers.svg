@@ -1,7 +1,7 @@
-<svg version="1.0" width="140.000000pt" height="140.000000pt" viewBox="0 0 140.000000 140.000000"
+<svg version="1.0" width="140pt" height="140pt" viewBox="0 0 140 140"
     preserveAspectRatio="xMidYMid meet" id="svg16" xmlns="http://www.w3.org/2000/svg"
     xmlns:svg="http://www.w3.org/2000/svg">
-    <g transform="translate(0.000000,140.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none" id="g14">
+    <g transform="translate(0,140) scale(0.1,-0.1)" stroke="none" id="g14">
         <circle cx="700" cy="700" r="600" fill="#ed240f" />
         <path fill="#000000"
             d="M412 792 c-40 -158 -72 -304 -72 -325 0 -21 7 -51 15 -67 8 -15 26 -38 41 -49 14 -11 42 -23 61 -27 19 -4 52 -1 73 5 21 6 50 25 64 41 14 17 28 47 32 67 4 23 -1 71 -16 140 -12 55 -42 183 -66 283 -24 100 -44 188 -44 197 0 8 -4 17 -8 20 -4 2 -40 -124 -80 -282z"

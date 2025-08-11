@@ -53,6 +53,28 @@
         ]
     },
     {
+        "name": "angles-encarmine.svg",
+        "cn": "泛红天使",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Blood Angels",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "angles-sanguine.svg",
+        "cn": "血红天使",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Blood Angels",
+            "Chapter"
+        ]
+    },
+    {
         "name": "angels-of-iron.svg",
         "cn": "铁天使",
         "keywords": [
@@ -75,7 +97,7 @@
     },
     {
         "name": "angels-of-retribution.svg",
-        "cn": "报应天使",
+        "cn": "赦罪天使",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",
@@ -253,6 +275,17 @@
             "Imperium",
             "Adeptus Astartes",
             "Space Marines",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "carmine-blades.svg",
+        "cn": "深红之刃",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Blood Angels",
             "Chapter"
         ]
     },
@@ -542,6 +575,17 @@
         ]
     },
     {
+        "name": "knights-of-the-chalice.svg",
+        "cn": "圣杯骑士",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Blood Angels",
+            "Chapter"
+        ]
+    },
+    {
         "name": "lamenters.svg",
         "cn": "恸哭者",
         "keywords": [
@@ -585,7 +629,7 @@
             "Chapter"
         ]
     },
-        {
+    {
         "name": "rampagers.svg",
         "cn": "狂暴者",
         "keywords": [
@@ -626,7 +670,8 @@
             "Space Marines",
             "Chapter"
         ]
-    },{
+    },
+    {
         "name": "sable-swords.svg",
         "cn": "黑貂之剑",
         "keywords": [
@@ -734,7 +779,7 @@
             "Chapter"
         ]
     },
-        {
+    {
         "name": "subjugators.svg",
         "cn": "征服者",
         "keywords": [
