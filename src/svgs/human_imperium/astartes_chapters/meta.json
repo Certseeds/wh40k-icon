@@ -269,6 +269,17 @@
         ]
     },
     {
+        "name": "brazen-claws.svg",
+        "cn": "黄铜之爪",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Iron Hands",
+            "Chapter"
+        ]
+    },
+    {
         "name": "carcharodons.svg",
         "cn": "噬人鲨",
         "keywords": [
@@ -658,6 +669,17 @@
             "Imperium",
             "Adeptus Astartes",
             "Space Marines",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "red-talons.svg",
+        "cn": "鲜红利爪",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Iron Hands",
             "Chapter"
         ]
     },
