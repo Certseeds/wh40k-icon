@@ -163,6 +163,17 @@
         ]
     },
     {
+        "name": "aurora-chapter.svg",
+        "cn": "曙光女神战团",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Imperial Fists",
+            "Chapter"
+        ]
+    },
+    {
         "name": "avengers.svg",
         "cn": "复仇者",
         "keywords": [
@@ -362,6 +373,17 @@
             "Adeptus Astartes",
             "Space Marines",
             "White Scars",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "dark-sons.svg",
+        "cn": "黑暗之子",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Ultramarines",
             "Chapter"
         ]
     },
@@ -593,6 +615,17 @@
             "Adeptus Astartes",
             "Space Marines",
             "Blood Angels",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "knights-of-the-raven.svg",
+        "cn": "渡鸦骑士",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Raven Guard",
             "Chapter"
         ]
     },

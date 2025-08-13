@@ -3,24 +3,29 @@ set -euox pipefail
 main() {
     inkscape --version
     xmllint --version
-    for i in ./*.png; do
-        if [[ "${i}" == "./*.png" ]]; then
+    for i in ./*.jpg; do
+        if [[ "${i}" == "./*.jpg" ]]; then
             continue;
         fi
         echo ${i}
-        convert \
+    convert \
             ${i} \
-            -channel R \
-            -separate \
-            -blur 0.5x0.5 \
-            -level 20%,90% \
-            -threshold 35% \
+        -colorspace HSV \
+        -channel 2 \
+        -separate \
+        -level 5%,90% \
+        -threshold 1% \
+        -background white \
+        -alpha remove \
+            ${i}.pnm.png
+    convert ${i}.pnm.png \
+           -colorspace Gray \
             -negate \
-            -morphology close disk:2 \
-            -morphology open disk:1 \
-            -background white \
-            -alpha remove \
-            ${i}.pnm
+            ./${i}.pnm
+            convert ${i}.pnm.png \
+           -colorspace Gray \
+            -negate \
+            ./${i}.jpg
         potrace \
             ${i}.pnm \
             --svg \
