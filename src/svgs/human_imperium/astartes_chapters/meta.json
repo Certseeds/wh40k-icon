@@ -455,6 +455,17 @@
         ]
     },
     {
+        "name": "doom-legion.svg",
+        "cn": "毁灭军团战团",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Ultramarines",
+            "Chapter"
+        ]
+    },
+    {
         "name": "dragonspears-2.svg",
         "cn": "龙矛-2",
         "keywords": [
@@ -530,6 +541,17 @@
         ]
     },
     {
+        "name": "genesis-chapter.svg",
+        "cn": "起源战团",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Ultramarines",
+            "Chapter"
+        ]
+    },
+    {
         "name": "grey-knights.svg",
         "cn": "灰骑士",
         "keywords": [
@@ -591,8 +613,8 @@
             "Imperium",
             "Adeptus Astartes",
             "Space Marines",
-            "Chapter",
-            "Iron Hands"
+            "Iron Hands",
+            "Chapter"
         ]
     },
     {
@@ -733,6 +755,17 @@
             "Imperium",
             "Adeptus Astartes",
             "Space Marines",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "scythes-of-the-emperor.svg",
+        "cn": "帝皇之镰",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Ultramarines",
             "Chapter"
         ]
     },

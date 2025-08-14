@@ -3,27 +3,27 @@ set -euox pipefail
 main() {
     inkscape --version
     xmllint --version
-    for i in ./*.jpg; do
-        if [[ "${i}" == "./*.jpg" ]]; then
-            continue;
+    for i in ./*.avif; do
+        if [[ "${i}" == "./*.avif" ]]; then
+            continue
         fi
         echo ${i}
-    convert \
+        convert \
             ${i} \
-        -colorspace HSV \
-        -channel 2 \
-        -separate \
-        -level 5%,90% \
-        -threshold 1% \
-        -background white \
-        -alpha remove \
+            -colorspace HSV \
+            -channel 2 \
+            -separate \
+            -level 5%,90% \
+            -threshold 1% \
+            -background white \
+            -alpha remove \
             ${i}.pnm.png
-    convert ${i}.pnm.png \
-           -colorspace Gray \
+        convert ${i}.pnm.png \
+            -colorspace Gray \
             -negate \
             ./${i}.pnm
-            convert ${i}.pnm.png \
-           -colorspace Gray \
+        convert ${i}.pnm.png \
+            -colorspace Gray \
             -negate \
             ./${i}.jpg
         potrace \
