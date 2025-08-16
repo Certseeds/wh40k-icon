@@ -11,25 +11,15 @@ main() {
         convert \
             ${i} \
             -colorspace HSV \
-            -channel 2 \
-            -separate \
-            -level 5%,90% \
-            -threshold 1% \
-            -background white \
-            -alpha remove \
+            -channel 1 \
             ${i}.pnm.png
         convert ${i}.pnm.png \
             -colorspace Gray \
-            -negate \
             ./${i}.pnm
-        convert ${i}.pnm.png \
-            -colorspace Gray \
-            -negate \
-            ./${i}.jpg
         potrace \
             ${i}.pnm \
             --svg \
-            --opttolerance 0.2 \
+            --opttolerance 0.1 \
             --turnpolicy white \
             --turdsize 5 \
             -o ${i}.svg

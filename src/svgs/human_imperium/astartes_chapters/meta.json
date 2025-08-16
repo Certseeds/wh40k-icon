@@ -486,6 +486,17 @@
         ]
     },
     {
+        "name": "eagle-warriors.svg",
+        "cn": "雄鹰战士",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Ultramarines",
+            "Chapter"
+        ]
+    },
+    {
         "name": "emperor_s-spears.svg",
         "cn": "帝皇之矛",
         "keywords": [
@@ -663,6 +674,17 @@
         ]
     },
     {
+        "name": "libators.svg",
+        "cn": "祭祀者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Ultramarines",
+            "Chapter"
+        ]
+    },
+    {
         "name": "minotaurs.svg",
         "cn": "米诺陶",
         "keywords": [
@@ -792,6 +814,17 @@
         ]
     },
     {
+        "name": "sons-of-guilliman.svg",
+        "cn": "基里曼之子",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Ultramarines",
+            "Chapter"
+        ]
+    },
+    {
         "name": "sons-of-medusa-2.svg",
         "cn": "美杜莎之子-2",
         "keywords": [
@@ -864,6 +897,17 @@
             "Adeptus Mechanicus",
             "Space Marines",
             "Iron Hands",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "storm-giants.svg",
+        "cn": "风暴巨人",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Salamanders",
             "Chapter"
         ]
     },
