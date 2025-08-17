@@ -1,17 +1,29 @@
 [
     {
-        "name": "space-wolves-logan-grimnar.svg",
-        "cn": "太空野狼-头狼罗根格里姆纳尔",
+        "name": "space-wolves-the-wolf-that-stalks-between-the-stars.svg",
+        "cn": "太空野狼-星辰追猎之狼",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",
             "Space Marines",
-            "Space Wolves"
+            "Space Wolves",
+            "Astartes Company"
         ]
     },
     {
-        "name": "space-wolves-bloodmaws.svg",
-        "cn": "太空野狼-血红之喉",
+        "name": "space-wolves-the-bloodied-hunter.svg",
+        "cn": "太空野狼-血腥猎人",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Space Wolves",
+            "Astartes Company"
+        ]
+    },
+    {
+        "name": "space-wolves-the-bloodied-hunter-2.svg",
+        "cn": "太空野狼-血腥猎人-2",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",
@@ -32,8 +44,8 @@
         ]
     },
     {
-        "name": "space-wolves-sons-of-morkai.svg",
-        "cn": "太空野狼-莫凯之子",
+        "name": "space-wolves-the-morkai.svg",
+        "cn": "太空野狼-莫凯",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",
@@ -43,7 +55,7 @@
         ]
     },
     {
-        "name": "space-wolves-red-moons.svg",
+        "name": "space-wolves-the-wolf-of-the-red-moon.svg",
         "cn": "太空野狼-赤红之月",
         "keywords": [
             "Imperium",
@@ -54,8 +66,8 @@
         ]
     },
     {
-        "name": "space-wolves-deathwolves.svg",
-        "cn": "太空野狼-死亡之狼",
+        "name": "space-wolves-the-night-runner.svg",
+        "cn": "太空野狼-夜行者",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",
@@ -65,8 +77,8 @@
         ]
     },
     {
-        "name": "space-wolves-stormwolves.svg",
-        "cn": "太空野狼-风暴狼",
+        "name": "space-wolves-the-great-devourer.svg",
+        "cn": "太空野狼-大吞噬者",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",
@@ -76,7 +88,18 @@
         ]
     },
     {
-        "name": "space-wolves-ironwolves.svg",
+        "name": "space-wolves-the-thunderwolf.svg",
+        "cn": "太空野狼-雷狼",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Space Wolves",
+            "Astartes Company"
+        ]
+    },
+    {
+        "name": "space-wolves-the-iron-wolf.svg",
         "cn": "太空野狼-钢铁之狼",
         "keywords": [
             "Imperium",
@@ -87,8 +110,8 @@
         ]
     },
     {
-        "name": "space-wolves-drakeslayers.svg",
-        "cn": "太空野狼-屠龙者",
+        "name": "space-wolves-the-sun-wolf.svg",
+        "cn": "太空野狼-太阳之狼",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",
@@ -120,30 +143,8 @@
         ]
     },
     {
-        "name": "space-wolves-grimbloods.svg",
-        "cn": "太空野狼-血腥者",
-        "keywords": [
-            "Imperium",
-            "Adeptus Astartes",
-            "Space Marines",
-            "Space Wolves",
-            "Astartes Company"
-        ]
-    },
-    {
-        "name": "space-wolves-the-wolf-that-stalks-between-the-stars.svg",
-        "cn": "太空野狼-星辰追猎之狼",
-        "keywords": [
-            "Imperium",
-            "Adeptus Astartes",
-            "Space Marines",
-            "Space Wolves",
-            "Astartes Company"
-        ]
-    },
-    {
-        "name": "space-wolves-bloodied-hunter.svg",
-        "cn": "太空野狼-血腥猎人徽章",
+        "name": "space-wolves-the-fire-wolf.svg",
+        "cn": "太空野狼-火焰之狼",
         "keywords": [
             "Imperium",
             "Adeptus Astartes",
