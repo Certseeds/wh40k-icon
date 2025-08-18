@@ -169,7 +169,7 @@
             "Imperium",
             "Adeptus Astartes",
             "Space Marines",
-            "Imperial Fists",
+            "Ultramarines",
             "Chapter"
         ]
     },
@@ -287,6 +287,17 @@
             "Adeptus Astartes",
             "Space Marines",
             "Iron Hands",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "bringers-of-judgement.svg",
+        "cn": "审判使者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Dark Angels",
             "Chapter"
         ]
     },
@@ -451,6 +462,17 @@
             "Adeptus Astartes",
             "Space Marines",
             "Dark Angels",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "doom-eagles.svg",
+        "cn": "末日雄鹰",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Ultramarines",
             "Chapter"
         ]
     },
@@ -718,6 +740,28 @@
         ]
     },
     {
+        "name": "penitent-blades.svg",
+        "cn": "忏悔之刃",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Dark Angels",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "prime-absolvers.svg",
+        "cn": "首赦者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Dark Angels",
+            "Chapter"
+        ]
+    },
+    {
         "name": "rampagers.svg",
         "cn": "狂暴者",
         "keywords": [
@@ -919,6 +963,17 @@
             "Adeptus Astartes",
             "Space Marines",
             "Imperial Fists",
+            "Chapter"
+        ]
+    },
+    {
+        "name": "the-unnamed.svg",
+        "cn": "未名者",
+        "keywords": [
+            "Imperium",
+            "Adeptus Astartes",
+            "Space Marines",
+            "Dark Angels",
             "Chapter"
         ]
     },
