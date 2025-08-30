@@ -1,8 +1,0 @@
-User-agent: Googlebot
-Allow: /
-User-agent: Bingbot
-Allow: /
-
-User-agent: *
-Disallow: /
-Sitemap: https://certseeds.github.io/wh40k-icon/sitemap.xml
