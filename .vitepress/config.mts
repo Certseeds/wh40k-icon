@@ -55,7 +55,8 @@ export default defineConfig({
         ['meta', { property: 'keywords', content: 'vitepress, warhammer, icons, svg' }],
         ['meta', { property: 'robots', content: 'index, follow' }],
         ['meta', { property: 'author', content: 'Certseeds, shitake, farvig' }],
-        ['link', { rel: 'stylesheet', href: '/wh40k-icon/custom.css' }]
+        ['link', { rel: 'stylesheet', href: '/wh40k-icon/custom.css' }],
+        ['meta', { name: 'google-site-verification', content: 'RUZjTQhfsgxj0JmyySNM82pLKT-9thJwEbNZz372ee4' }]
     ],
     sitemap: {
         hostname: 'https://certseeds.github.io/wh40k-icon'
