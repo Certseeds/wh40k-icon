@@ -1,0 +1,320 @@
+[
+    {
+        "name": "solar-auxilia.svg",
+        "cn": "太阳辅助军",
+        "keywords": [
+            "Imperium",
+            "Great Crusade",
+            "Imperial Guard"
+        ]
+    },
+    {
+        "name": "calibanite-jaegers.svg",
+        "cn": "卡利班猎兵",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Dark Angels",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "archite-palatines.svg",
+        "cn": "王庭拱卫军",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Emperors sons",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "selucid-thorakites.svg",
+        "cn": "塞琉古胸甲军",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Iron Warriors",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "chogorian-limitanei.svg",
+        "cn": "巧高里斯戍卫军",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "White Scars",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "fenrisian-kaerls.svg",
+        "cn": "芬里斯征召军",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Space Wolves",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "inwit-phalangites.svg",
+        "cn": "因维特方阵军",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Imperial Fists",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "nostraman-damnatii.svg",
+        "cn": "诺斯特拉莫罪谴军",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Night Lords",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "saiphan-elevatii.svg",
+        "cn": "瑟芬升格者",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Blood Angels",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "medusan-chainshroud.svg",
+        "cn": "美杜莎缚链者",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Iron Hands",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "nagrakal-thraexii.svg",
+        "cn": "纳格拉卡技斗士",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "World Eaters",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "ultramar-high-guard.svg",
+        "cn": "奥特拉玛高等卫队",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Ultramarines",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "babaran-ambaxtoi.svg",
+        "cn": "巴巴鲁斯扈从军",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Death Guard",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "prospero-spireguard.svg",
+        "cn": "普洛斯佩罗尖塔守卫",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Thousand Sons",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "cthonian-headhunters-2.svg",
+        "cn": "科索尼亚猎头者-2",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Sons of Horus",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "cthonian-headhunters.svg",
+        "cn": "科索尼亚猎头者",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Sons of Horus",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "colchisian-torquatii.svg",
+        "cn": "科尔基斯受枷勋卫",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Word Bearers",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "proximan-sacramentii.svg",
+        "cn": "普罗希玛圣礼军",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Salamanders",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "therion-velites.svg",
+        "cn": "瑟利昂轻装兵",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Raven Guard",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "sparatoi-vindicta.svg",
+        "cn": "斯帕拉图报应者",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Alpha Legion",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "agathon-lord-marshals-own.svg",
+        "cn": "阿伽颂元帅亲兵",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "arkadian-janissaries-2.svg",
+        "cn": "阿尔卡迪亚加尼沙里军-2",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "arkadian-janissaries.svg",
+        "cn": "阿尔卡迪亚加尼沙里军",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "boremanite-devils.svg",
+        "cn": "博尔曼尼特魔鬼",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "byzant-janizars.svg",
+        "cn": "拜占特禁卫军",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "lethe-ash-scorpions.svg",
+        "cn": "勒忒灰烬之蝎",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "manachean-bulls.svg",
+        "cn": "马纳契公牛",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "saturnyne-rams.svg",
+        "cn": "土星公羊",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "tallarn-reborn.svg",
+        "cn": "塔兰重生军",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Great Crusade"
+        ]
+    },
+    {
+        "name": "theta-garmon-deathless.svg",
+        "cn": "塞塔加蒙不死军",
+        "keywords": [
+            "Imperium",
+            "Solar Auxilla",
+            "Legiones Auxilia",
+            "Great Crusade"
+        ]
+    }
+]

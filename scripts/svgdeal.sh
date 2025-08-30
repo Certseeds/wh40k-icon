@@ -3,8 +3,8 @@ set -euox pipefail
 main() {
     inkscape --version
     xmllint --version
-    for i in ./*.jpg; do
-        if [[ "${i}" == "./*.jpg" ]]; then
+    for i in ./*.avif; do
+        if [[ "${i}" == "./*.avif" ]]; then
             continue
         fi
         echo ${i}
