@@ -26,8 +26,9 @@
             "Imperium",
             "Solar Auxilla",
             "Legiones Auxilia",
-            "Emperors sons",
-            "Great Crusade"
+            "Emperors Children",
+            "Great Crusade",
+            "Regades"
         ]
     },
     {
@@ -38,7 +39,8 @@
             "Solar Auxilla",
             "Legiones Auxilia",
             "Iron Warriors",
-            "Great Crusade"
+            "Great Crusade",
+            "Regades"
         ]
     },
     {
@@ -82,7 +84,8 @@
             "Solar Auxilla",
             "Legiones Auxilia",
             "Night Lords",
-            "Great Crusade"
+            "Great Crusade",
+            "Regades"
         ]
     },
     {
@@ -115,7 +118,8 @@
             "Solar Auxilla",
             "Legiones Auxilia",
             "World Eaters",
-            "Great Crusade"
+            "Great Crusade",
+            "Regades"
         ]
     },
     {
@@ -137,7 +141,8 @@
             "Solar Auxilla",
             "Legiones Auxilia",
             "Death Guard",
-            "Great Crusade"
+            "Great Crusade",
+            "Regades"
         ]
     },
     {
@@ -148,7 +153,8 @@
             "Solar Auxilla",
             "Legiones Auxilia",
             "Thousand Sons",
-            "Great Crusade"
+            "Great Crusade",
+            "Regades"
         ]
     },
     {
@@ -159,7 +165,8 @@
             "Solar Auxilla",
             "Legiones Auxilia",
             "Sons of Horus",
-            "Great Crusade"
+            "Great Crusade",
+            "Regades"
         ]
     },
     {
@@ -170,7 +177,8 @@
             "Solar Auxilla",
             "Legiones Auxilia",
             "Sons of Horus",
-            "Great Crusade"
+            "Great Crusade",
+            "Regades"
         ]
     },
     {
@@ -181,7 +189,8 @@
             "Solar Auxilla",
             "Legiones Auxilia",
             "Word Bearers",
-            "Great Crusade"
+            "Great Crusade",
+            "Regades"
         ]
     },
     {
@@ -214,7 +223,8 @@
             "Solar Auxilla",
             "Legiones Auxilia",
             "Alpha Legion",
-            "Great Crusade"
+            "Great Crusade",
+            "Regades"
         ]
     },
     {
@@ -223,7 +233,6 @@
         "keywords": [
             "Imperium",
             "Solar Auxilla",
-            "Legiones Auxilia",
             "Great Crusade"
         ]
     },
@@ -233,8 +242,8 @@
         "keywords": [
             "Imperium",
             "Solar Auxilla",
-            "Legiones Auxilia",
-            "Great Crusade"
+            "Great Crusade",
+            "Regades"
         ]
     },
     {
@@ -243,8 +252,8 @@
         "keywords": [
             "Imperium",
             "Solar Auxilla",
-            "Legiones Auxilia",
-            "Great Crusade"
+            "Great Crusade",
+            "Regades"
         ]
     },
     {
@@ -253,7 +262,6 @@
         "keywords": [
             "Imperium",
             "Solar Auxilla",
-            "Legiones Auxilia",
             "Great Crusade"
         ]
     },
@@ -263,8 +271,8 @@
         "keywords": [
             "Imperium",
             "Solar Auxilla",
-            "Legiones Auxilia",
-            "Great Crusade"
+            "Great Crusade",
+            "Regades"
         ]
     },
     {
@@ -274,6 +282,7 @@
             "Imperium",
             "Solar Auxilla",
             "Legiones Auxilia",
+            "Salamanders",
             "Great Crusade"
         ]
     },
@@ -283,7 +292,6 @@
         "keywords": [
             "Imperium",
             "Solar Auxilla",
-            "Legiones Auxilia",
             "Great Crusade"
         ]
     },
@@ -293,7 +301,6 @@
         "keywords": [
             "Imperium",
             "Solar Auxilla",
-            "Legiones Auxilia",
             "Great Crusade"
         ]
     },
@@ -303,7 +310,6 @@
         "keywords": [
             "Imperium",
             "Solar Auxilla",
-            "Legiones Auxilia",
             "Great Crusade"
         ]
     },
@@ -313,8 +319,8 @@
         "keywords": [
             "Imperium",
             "Solar Auxilla",
-            "Legiones Auxilia",
-            "Great Crusade"
+            "Great Crusade",
+            "Regades"
         ]
     }
 ]
