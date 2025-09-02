@@ -55,6 +55,11 @@ export default defineConfig({
         ['meta', { property: 'keywords', content: 'vitepress, warhammer, icons, svg' }],
         ['meta', { property: 'robots', content: 'index, follow' }],
         ['meta', { property: 'author', content: 'Certseeds, shitake, farvig' }],
+        ['meta', { property: 'copyleft', content: 'CC-BY-NC-SA-4.0 AND AGPL-3.0-or-later AND OFL-1.1-RFN' }],
+        ['meta', { name: 'license', content:  'CC-BY-NC-SA-4.0 AND AGPL-3.0-or-later AND OFL-1.1-RFN' }],
+        ['link', { rel: 'license', href: "https://creativecommons.org/licenses/by-nc-sa/4.0/" }],
+        ['link', { rel: 'license', href: "https://spdx.org/licenses/OFL-1.1-RFN.html" }],
+        ['link', { rel: 'license', href: "https://spdx.org/licenses/AGPL-3.0-or-later.html" }],
         ['link', { rel: 'stylesheet', href: '/wh40k-icon/custom.css' }],
         ['meta', { name: 'google-site-verification', content: 'RUZjTQhfsgxj0JmyySNM82pLKT-9thJwEbNZz372ee4' }]
     ],
