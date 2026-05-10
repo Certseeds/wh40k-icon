@@ -46,9 +46,9 @@
     ],
     "license": "(OFL-1.1-RFN AND AGPL-3.0-or-later AND CC-BY-NC-SA-4.0)",
     "devDependencies": {
-        "svgtofont": "^6.5.1",
+        "svgtofont": "^6.5.2",
         "vitepress": "^1.6.4",
-        "vue": "^3.5.31"
+        "vue": "^3.5.34"
     },
     "files": [
         "dist/",
