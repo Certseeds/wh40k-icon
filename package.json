@@ -48,7 +48,7 @@
     "devDependencies": {
         "svgtofont": "^6.5.2",
         "vitepress": "2.0.0-alpha.17",
-        "vue": "^3.5.34"
+        "vue": "^3.5.35"
     },
     "files": [
         "dist/",
@@ -56,5 +56,11 @@
         "LICENSE_AGPL_V3_0.md",
         "LICENSE_CC_BY_NC_SA_V4_0.md",
         "LICENSE_OFL_1_1_RFN.md"
-    ]
+    ],
+    "pnpm": {
+        "overrides": {
+            "safe-buffer": "npm:@nolyfill/safe-buffer@^1",
+            "safer-buffer": "npm:@nolyfill/safer-buffer@^1"
+        }
+    }
 }
