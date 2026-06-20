@@ -48,7 +48,7 @@
     "devDependencies": {
         "svgtofont": "^6.5.2",
         "vitepress": "2.0.0-alpha.17",
-        "vue": "^3.5.35"
+        "vue": "^3.5.38"
     },
     "files": [
         "dist/",
