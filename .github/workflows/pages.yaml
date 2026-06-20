@@ -16,19 +16,19 @@ jobs:
     runs-on: ubuntu-latest
     environment: github-pages
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0
 
-      - uses: pnpm/action-setup@v4
+      - uses: pnpm/action-setup@v5
         name: Install pnpm
         with:
           version: 10
           run_install: false
 
       - name: Install Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           node-version: 24
           cache: 'pnpm'
@@ -51,7 +51,7 @@ jobs:
         run: pnpm run docs:build
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./.vitepress/dist
 
@@ -75,4 +75,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
