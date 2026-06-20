@@ -1,6 +1,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<svg version="1.1" id="svg1" width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg"
+<svg version="1.1" id="svg1" width="800" height="800" viewBox="0 0 800 800"
+    xmlns="http://www.w3.org/2000/svg"
     xmlns:svg="http://www.w3.org/2000/svg">
     <g id="g1">
         <g id="g2">
@@ -29,7 +30,8 @@
                 id="path3" />
         </g>
     </g>
-    <g transform="translate(0.000000,800.000000) scale(0.100000,-0.100000)" fill="#EEEEEE" stroke="none" id="g23">
+    <g transform="translate(0.000000,800.000000) scale(0.100000,-0.100000)" fill="#EEEEEE"
+        stroke="none" id="g23">
         <path
             d="M5215 7883 c-87 -18 -202 -71 -272 -124 l-53 -40 3 -133 2 -133 -46 -69 c-79 -120 -78 -117 -65 -147 l11 -28 55 42 c102 77 178 99 201 58 20 -38 7 -186 -21 -244 -14 -28 -23 -54 -22 -58 1 -5 -8 -17 -20 -27 -17 -14 -19 -19 -8 -20 8 0 24 13 34 29 17 25 24 28 58 23 53 -7 178 15 230 40 96 46 118 75 133 175 8 54 48 112 106 157 79 60 99 411 27 483 -33 32 -235 42 -353 16z"
             id="path13" />
