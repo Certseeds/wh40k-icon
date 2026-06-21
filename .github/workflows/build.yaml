@@ -10,22 +10,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: certseeds/common-actions/actions/checkout@v1
         with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0
 
-      - uses: pnpm/action-setup@v5
-        name: Install pnpm
-        with:
-          version: 10
-          run_install: false
+      - uses: certseeds/common-actions/actions/setup-pnpm@v1
 
       - name: Install Node.js
-        uses: actions/setup-node@v6
-        with:
-          node-version: 24
-          cache: 'pnpm'
+        uses: certseeds/common-actions/actions/setup-node@v1
 
       - name: Install dependencies
         run: pnpm install
@@ -33,14 +25,14 @@ jobs:
       - name: build
         run: pnpm build
 
-      - uses: actions/upload-artifact@v7
+      - uses: certseeds/common-actions/actions/upload-artifact@v1
         with:
           name: wh40k-icon
           path: ./dist
           compression-level: 9
           retention-days: 12
 
-      - uses: JS-DevTools/npm-publish@v4
+      - uses: certseeds/common-actions/actions/deploy-npm@v1
         if: startsWith(github.ref, 'refs/tags/')
         with:
           token: ${{ secrets.NPM_TOKEN }}
