@@ -101,7 +101,7 @@
             stroke-miterlimit="4" stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1" />
         <ellipse id="path909-16-4" cx="107.80167" cy="233.97844" rx="1.1417047" ry="2.1072109" opacity="1" fill="none"
             fill-opacity="1" stroke="#000000" stroke-width="0.51988775" stroke-linecap="round" stroke-linejoin="miter"
-            stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1" paint-order="markers fill stroke"/>
+            stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1" paint-order="markers fill stroke" />
         <path id="path1187"
             d="m 80.602346,190.687 0.26204,5.62012 m 1.444475,-4.17549 0.315102,5.6718 m 1.260397,-5.77682 0.210067,5.35669 m 1.680706,-7.06416 0.104685,6.11952 m 0.353786,-6.51798 c 0,0 -2.00717,2.5326 -3.416407,2.37664 -1.053198,-0.11655 -2.970788,-2.52517 -2.970788,-2.52517"
             fill="none" stroke="#000000" stroke-width="0.51988775" stroke-linecap="butt" stroke-linejoin="miter"
@@ -170,7 +170,7 @@
         <ellipse ry="1.4704647" rx="1.6280144" cy="164.96918" cx="-154.12952" id="ellipse904"
             transform="rotate(-74.353567)" opacity="1" fill="none" fill-opacity="1" stroke="#000000"
             stroke-width="0.51988775" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4"
-            stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1" paint-order="markers fill stroke"/>
+            stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1" paint-order="markers fill stroke" />
         <path id="ellipse906"
             d="m 110.57059,169.81987 a 0.78538975,1.2170441 58.346139 0 1 -0.17372,1.25896 0.78538975,1.2170441 58.346139 0 1 -1.56719,0.35321 0.78538975,1.2170441 58.346139 0 1 0.17372,-1.25898 0.78538975,1.2170441 58.346139 0 1 1.56719,-0.35319 z m 0.81008,10.20656 -2.94093,-5.3567 4.83152,0.6302 -4.83153,-4.30636"
             opacity="1" fill="none" fill-opacity="1" stroke="#000000" stroke-width="0.51988775" stroke-linecap="butt"
@@ -184,7 +184,7 @@
         <ellipse transform="matrix(0.20129529,-0.9795306,0.93424897,0.35662146,0,0)" id="ellipse912" cx="-188.94942"
             cy="154.8788" rx="0.74004126" ry="0.51421303" opacity="1" fill="none" fill-opacity="1" stroke="#000000"
             stroke-width="0.52332377" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4"
-            stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1" paint-order="markers fill stroke"/>
+            stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1" paint-order="markers fill stroke" />
         <ellipse ry="1.0293732" rx="0.72185725" cy="200.47186" cx="-227.17857" id="ellipse914"
             transform="matrix(0.43651786,-0.89969559,0.98718071,0.15960654,0,0)" opacity="1" fill="none"
             fill-opacity="1" stroke="#000000" stroke-width="0.5312081" stroke-linecap="butt" stroke-linejoin="miter"
@@ -193,7 +193,7 @@
         <ellipse transform="matrix(0.346495,-0.93805182,0.97818498,0.20773578,0,0)" id="ellipse916" cx="-230.13211"
             cy="175.09477" rx="0.67041677" ry="0.76583821" opacity="1" fill="none" fill-opacity="1" stroke="#000000"
             stroke-width="0.52262104" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4"
-            stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1" paint-order="markers fill stroke"/>
+            stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1" paint-order="markers fill stroke" />
         <ellipse ry="0.7626605" rx="0.62623662" cy="183.84703" cx="-220.92722" id="ellipse918"
             transform="matrix(0.37054351,-0.92881511,0.98121136,0.19293592,0,0)" opacity="1" fill="none"
             fill-opacity="1" stroke="#000000" stroke-width="0.52440268" stroke-linecap="butt" stroke-linejoin="miter"
@@ -215,7 +215,7 @@
         </g>
         <ellipse ry="1.0345254" rx="1.0891232" cy="246.22214" cx="90.766106" id="ellipse931" opacity="1" fill="none"
             fill-opacity="1" stroke="#000000" stroke-width="0.51988775" stroke-linecap="round" stroke-linejoin="miter"
-            stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1" paint-order="markers fill stroke"/>
+            stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1" paint-order="markers fill stroke" />
         <path d="m 92.216116,259.70762 c 1.182838,-0.20468 1.737782,1.48917 0.220616,1.48917" id="path933" fill="none"
             stroke="#000000" stroke-width="0.51988775" stroke-linecap="butt" stroke-linejoin="miter"
             stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1" />
@@ -243,13 +243,13 @@
             stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1" />
         <ellipse id="ellipse1024" cx="89.577797" cy="238.05247" rx="1.0891232" ry="1.0345254" opacity="1" fill="none"
             fill-opacity="1" stroke="#000000" stroke-width="0.51988775" stroke-linecap="round" stroke-linejoin="miter"
-            stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1" paint-order="markers fill stroke"/>
+            stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1" paint-order="markers fill stroke" />
         <ellipse ry="1.0345254" rx="1.0891232" cy="236.12144" cx="94.033981" id="ellipse1026" opacity="1" fill="none"
             fill-opacity="1" stroke="#000000" stroke-width="0.51988775" stroke-linecap="round" stroke-linejoin="miter"
-            stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1" paint-order="markers fill stroke"/>
+            stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1" paint-order="markers fill stroke" />
         <ellipse id="ellipse1028" cx="94.628136" cy="244.5882" rx="1.0891232" ry="1.0345254" opacity="1" fill="none"
             fill-opacity="1" stroke="#000000" stroke-width="0.51988775" stroke-linecap="round" stroke-linejoin="miter"
-            stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1" paint-order="markers fill stroke"/>
+            stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1" paint-order="markers fill stroke" />
         <path
             d="m 110.34838,184.0184 c -6.43285,6.88195 1.34471,4.02844 1.64339,4.52544 -4.58047,1.63807 -4.78683,6.84732 0.57676,4.20121"
             id="path1030" fill="none" stroke="#000000" stroke-width="0.51988775" stroke-linecap="butt"
@@ -267,11 +267,11 @@
         <ellipse transform="matrix(0.21391985,-0.97685122,0.94142326,0.3372273,0,0)" id="ellipse1038" cx="-153.29071"
             cy="157.21545" rx="1.3923661" ry="1.0203185" opacity="1" fill="none" fill-opacity="1" stroke="#000000"
             stroke-width="0.52204043" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4"
-            stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1" paint-order="markers fill stroke"/>
+            stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1" paint-order="markers fill stroke" />
         <ellipse transform="matrix(0.27467512,0.96153709,0.9643029,-0.26480164,0,0)" id="ellipse1040" cx="187.21292"
             cy="67.616241" rx="1.8612086" ry="1.7096885" opacity="1" fill="none" fill-opacity="1" stroke="#000000"
             stroke-width="0.51990145" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4"
-            stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1" paint-order="markers fill stroke"/>
+            stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1" paint-order="markers fill stroke" />
         <path
             d="m 119.72828,174.26487 c -6.37004,-2.25284 0.12851,-3.15944 0.24459,-3.59708 -3.81787,0.56215 -5.11999,-2.82274 -0.48917,-2.99756"
             id="path1042" fill="none" stroke="#000000" stroke-width="0.51988775" stroke-linecap="butt"
@@ -287,7 +287,7 @@
             stroke-linejoin="miter" stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1" />
         <ellipse ry="2.1072109" rx="1.1417047" cy="228.77957" cx="104.23672" id="ellipse1048" opacity="1" fill="none"
             fill-opacity="1" stroke="#000000" stroke-width="0.51988775" stroke-linecap="round" stroke-linejoin="miter"
-            stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1" paint-order="markers fill stroke"/>
+            stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1" paint-order="markers fill stroke" />
         <path id="path1050"
             d="m 113.16124,215.68473 c -3.70033,-0.64541 -1.64621,3.62374 -0.14957,2.32901 1.82833,-1.58169 -7.64754,-0.33198 -1.19653,2.4584 m 0.77933,-6.94668 c -2.90674,-0.83648 -1.00497,3.4804 0,1.47046 0.24372,-0.48744 0.29898,-0.87249 0,-1.47046 z"
             fill="none" stroke="#000000" stroke-width="0.51988775" stroke-linecap="butt" stroke-linejoin="miter"
@@ -319,11 +319,11 @@
             stroke-linejoin="miter" stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1" />
         <ellipse ry="1.0345254" rx="1.0891232" cy="213.05458" cx="79.914749" id="ellipse1067" opacity="1" fill="none"
             fill-opacity="1" stroke="#000000" stroke-width="0.51988775" stroke-linecap="round" stroke-linejoin="miter"
-            stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1" paint-order="markers fill stroke"/>
+            stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1" paint-order="markers fill stroke" />
         <ellipse ry="1.4704647" rx="1.6280144" cy="121.31161" cx="-111.16543" id="ellipse1069"
             transform="rotate(-74.353567)" opacity="1" fill="none" fill-opacity="1" stroke="#000000"
             stroke-width="0.51988775" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4"
-            stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1" paint-order="markers fill stroke"/>
+            stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1" paint-order="markers fill stroke" />
         <path id="path1073"
             d="m 104.68132,140.21379 c 0,0 0.67462,0.64365 1.02615,0.44472 0.3179,-0.17987 0.71997,-0.78197 0.65428,-1.29759 l -0.33924,-2.6625 -2.30825,1.18842 c 0.86469,-1.08172 -0.17875,-1.65587 -0.0165,-3.15095 0.0327,-0.23886 0.13338,-0.53504 0.27792,-0.59992 0.42393,-0.19023 1.12069,0.89073 1.12069,0.89073 -0.34047,-2.59766 -0.69553,-4.17896 -2.26698,-3.66362 l 2.40048,-1.32789 c -0.0775,-1.22449 -0.42376,-2.25398 -1.1103,-2.34074"
             fill="none" stroke="#000000" stroke-width="0.51988775" stroke-linecap="butt" stroke-linejoin="miter"
@@ -331,7 +331,7 @@
         <ellipse transform="matrix(0.21391985,-0.97685122,0.94142326,0.3372273,0,0)" id="ellipse1075" cx="-98.745201"
             cy="110.16325" rx="1.3923661" ry="1.0203185" opacity="1" fill="none" fill-opacity="1" stroke="#000000"
             stroke-width="0.52204043" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4"
-            stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1" paint-order="markers fill stroke"/>
+            stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1" paint-order="markers fill stroke" />
         <circle r="0.62386537" cy="127.71968" cx="83.938271" id="circle1079" opacity="1" fill="#000000" fill-opacity="1"
             stroke="none" stroke-width="0.51988775" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4"
             stroke-dasharray="none" stroke-opacity="1" paint-order="markers fill stroke" />

@@ -1,6 +1,5 @@
-<svg version="1.0" width="250pt" height="205pt" viewBox="0 0 250 205"
-    preserveAspectRatio="xMidYMid meet" id="svg28" xmlns="http://www.w3.org/2000/svg"
-    xmlns:svg="http://www.w3.org/2000/svg">
+<svg version="1.0" width="250pt" height="205pt" viewBox="0 0 250 205" preserveAspectRatio="xMidYMid meet" id="svg28"
+    xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
     <g transform="translate(0,205) scale(0.1,-0.1)" fill="#C6C6AA" stroke="none" id="g26">
         <path fill="#d8b42c"
             d="M1540 1477 c-97 -55 -155 -92 -207 -134 -37 -30 -41 -37 -30 -54 10 -16 7 -23 -21 -52 -41 -42 -40 -62 7 -117 l39 -44 106 98 c97 91 105 100 91 116 -21 23 -20 28 26 90 23 30 52 69 65 86 41 55 11 59 -76 11z"
@@ -19,7 +18,7 @@
             d="M797 805 c-91 -89 -96 -96 -77 -107 30 -19 25 -42 -21 -104 -35 -48 -39 -58 -27 -70 12 -12 24 -7 88 36 41 27 79 50 84 50 21 0 86 63 82 79 -7 20 11 42 102 121 57 50 70 66 61 76 -9 11 -18 8 -46 -16 -42 -37 -45 -37 -100 0 -24 17 -45 30 -46 30 -1 -1 -46 -43 -100 -95z"
             id="path20" />
         <path d="M1082 826 c-45 -48 -51 -66 -28 -85 11 -9 25 -5 62 17 57 33 63 50 32 87 l-24 27 -42 -46z" id="path22" />
-        <path 
+        <path
             d="M1295 830 c-3 -6 -40 -29 -82 -52 -104 -57 -131 -81 -117 -105 18 -28 73 -18 150 27 36 21 79 54 94 72 26 30 27 34 13 51 -18 19 -48 23 -58 7z"
             id="path24" />
     </g>

@@ -19,6 +19,9 @@ importers:
       vitepress:
         specifier: 2.0.0-alpha.17
         version: 2.0.0-alpha.17(@types/node@25.9.3)(jiti@2.7.0)(postcss@8.5.15)(yaml@2.9.0)
+      vscode-html-languageservice:
+        specifier: ^5.6.2
+        version: 5.6.2
       vue:
         specifier: ^3.5.38
         version: 3.5.38
@@ -454,6 +457,9 @@ packages:
     peerDependencies:
       vite: ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0
       vue: ^3.2.25
+
+  '@vscode/l10n@0.0.18':
+    resolution: {integrity: sha512-KYSIHVmslkaCDyw013pphY+d7x1qV8IZupYfeIfzNA+nsaWHbn5uPuQRvdRFsa9zFzGeudPuoGoZ1Op4jrJXIQ==}
 
   '@vue/compiler-core@3.5.38':
     resolution: {integrity: sha512-s99aGxWYig9ErHbct27KXEGhrBYlRI6c4MwAgXErOAbX9xiW37/uMa+XUDO69zLz83dng8UUZ70CTOJrLrYrEQ==}
@@ -1385,6 +1391,18 @@ packages:
       postcss:
         optional: true
 
+  vscode-html-languageservice@5.6.2:
+    resolution: {integrity: sha512-ulCrSnFnfQ16YzvwnYUgEbUEl/ZG7u2eV27YhvLObSHKkb8fw1Z9cgsnUwjTEeDIdJDoTDTDpxuhQwoenoLNMg==}
+
+  vscode-languageserver-textdocument@1.0.12:
+    resolution: {integrity: sha512-cxWNPesCnQCcMPeenjKKsOCKQZ/L6Tv19DTRIGuLWe32lyzWhihGVJ/rcckZXJxfdKCFvRLS3fpBIsV/ZGX4zA==}
+
+  vscode-languageserver-types@3.18.0:
+    resolution: {integrity: sha512-8TsGPNMIMiiBdkORgRSvLjuiEIiAFtO+KssmYWxQ+uSVvlf7RjK8YKCOjPzZ+YA04jXEV7+7LvkSmHkhpNS99g==}
+
+  vscode-uri@3.1.0:
+    resolution: {integrity: sha512-/BpdSx+yCQGnCvecbyXdxHDkuk55/G3xwnC0GqY4gmQ3j+A+g8kzzgB4Nk/SINjqn6+waqw3EgbVF2QKExkRxQ==}
+
   vue@3.5.38:
     resolution: {integrity: sha512-vAMKHfImQlYSy0C+PBue4s3ERZ2xGKfgZg5GXAsLInq1dyh2H78ILVP5sK0KPFPVW4kv+OGCIvBEondcjpZp7A==}
     peerDependencies:
@@ -1751,6 +1769,8 @@ snapshots:
       '@rolldown/pluginutils': 1.0.1
       vite: 7.3.5(@types/node@25.9.3)(jiti@2.7.0)(yaml@2.9.0)
       vue: 3.5.38
+
+  '@vscode/l10n@0.0.18': {}
 
   '@vue/compiler-core@3.5.38':
     dependencies:
@@ -2791,6 +2811,19 @@ snapshots:
       - typescript
       - universal-cookie
       - yaml
+
+  vscode-html-languageservice@5.6.2:
+    dependencies:
+      '@vscode/l10n': 0.0.18
+      vscode-languageserver-textdocument: 1.0.12
+      vscode-languageserver-types: 3.18.0
+      vscode-uri: 3.1.0
+
+  vscode-languageserver-textdocument@1.0.12: {}
+
+  vscode-languageserver-types@3.18.0: {}
+
+  vscode-uri@3.1.0: {}
 
   vue@3.5.38:
     dependencies:
